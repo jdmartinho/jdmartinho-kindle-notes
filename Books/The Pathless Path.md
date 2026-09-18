@@ -1,0 +1,811 @@
+---
+author: Paul Millerd
+keywords:
+- work
+- career
+- creativity
+- money
+- psychology
+- relationships
+- self-development
+- philosophy
+tags:
+- books
+- highlights
+- work
+- career
+- creativity
+- money
+- psychology
+- relationships
+- self-development
+- philosophy
+title: The Pathless Path
+type: book
+---
+
+# The Pathless Path
+
+**Author:** Paul Millerd
+
+## Highlights
+
+-   With every new job, I convinced myself I was thriving. But what I
+    was really doing was trying to escape feeling stuck. I was too
+    afraid to have a deeper conversation with myself. The kind that
+    might pull me towards a different kind of life. Why
+
+-   In describing the power of the inner ring, C.S. Lewis warns that,
+    "unless you take measures to prevent it, this desire is going to be
+    one of the chief motives of your life, from the first day on which
+    you enter your profession until the day when you are too old to
+    care." He believed "any other kind of life, if you lead it, will be
+    the result of conscious and continuous effort."
+
+-   The philosopher Andrew Taggart believes that crisis moments lead to
+    "existential openings" that force us to grapple with the deepest
+    questions about life.16 He argues there are two typical ways this
+    happens. One is the "way of loss," when things that matter are taken
+    from us, such as loved ones, our health, or a job. The other path is
+    the "way of wonderment," when we are faced with moments of
+    undeniable awe and inspiration.
+
+-   a "traditionalist" view of work is one where people work as much as
+    they need to maintain their current lifestyle, and once that aim is
+    achieved, they stop working.
+
+-   My generation entered the workforce with high expectations. We
+    didn't want to see work merely as an obligation, we also wanted it
+    to be meaningful and fulfilling. We wanted the modern version of the
+    "calling" that Oprah talked about.
+
+-   "How do you design a life that doesn't put work first?" The answer,
+    my dear reader, is simple. You start underachieving at work. You
+    stop setting an alarm and you cancel morning meetings because the
+    energy gained is worth fighting for. You start working remotely on
+    Fridays without asking because the extra 24 hours with your
+    grandmother is worth it. You start taking naps at the office because
+    there's a nap room and someone has to use it, right?
+
+-   It took a year and a half for me to admit I did not enjoy my job. I
+    had spent years crafting an idea of who I thought I should be and
+    working hard to find jobs that matched this idea. It was hard to
+    admit that the foundation that I thought I had been building was
+    incredibly fragile.
+
+-   From my perspective now, I had no future at the company, and by the
+    time I had that conversation about my performance with my manager,
+    things were already headed south. Yet I was still working hard on my
+    proposal for promotion, outlining a multi-year career path for my
+    position. Based on the experiences of others who leave the default
+    path, this stage of contradiction is common. You take a last stand,
+    doubling down on the existing path despite all evidence that it is
+    no longer working. My biggest barrier was my inability to imagine an
+    alternative life. My creative experiments were exciting, but they
+    didn't suggest an obvious next step. It was easier to aim toward
+    another raise or promotion than daring to ask myself deeper
+    questions.
+
+-   After rejecting the job offer, I took time to reflect on what I
+    wanted. I revisited a letter I had written for a leadership class
+    during business school. In it, I defined a leader broadly as someone
+    that could be a "role model in all aspects of their life." I
+    specifically listed nine principles, a collection of phrases,
+    quotes, ideas, and beliefs that I hoped to embody throughout my
+    career. Some examples included a desire to lead with empathy, to
+    embrace humility, to inject humor wherever possible, to avoid
+    becoming too serious, to prioritize learning, to think
+    independently, and to create memorable experiences for others
+    through my work. I decided to turn this into a self-assessment and
+    reviewed each of the nine principles, scoring myself on a scale of
+    one to ten. A few areas earned low scores. First, my curiosity and
+    passion for learning at work were nonexistent. Second, I was
+    struggling to think independently in a positive way. I was becoming
+    cynical and confrontational rather than looking for ways to have a
+    positive impact. Finally, I had become too serious about work. At
+    some point, I had lost my sense of humor and was spending far too
+    much time getting caught up in company politics. Simply put, I was a
+    curmudgeon at work, increasingly cynical about the intentions of
+    leaders, not learning anything beyond the latest office gossip.
+
+-   People dedicate themselves to being "good workers," and being
+    successful means keeping clients, customers, and managers happy
+    while fitting into a company's cultural norms. Unfortunately,
+    success for the company does not always align with what is best for
+    the person, and over time, a disconnect can emerge. This is what
+    happened to me.
+
+-   A German report on burnout found that when burned out, people "may
+    start being cynical about their working conditions and their
+    colleagues..." and may "...distance themselves emotionally and start
+    feeling numb about their work."54 This is the tricky thing about
+    burnout. If you are suffering from burnout, you are likely not
+    thriving at work, and over time it's easy to see yourself as the
+    cause. Add to this the common assumption that you should never leave
+    a job too soon and you get a world in which millions of people are
+    experiencing the slow, marginal creep of burnout and have no way
+    out.
+
+-   Pieper argued that for most of history, leisure was one of the most
+    important parts of life for people in many cultures. He noted that
+    the ancient Greek translation for "work" was literally
+    "not-at-leisure." In Aristotle's own words, "we are not-at-leisure
+    in order to be-at-leisure." Now, this is flipped. We work to earn
+    time off and see leisure as a break from work. Pieper pointed out
+    that people "mistake leisure for idleness, and work for creativity."
+    To Pieper, leisure was above work. It was "a condition of the soul,"
+    and the "disposition of receptive understanding, of contemplative
+    beholding, and immersion -- in the real."
+
+-   "If work dominated your every moment, would life be worth living?"
+    My answer was becoming a clear "no," but I didn't know what this
+    meant for my life. Eventually, I reached out to Taggart directly and
+    he proposed three more specific questions: Are you a worker? If you
+    are not a worker, then who are you? Given who you are, what life is
+    sufficient?
+
+-   One challenge to embracing possibility is knowing when to override
+    what psychology professors Gilovich and Davidai call our "'ought to'
+    self." This is the voice that helps us follow through on commitments
+    but can also keep us from making changes in our lives. This is the
+    voice that might convince you that leaving a job is an abdication of
+    responsibility. We "ought to" keep working. This impulse is helpful
+    most of the time, but compounded over one's life it stops us from
+    moving towards what Gilovich and Davidai call our "ideal self." When
+    people reflect on their lives, these are the things that people
+    regret most -- not moving towards their ideal selves. The professors
+    argue that people rarely regret the things they do in their lives.
+    This is exactly because of the power of our "ought to" selves --
+    even if we fail, we tend to take immediate action to fix those
+    mistakes.67
+
+-   Opening yourself up to the possibilities for your life can help you
+    decide to make a life shift, but it will not help you deal with the
+    uncertainty of being on a path that others don't fully understand.
+
+-   Aspirational pursuits go hand in hand with the pathless path because
+    they can appear incomprehensible to others and even yourself,
+    sometimes for years. Callard argues that the aspirant's
+    understanding of the value of their pursuits "is characterized by a
+    distinctive kind of vagueness, one she experiences as defective and
+    in need of remedy."
+
+-   Although people considering the option of leaving the default path
+    can list hundreds of things that might go wrong, they struggle to
+    talk about the fears behind those risks. In hundreds of
+    conversations with people, I've found that these fears fall into one
+    of the following five areas: Success: "What if I'm not good enough?"
+    Money: "What happens if I go broke?" Health: "What if I get sick?"
+    Belonging: "Will I still be loved?" Happiness: "What if I am not
+    happy?" During my first few years of self-employment, these fears
+    overwhelmed me, but Tim Ferriss' "fear setting" reflection exercise
+    helped me reframe them and see fear in a completely new way.74 The
+    exercise has six steps. The first four are straightforward: Write
+    down the change you are making. List the worst possible outcomes.
+    Identify actions you could take to mitigate those actions. List some
+    steps or actions you might take to get back to where you are today.
+    Writing about fears has helped me transform abstract worries into
+    concrete issues. When I wrote that I was afraid of going broke after
+    I quit my job, I realized that there were fifty different things I
+    could do to make money.
+
+-   However, some fear-related problems cannot be solved. The authors of
+    Designing Your Life offer a helpful reframe, calling these issues
+    "gravity problems" which are part of life "...but, like gravity,
+    it's not a problem that can be solved."75 This phrase helps me sit
+    with my discomfort when I worry about my health. Due to lingering
+    health issues, I sometimes go long stretches with very little
+    energy. Reminding myself that this is a fact of life, like gravity,
+    helps me accept the uncertainties of life and the pathless path. The
+    final two questions of Ferriss' exercise are the most powerful: What
+    could be some benefits of an attempt or partial success? What is the
+    cost of inaction in three months, 12 months, and in a few years?
+    This shifts the focus from the future, which is inherently
+    uncertain, to the present, which helps us see our tendency to
+    overestimate future costs and underestimate costs related to the
+    status quo.
+
+-   In my first year of self-employment, I knew I wanted to stay on my
+    path, but lacking Callard's language of an aspirational journey, I
+    didn't know how to make any sort of compelling case for why this was
+    true. I shied away from criticism and questions from others, fearful
+    that they would throw me into self-doubt. To protect myself, I
+    overcorrected and developed something my friend Visakan Veerasamy
+    calls "preemptive defensiveness." I saw myself in opposition to the
+    world, seeing the simplest question as an attack on everything I
+    stood for.
+
+-   There's a phrase in Chinese, "wu wei," that describes how I felt. In
+    English, its translation is "non-doing," but not in the sense of
+    doing nothing. Non-doing is not about escaping anything or being
+    lazy but instead refers to a deep level of connectedness with the
+    world. The Chinese philosopher Lao Tzu wrote about this more than
+    2,500 years ago in the Tao Te Ching: "Less and less do you need to
+    force things until finally you arrive at non-action. When nothing is
+    done, nothing is left undone. True mastery can be gained by letting
+    things go their own way. It can't be gained by interfering."78 More
+    recently, John Steinbeck channeled this sentiment in a letter to his
+    son, telling him, "If it is right, it happens---The main thing is
+    not to hurry. Nothing good gets away."79
+
+-   I started to wonder if taking a break from work and embracing states
+    of non-doing were effective ways to improve life satisfaction. I was
+    starting to realize a profound and positive shift in how I was
+    thinking about my life and wondered if others had similar results. I
+    reached out to people who had taken such breaks and found that most
+    people credited these breaks from work as one of the most important
+    things in helping them see the possibilities in their life. I also
+    started to notice that many of the shifts that people experienced
+    were somewhat predictable. Four stand out: First, people become
+    aware of their own suffering. Often we don't notice our drift into a
+    state of low-grade anxiety until we step away from what causes it,
+    as I noticed the first day after I quit my job and realized I was
+    burned out. After my friend, Kevin Jurczyk, took a planned
+    sabbatical, he shared with me, "I used to think 'this job isn't so
+    bad, I make enough money to make it worth it.' Then you get a breath
+    of freedom and realize, no, it may have been worth it at one point,
+    but not anymore."
+
+-   Second, curiosity re-emerges. When people have time, they try new
+    activities, revisit old hobbies, explore childhood curiosities, and
+    start volunteering and connecting with people in their community.
+    Edward, a friend and a doctor who has taken several sabbaticals,
+    reflected that "new ideas often pop up and old topics of interest
+    float back into my consciousness. I find myself writing notes and
+    thinking more freely. This is the creative process, liberated by the
+    neocortex now that the mind isn't wholly occupied by the strain of
+    everyday sustenance, the rat race, and the grind."84 Third, people
+    often desire to continue their "non-work" journey. Lenny Rachitsky,
+    who took a sabbatical after a long career in product management,
+    thought he would return to work, "...but by the end of the break, it
+    was crystal clear to me that I was ready to move on to a new
+    adventure." Several weeks into his sabbatical, he stopped checking
+    his email: "My heart was no longer in the work. I didn't yet know
+    what I wanted to do next, but I knew it was time to shake things
+    up."
+
+-   Fourth, people write. When Alex Pang took a sabbatical after working
+    in academia and the tech industry, he started to look at life
+    differently, thinking, "maybe we had this idea about the
+    relationship between working hours and productivity backward."86
+    Based on that question alone, he spent the next several years
+    writing and publishing several books about how rest and shorter
+    workweeks might improve our lives.
+
+-   Even though the pathless path does not lead to a specific
+    destination, there may be what Venkatesh Rao, a writer, and
+    consultant, calls "fixed points." A fixed point is a non-negotiable
+    goal that you plan to achieve, no matter what. These fixed points
+    are often a product of our unique cultural scripts. For example, in
+    the United States, as Rao says, the "American Dream" story is based
+    on "the standard fixed point of homeownership. As in, 'no matter
+    what happens in the future, I'll be a homeowner."90 We all have
+    fixed points that we aim towards in our lives. Homeownership is one
+    of the most popular, but others include paying for children's
+    college expenses, becoming an executive or partner, founding a
+    company, or reaching a certain net worth. The problem with these
+    default fixed points is that they are culturally derived rather than
+    a product of our unique motivations and desires. Over time, this
+    means they can become detached from what is possible or reasonable.
+
+-   Rao argues that the answer is not to abandon goals altogether but to
+    take them more seriously and to put more thought into identifying
+    unique fixed points, ones that align with the things that bring us
+    alive.
+
+-   Having faith is admitting that you don't have all the answers for
+    what comes next. Another phrase I've found useful to describe this
+    state of mind is what the spiritual teacher Tara Brach calls
+    "radical acceptance," which she says "is the willingness to
+    experience ourselves and our lives as it is."
+
+-   Many people I talk to are convinced that the formula for living on
+    their own terms is saving up enough money. I wish they knew what I
+    know: the longer we spend on a path that isn't ours, the longer it
+    takes to move towards a path that is. Money might help pay for
+    therapy, time off, and healing retreats, but it won't help you come
+    to a place where you really trust and know that everything will be
+    okay. Having faith does not mean being worry-free. I still worry
+    about money, success, belonging, and whether I can keep this journey
+    going. However, I'm able to recognize that the right response is not
+    to restructure my life to make these worries disappear. It's to
+    develop a capacity to sit with those anxieties, focus on what I can
+    control, and to open myself up to the world. As the spiritual
+    teacher Sharon Salzberg has written, "whatever takes us to our edge,
+    to our outer limits, leads us to the heart of life's mystery, and
+    there we find faith."99 This is the essence of the pathless path,
+    and the only way to develop room for faith in your life is to do
+    exactly as Salzberg says, explore the limits and step into the
+    possibilities for our life. The fact that the next steps are unknown
+    to us is exactly the point.
+
+-   "You know deep down that accomplishing things won't make you happy,
+    but I think I always fantasized that it would at least feel really
+    good. I was so wrong. Hitting #1 for the first time as an author
+    felt like...nothing. Being a 'millionaire'...nothing. It's a trick
+    of evolution that drives us, and no one is immune from making this
+    mistake."103 This is what Harvard professor Dr. Ben-Shahar calls the
+    arrival fallacy, the idea that when we reach a certain milestone we
+    will reach a state of lasting happiness.104 When we realize that
+    this isn't the case, we find ourselves feeling empty, and the
+    easiest way to deal with this is to ignore the feeling and ratchet
+    up the goal. More money, a bigger house, a new car, a higher salary,
+    an executive position at a company, or a larger retirement nest egg.
+
+-   It was incredibly painful for me to realize that if I truly cared
+    about living in a different way, I might need to leave the business
+    world. The journey towards the pathless path often starts at this
+    moment, with a willingness to investigate your disappointment and to
+    wonder if there is a better way of defining success. The better way
+    is what I call the "second chapter of success" in which you shift
+    your mindset from what you lack to what you have to offer, from
+    ambition to aspiration, and from hoping that joy will result from a
+    specific outcome to experiencing it as a byproduct of your journey.
+
+-   In his book Seeing Like a State, James Scott argues that
+    "legibility" made modernity possible. By legibility, he means
+    "arranging the population in ways that simplified the classic state
+    functions of taxation, conscription, and prevention of rebellion."
+
+-   This kind of quantification has now been applied to many parts of
+    society. In terms of work, the fundamental organizing unit of the
+    economy is the "job." This is why so much attention is paid to
+    unemployment rates, also called the "jobs numbers." The former
+    academic turned writer and financial advisor Ben Hunt has argued
+    that for most of the 20th century, such standardization was
+    "industrially necessary" and vital to the success of the modern
+    economy, state, and world.
+
+-   However, he continues, over the last 50 years the need for people to
+    be "legible" and fit into a standard model of work has merely become
+    "industrially preferable." This puts government and institutional
+    leaders in a position where they are incentivized to convince people
+    that following rigid paths in their institutions is the correct path
+    for everyone. Hunt uses the example of the "industrially necessary
+    egg," to make his point. "Good" eggs are those that meet
+    specifications, are perfectly clean, and can legally be sold in a
+    supermarket. Any farmer knows, however, there are other good eggs,
+    such as the ones from Hunt's farm, which are often dirty, come in
+    various shapes, and don't need to be refrigerated. Many people see
+    these as bad eggs, but Hunt knows the truth, that they are "one of
+    the best things in life."
+
+-   Yet this is the world we live in. This means embracing the pathless
+    path requires grappling with the feeling of being a "bad egg." This
+    often drives people who leave the default path to eagerly embrace
+    new identities that are still recognizable as legible to the
+    "traditional" economy. They gravitate to titles like a startup
+    founder, entrepreneur, freelance consultant, or even the newly
+    emerging "creator."
+
+-   The pathless path is about ignoring the pull of needing to be a
+    "good egg" and learning what truly enables you to thrive. What this
+    really means is developing an appreciation for discomfort.
+
+-   Part of the promise of being a "good egg" is that we will not feel
+    lost. But the "bad eggs'' on the pathless path eventually realize
+    there is wisdom in being lost. This doesn't mean it will be easy.
+    Like Billups, you will sense that you are doing something wrong, or
+    at minimum, don't know what you are doing. Simple questions from
+    others like "what do you do?" will expose your own uncertainty and
+    can feel like a death blow to the soul.
+
+-   We can weaken the impact of these kinds of questions by knowing that
+    there is no way to avoid being seen as a "bad egg." The only way
+    forward is to eventually get to a point when you realize that, in
+    fact, there are no good eggs or bad eggs at all. The pathless path
+    is about releasing yourself from this way of seeing the world and
+    realizing that the number of career paths worth following is
+    infinite.
+
+-   On the pathless path, knowing you have enough is what gives you the
+    freedom to say "no" to clear financial opportunities and say "yes"
+    to something that might bring you alive and might even pay off much
+    more over the long term. When I launched a podcast, people assumed
+    it was a massive project and that I wanted to compete with Gimlet
+    and NPR. They didn't know that I considered it an experiment and
+    wasn't aiming toward monetary success or fame. From this
+    perspective, it made sense to create a podcast cover in 20 minutes
+    in PowerPoint, spend less than an hour editing the audio, and
+    publish without much of a following. There was nothing else to gain
+    because I was operating from the feeling of enough. If we don't
+    define "enough," we default to more, which makes it impossible to
+    understand when to say no.
+
+-   What I've discovered in conversations is that no matter how much
+    money people have, they will go to enormous lengths to avoid any
+    discomfort related to their financial situation. This is what makes
+    quitting full-time employment seem terrifying and a steady paycheck
+    so addictive. Economist Daniel Kahneman found that "the importance
+    that people attached to income at age 18 also anticipated their
+    satisfaction with their income as adults."127 While on the default
+    path, I was always surrounded by people that cared more about money
+    and it was easy to convince myself that I placed very little
+    importance on money. When I quit my job, I realized my assessment
+    was wrong. Though I had gone several months without a paycheck while
+    sick, the months after leaving my job were a completely different
+    experience. Money went from a background consideration to one of the
+    most important things in my life. I was experiencing what
+    psychologists call, "scarcity mindset."
+
+-   Some of the first research into this state of mind was done in 1944.
+    Worries about food shortages due to the war led to research about
+    how people react to going without food.128 Researchers at the
+    University of Minnesota recruited 36 participants for a study that
+    involved long stretches without eating. In addition to the expected
+    biological reactions, the men became obsessed with food. They talked
+    about opening restaurants and switching careers to work in food
+    service, shared recipes, and compared food prices across various
+    newspapers. The researchers concluded that when we feel we lack
+    something, we tend to obsess over it.
+
+-   When I started to make plans with Angie to stay in Asia, I started
+    to worry about making money again. This led me to accept a freelance
+    project with a small consulting firm. It paid \$7,500, which would
+    fund my life for several months, but when I started working on the
+    project, I realized I had talked myself into the project in order to
+    calm my fears rather than as something I was excited to work on. I
+    committed to not making the same mistake again. American
+    anthropologist Ernest Becker was convinced that most of our actions
+    in life are driven by a fear of death. Behind my money fears was a
+    longing to feel that my life mattered. I suspect this is the same
+    for many, and money is one shortcut we use to "prove" our worth. Yet
+    in my experience, no amount of money ever seems to satisfy. Becker
+    argues that the only way to transcend these existential fears is to
+    live a life that feels heroic. He argues that "if everyone honestly
+    admitted his urge to be a hero it would be a devastating release of
+    truth."129 What he means by heroic is less about saving the world
+    and closer to the pathless path: a journey of finding yourself,
+    grappling with your insecurities, and daring to seek out a life that
+    is uniquely yours. Becker argues that prescribed paths of the modern
+    world can trap people into conforming to the expectations of others
+    instead of taking steps to create their own unique path.
+
+-   Behind our money fears are existential fears, like the fear of death
+    or the fear of not being loved, respected, and admired. These fears
+    are likely not solvable but we can learn to coexist with them. This
+    is also why financial worries can be infinite and people can chase
+    more and more their entire lives. The flip side of this is that if
+    we can learn to coexist with our financial insecurities, we can turn
+    them into a secondary concern.
+
+-   I've been inspired by the poet David Whyte's way of interpreting the
+    world, which he calls the "conversational nature of reality." He
+    believes all of us have an ongoing "conversation" with the world.
+    While this may play in literal conversations with others or
+    ourselves, it can also be metaphorical. What I've taken it to mean
+    is that we all have things we are meant to find out about ourselves
+    and the only way to discover them is to open ourselves up to the
+    world. One of the best ways to discover your conversation is to
+    start asking questions driven by your curiosity. For me, some of my
+    favorite questions include: What matters? Why do we work? What is
+    the "good life"? What holds people back from change? How do we find
+    work that brings us alive? These are not simple, but when I learned
+    to be guided by my curiosity and pay attention, I started noticing
+    that answers would spontaneously emerge as a byproduct of living my
+    life.
+
+-   On the pathless path, the goal is not to find a job, make money,
+    build a business, or achieve any other metric. It's to actively and
+    consciously search for the work that you want to keep doing. This is
+    one of the most important secrets of the pathless path. With this
+    approach, it doesn't make sense to chase any financial opportunity
+    if you can't be sure that you will like the work. What does make
+    sense is experimenting with different kinds of work, and once you
+    find something worth doing, working backward to build a life around
+    being able to keep doing it. It's a shift from the mindset that work
+    sucks towards the idea that you can design a life around liking
+    work. I didn't realize how profound this shift is until I sat down
+    to write this book.
+
+-   It's hard to understate how much the narrow conception of work
+    constrains us and this has become obvious to me observing my wife
+    explore various art projects such as watercolor and acrylic
+    painting, drawing and sketching, rock painting, Zentangle, and
+    others. Her work impresses and inspires me. It is work worth doing
+    and it will crush me if she loses her passion for it. Yet when she
+    shares her work, especially with people in the United States, they
+    always suggest that she monetize: "You should offer painting
+    classes!" "Are you going to sell those?" "You could make a lot of
+    money!" The assumption is that making money or finding a way to turn
+    a passion into a job is one of the most important things. While
+    money is important on the pathless path, using it as a filter for
+    finding the work worth doing, especially at first, is a mistake.
+    More important is the realization that finding something worth doing
+    indefinitely is more powerful and exciting than any type of
+    security, comfort, stability, or respect a job might offer. Fighting
+    for the opportunity to do this work is what matters, whether or not
+    you make money from it in the short term.
+
+-   According to Robert Kegan, a psychologist at Harvard, we are
+    shifting away from a world where we need to fit in towards one where
+    we must develop the skill of "self-authoring."137 Instead of looking
+    to external cues to learn how to live, we need to have a coherent
+    internal narrative about why we are living a certain way. This is
+    the ethos of the pathless path and if you don't know or understand
+    your own story, you will struggle. One of the hardest questions
+    people face when they think of their own story, however, is "what
+    should I do?" A significant barrier to figuring out what we really
+    want to do is the voice in our head that warns us to stop when we
+    consider or start doing things that are not broadly seen as
+    "normal."
+
+-   Professor and author Brene Brown's clarification of shame and guilt
+    helped me understand what's really going on when we struggle to pay
+    attention to our intuitions and desires. She defines shame as "the
+    intensely painful feeling or experience of believing that we are
+    flawed and therefore unworthy of love and belonging." She believes
+    that most people give too much power to this emotion when making
+    life choices."
+
+-   She doesn't think we can "solve" shame and suggest that people pay
+    attention to a slightly different emotion, guilt. She defines guilt
+    as "holding something we've done or failed to do up against our
+    values and feeling psychological discomfort."139 In contrast to
+    shame, guilt is actionable. The disconnect between what we claim to
+    care about and what we do (or don't do) points out what matters to
+    us.
+
+-   To thrive on the pathless path, we must ignore the shiny objects and
+    distractions and strip away the stories that are not our own to
+    remember who we are. One of the biggest concerns people have when
+    they talk to me about quitting their job is how to make money. That
+    is certainly important, but a more interesting path is possible if
+    you start with what brought you alive in the past. Injecting the
+    energy from these pursuits can lead you in a different direction and
+    can help you figure out what to work on while taking the first steps
+    toward creating a life you truly enjoy.
+
+-   Maybe I've convinced you that you are creative and that you should
+    ignore the voices that tell you that you should not create. However,
+    you still have some concerns, especially if you are thinking about
+    sharing online. Isn't the internet just filled with scammers or
+    people that want attention? The fact that those people make you feel
+    uneasy is a good sign. Because the people creating those posts
+    probably don't feel uneasy at all. And this is why I want to urge
+    you to consider sharing with the world. You care. You want to do
+    things in good faith. You want to help people, to listen, and
+    connect with others who share your passions. This doesn't mean you
+    need to build an audience or a business, but what might emerge if
+    you dare to share your writing, painting, dancing, crafts, or other
+    acts of creativity with others? What friends might you meet? What
+    opportunities could you pursue? What communities could you join? The
+    positive side of earning a living by creating and sharing online or
+    building an online business is often obscured by the logic of the
+    default path, in which the worthiest endeavor is a full-time job.
+
+-   Even if you do decide that sharing your real work with the world is
+    worthwhile, it's nearly impossible to overcome the sense that you
+    may embarrass yourself. Here it's helpful to remember the "spirit of
+    the fool" and also consider that many people around the world might
+    be waiting for what you have to share.
+
+-   Many people who leave the default path do so because they've become
+    cynical and are driven by a desire to escape. But escaping is only
+    the first step of leaving a certain path behind. In order to create
+    a sustainable journey and path, it requires finding ways of
+    orienting to the world that leave space for hope.
+
+-   One of the goals of the pathless path is to make commitments: to a
+    type of work, ways of living, creative projects, or a "conversation"
+    with the world. A challenge here, however, is that the possibilities
+    are so vast. Which raises a question: how do you begin to figure out
+    what you want to do when there are not many limits? On the default
+    path, the kinds of work you can do and the resulting kinds of lives
+    that are possible are limited, helping to simplify this issue. I
+    never realized how much I was constraining my imagination when I was
+    only considering paths or jobs that already existed. Embracing the
+    pathless path enabled me to see the possibilities for my life. This
+    was exciting but also overwhelming. I often have the sense that I'd
+    need multiple lifetimes to truly test and explore my options.
+    Instead of embarking on an endless search, I've taken a different
+    approach: working backward. Instead of thinking about what I want to
+    do and how I want to live, I start instead with what I don't want to
+    be doing and what failure looks like. By looking at what might go
+    wrong with our lives, we can avoid obvious traps, creating more
+    space for things to go right.
+
+-   Here is my current sketch of the person I don't want to be ten years
+    from now: Paul is still committed to the pathless path, a fact that
+    still draws skepticism from other people. He has a couple of kids,
+    but is barely making ends meet and is ashamed of this fact. He goes
+    a few months every year without income and is filled with insecurity
+    about his finances almost all the time. He's too stubborn to take a
+    full-time job and instead of admitting he might be wrong about his
+    approach to life, he angrily tweets about how stupid everyone is
+    working in traditional jobs. This is all complicated by ongoing
+    health issues which limit his energy and sometimes leave him
+    semi-bedridden for weeks at a time. The negative future version of
+    me is financially insecure, does not have a predictable income, and
+    is cynical and stubborn.
+
+-   Early on in my journey, I realized that my entire goal was to stay
+    on the pathless path indefinitely. This is what author James Carse
+    calls the "infinite game": "A finite game is played for the purpose
+    of winning, an infinite game for the purpose of continuing the
+    play."152 By working backward, I realized that the biggest risks for
+    me are spending my time doing things that undermine my ability to
+    stay optimistic and energized, and obviously, running out of money.
+    This is why I've spent so much time focusing on creating the
+    conditions for success and lowering my risk of failure, rather than
+    aiming at success itself.
+
+-   Fromm argued that the reason lied behind two different types of
+    freedom. First was negative freedom or "freedom from" outside
+    control. Second was positive freedom or the "freedom to" engage with
+    the world in a way that is true to yourself." Fromm's positive
+    version of freedom was much more than the freedom to act. He
+    described it as "the full realization of the individual's potential,
+    together with his ability to live actively and spontaneously." Fromm
+    argued that those freed from oppression but unable to develop a
+    positive version of freedom were destined to be filled with feelings
+    of separateness and anxiety.
+
+-   In his book The Art of Loving, he argued that the root of a positive
+    version of freedom is a deep sense of connectedness with the world.
+    A path to achieve this state was through "creative activity." He
+    offered examples: "whether a carpenter makes a table, or a goldsmith
+    a piece of jewelry, whether the peasant grows his corn or the
+    painter paints a picture, in all types of creative work the worker
+    and his object become one, man unites himself with the world in the
+    process of creation." As he said, in a world where we are pushed to
+    "regard our personal qualities and the result of our efforts as
+    commodities that can be sold for money, prestige, and power,"
+    engaging in a creative endeavor allows us to find value in the act
+    itself.
+
+-   In addition to doing something challenging, "finding the others," or
+    discovering a different kind of work you enjoy, you might also find
+    a mode of being that opens you up to a deeper relationship with the
+    world and yourself. In this way, the creative act is one of the most
+    sacred things in the world and should be taken seriously in itself
+    and not with any expected outcome.
+
+-   Before I left my job, I was exploring my creativity but did not feel
+    the deeper connectedness that Fromm wrote about. I was convinced
+    that escaping my job was the most important thing I had to do.
+    However, soon after achieving the "freedom from" traditional
+    employment, I discovered the vastness and challenge of developing a
+    positive side of freedom. Ultimately, figuring out what to do with
+    freedom once we have it is one of the biggest challenges of the
+    pathless path. Writer Simon Sarris argues that we can only do this
+    by increasing our capacity for agency, or our ability to take
+    deliberate action in the world. He argues, "the secret of the world
+    is that it is a very malleable place, we must be sure that people
+    learn this, and never forget the order: Learning is naturally the
+    consequence of doing."158 In other words, only by taking action do
+    we learn and only by learning do we discover what we want. Without
+    this, we will struggle to take advantage of the freedom that the
+    pathless path offers. We are ultimately the ones that determine our
+    fate, and without expressing agency, we struggle to be free.
+
+-   Everyone on the pathless path eventually needs to develop a strategy
+    for approaching their journey. On the pathless path, once you open
+    yourself up to possibilities and start experimenting with different
+    ways of working and living, the biggest problem is the paradox of
+    choice. There are too many interesting things worth doing and too
+    many places to visit. To prioritize, developing a set of principles
+    to help you make decisions is essential.
+
+-   To create your own culture on the pathless path you must identify
+    the assumptions you make in your approach to life. Here are some of
+    my assumptions, many of which have been sprinkled throughout this
+    book: Many people are capable of more than they believe. Creativity
+    is a real path to optimism, meaning, and connection. We don't need
+    permission to engage with the world and people around us. We are all
+    creative, and it takes some people longer to figure that out.
+    Leisure, or active contemplation, is one of the most important
+    things in life, There are many ways to make money, and when an
+    obvious path emerges, there is often a more interesting path not
+    showing itself. Finding the work that matters to us is the real work
+    of our lives. Could I be wrong about these things? Definitely. But
+    the pathless path is not about being right. It's about finding ideas
+    and principles worth committing to and seeing where you end up.
+    Without doing this, you are accepting the logic of the default path.
+
+-   First, question the default. For many years, I stuck with a story
+    about how I thought my life should go. I assumed there was only one
+    option for structuring my life, around full-time work. I tried to be
+    a "good egg" but ultimately, found myself unhappy with the direction
+    my life was headed. I stumbled into a pathless path and slowly
+    realized that a rigid version of the default path that existed in my
+    mind was only one option of many.
+
+-   Second, reflect. When I started reflecting on my true self, I was
+    able to start building a life around the things I valued. Most of us
+    run on autopilot through life but we can break out of this mode by
+    considering even the simplest reflection exercises. For me creating
+    a daily reminder of four priorities that mattered to me and
+    revisiting the leadership principles I aspired to in grad school
+    helped me see that the gap between what I claimed to care about and
+    how I was living was larger than I wanted. Through reflection, I was
+    able to see that there was a larger "conversation" I was meant to
+    have with the world.
+
+-   Third, figure out what you have to offer. In our desire to be
+    successful, we forget to notice how we are having an impact on
+    others. One of the easiest ways to begin this exploration is to send
+    a message to a few close friends, asking them, "when have you seen
+    me at my best self?" Their responses may surprise you and, perhaps,
+    delight you. We all have stories about who we think we are and why
+    we must be that way but often, others have a better perspective on
+    what makes us stand out.
+
+-   Fourth, pause and disconnect. To improve your relationship with
+    work, I believe it is necessary to disconnect. Unfortunately, a
+    typical one or two-week vacation isn't going to cut it. I believe
+    that the minimum effective dose is at least a month away from work.
+    While this may seem impossible or terrifying, this intervention has
+    a near-universal approval rating and can have a profound effect on
+    your confidence about the future. If a month is scary, I suggest
+    blocking off a random Tuesday afternoon, or another day in the
+    workweek. Don't tell anyone what you are doing and go wander. Go for
+    a long walk, a bike ride, or sit by a river. Pay attention to the
+    feelings that come up and see what they are telling you.
+
+-   Fifth, go make a friend. Venture out of your existing bubble and
+    reach out to someone who has taken an interesting path. Ask them how
+    they got started, what motivates them, and how they think about
+    navigating their life. Most people are much more enthusiastic about
+    sharing what they've learned in their lives than we expect. To
+    embrace the pathless path, you need friends and all you need at the
+    start is one person. Over time, designing your work in a way that
+    will help you naturally "find the others," can be one of the most
+    rewarding things of being on the pathless path and one of the most
+    valuable things you can do in life.
+
+-   Sixth, go make something. Remember, you are creative! Almost
+    everyone has a desire to create something and to put their energy
+    into the world in a positive way. It's just that the legacy of the
+    default path has convinced people that they need permission. But you
+    know this is not true anymore. Find a way to create. Host a dinner
+    party, organize a volunteer event, write a blog post, start
+    journaling in the morning, paint a picture, or host a cooking class
+    for your friends. It doesn't matter what you do, but the sooner you
+    figure out a way to create and share with the world, the faster
+    you'll be able to move closer to finding the activities you want to
+    continue doing throughout your life.
+
+-   Seventh, give generously. Generosity is not only an amount of money,
+    it is a skill we need to practice. It is a way of orienting towards
+    the world that will help you start to understand your own definition
+    of "enough," grapple with your hidden money scripts, and enable you
+    to decouple your belief that security and money are perfectly
+    linked. You don't need to embrace the gift economy completely.
+    Instead, you just need to pay attention and start making offers to
+    share or give when the opportunity emerges. If you don't have an
+    idea, I'll give you an easy way out: you can gift this book to
+    someone that might enjoy it. Ultimately giving is a superpower on
+    the pathless path and will enable you to transcend feelings of
+    separateness and connect more deeply to the people around you.
+
+-   Eighth, experiment. The default path does not leave much space for
+    experimenting with different ways of structuring your life. On the
+    pathless path, you can prototype a change, work in different ways,
+    take extended breaks, live in different countries, test your money
+    beliefs, embrace unique fixed-point goals, and create things you
+    never thought were possible. Remember, the goal is not to get rich
+    but always to figure out what to do next.
+
+-   Ninth, commit. Many people falsely think that escaping work is
+    something worth aiming towards. I thought this at first but realized
+    I had only thought about work as the things you do within a job.
+    What I really wanted was the opportunity to feel useful and to do
+    things that challenged me to grow. This is why I believe that the
+    "real work of your life" is searching for the things you want to
+    commit to and that make your life meaningful. Once you find them,
+    you can dedicate your time to creating the environment to make those
+    things happen.
+
+-   Finally, be patient. In a famous letter to his friend Hume,
+    Hunter S. Thompson argued that searching for the right path in life
+    was important, even if it required many attempts. He told Hume that
+    if he tried eight different paths and failed, that he must keep
+    searching: "you must find a ninth path."178 Embracing the pathless
+    path can be a slow and frustrating journey, one that happens at a
+    different speed for everyone. It took me years to build up the
+    courage to quit my job and then several more years to find a mix of
+    work, people, and a way of orienting in the world that felt like it
+    was a path I was meant to be on. Don't rush things. Remember:
+    nothing good gets away, as long as you create the space to let it
+    emerge.
