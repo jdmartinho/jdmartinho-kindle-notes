@@ -258,51 +258,66 @@ STOPWORDS = {
 
 def parse_clippings(path: Path) -> dict[str, dict]:
     """
-    Parse My Clippings.txt.
+    Parse Kindle My Clippings.txt.
 
-    Returns:
-
-        {
-            "Book Title": {
-                "author": "Author Name",
-                "clippings": [
-                    "highlight text",
-                    ...
-                ]
-            }
-        }
+    Handles:
+    - BOM characters appearing anywhere in the file
+    - CRLF/LF line endings
+    - Highlights
+    - Notes
+    - Bookmarks (ignored)
     """
 
-    raw = path.read_text(encoding="utf-8-sig", errors="replace")
+    raw = path.read_text(
+        encoding="utf-8-sig",
+        errors="replace",
+    )
 
-    # Kindle separates clipping records with lines of equal signs.
-    blocks = re.split(r"\n={10,}\s*\n", raw)
+    # Kindle can contain BOM characters beyond the first character.
+    raw = raw.replace("\ufeff", "")
+
+    # Normalize line endings.
+    raw = raw.replace("\r\n", "\n").replace("\r", "\n")
+
+    # Kindle separates clipping records with a line of '=' characters.
+    blocks = re.split(
+        r"\n\s*={10,}\s*\n",
+        raw,
+    )
 
     books: dict[str, dict] = {}
 
     for block in blocks:
+
         block = block.strip()
 
         if not block:
             continue
 
-        lines = [line.strip() for line in block.splitlines()]
+        lines = [
+            line.strip()
+            for line in block.split("\n")
+        ]
 
         if len(lines) < 3:
             continue
 
-        title_author = lines[0]
-
-        # Metadata line normally contains:
-        # - Highlight
-        # - Note
-        # - Bookmark
+        # First line is:
         #
-        # We deliberately ignore bookmarks.
+        # Book Title (Author)
+        #
+        title_author = lines[0].strip()
+
+        # Locate the Kindle metadata line.
         metadata_index = None
 
         for i, line in enumerate(lines[1:], start=1):
-            if "Added on" in line:
+
+            if re.search(
+                r"\bAdded on\b",
+                line,
+                flags=re.IGNORECASE,
+            ):
                 metadata_index = i
                 break
 
@@ -311,23 +326,37 @@ def parse_clippings(path: Path) -> dict[str, dict]:
 
         metadata = lines[metadata_index]
 
-        if "Bookmark" in metadata:
+        # Ignore bookmarks.
+        if re.search(
+            r"\bBookmark\b",
+            metadata,
+            flags=re.IGNORECASE,
+        ):
             continue
 
-        # Everything after the metadata line is the actual clipping text.
-        clipping_lines = lines[metadata_index + 1:]
+        # Everything after the metadata line is annotation text.
+        annotation_lines = [
+            line.strip()
+            for line in lines[metadata_index + 1:]
+            if line.strip()
+        ]
 
-        if not clipping_lines:
+        if not annotation_lines:
             continue
 
-        clipping = " ".join(
-            line.strip() for line in clipping_lines if line.strip()
-        ).strip()
+        # Kindle normally has one annotation per record.
+        # Join wrapped lines with spaces.
+        clipping = " ".join(annotation_lines)
+
+        clipping = normalize_highlight(clipping)
 
         if not clipping:
             continue
 
         title, author = split_title_author(title_author)
+
+        # Remove any remaining BOM/whitespace from the title.
+        title = normalize_title(title)
 
         if not title:
             continue
@@ -338,12 +367,31 @@ def parse_clippings(path: Path) -> dict[str, dict]:
                 "clippings": [],
             }
 
-        # Avoid duplicates already present in the Kindle export itself.
-        if clipping not in books[title]["clippings"]:
+        # Deduplicate within the source file itself.
+        existing = {
+            normalize_highlight(h)
+            for h in books[title]["clippings"]
+        }
+
+        if normalize_highlight(clipping) not in existing:
             books[title]["clippings"].append(clipping)
 
     return books
 
+def normalize_highlight(text: str) -> str:
+    """
+    Normalize highlight text for duplicate detection.
+
+    This does NOT change the text stored in Markdown. It is only used
+    when determining whether two highlights are the same.
+    """
+
+    text = text.replace("\ufeff", "")
+
+    # Normalize whitespace.
+    text = re.sub(r"\s+", " ", text)
+
+    return text.strip()
 
 def split_title_author(value: str) -> tuple[str, str]:
     """
@@ -419,28 +467,34 @@ def extract_existing_highlights(path: Path) -> list[str]:
 
     return highlights
 
+def normalize_title(title: str) -> str:
+    """
+    Normalize book titles for matching existing files.
+    """
+
+    title = title.replace("\ufeff", "")
+    title = re.sub(r"\s+", " ", title)
+    return title.strip()
+
 
 def find_existing_book_file(
     books_dir: Path,
     title: str,
 ) -> Path | None:
-    """
-    Find the Markdown file corresponding to a title.
 
-    First tries the deterministic filename generated by this script.
-    Then falls back to frontmatter title matching, which makes the importer
-    more tolerant of older vault files.
-    """
+    title = normalize_title(title)
 
     expected = books_dir / f"{safe_filename(title)}.md"
 
     if expected.exists():
         return expected
 
-    # Fallback: inspect frontmatter titles.
     for path in books_dir.glob("*.md"):
+
         try:
-            text = path.read_text(encoding="utf-8")
+            text = path.read_text(
+                encoding="utf-8"
+            )
         except OSError:
             continue
 
@@ -450,11 +504,16 @@ def find_existing_book_file(
             flags=re.MULTILINE,
         )
 
-        if match and match.group(1).strip() == title:
-            return path
+        if match:
+
+            existing_title = normalize_title(
+                match.group(1)
+            )
+
+            if existing_title == title:
+                return path
 
     return None
-
 
 # ---------------------------------------------------------------------------
 # Tags
@@ -733,11 +792,14 @@ def update_book_file(
 
     existing_highlights = extract_existing_highlights(path)
 
-    existing_set = set(existing_highlights)
+    existing_set = {
+        normalize_highlight(h)
+        for h in existing_highlights
+    }
 
     new_highlights = [
         h for h in kindle_highlights
-        if h not in existing_set
+        if normalize_highlight(h) not in existing_set
     ]
 
     if not new_highlights:

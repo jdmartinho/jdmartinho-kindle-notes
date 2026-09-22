@@ -1,6 +1,6 @@
 # Kindle Highlights
 
-**Books:** 34  
+**Books:** 33  
 **Highlights:** 1672
 
 ## Books
@@ -21,7 +21,7 @@
 [Mating in Captivity: Unlocking Erotic Intelligence](Books/Mating%20in%20Captivity-%20Unlocking%20Erotic%20Intelligence.md)
 [Meditations for Mortals: Four Weeks to Embrace Your Limitations and Make Time for What Counts](Books/Meditations%20for%20Mortals-%20Four%20Weeks%20to%20Embrace%20Your%20Limitations%20and%20Make%20Time%20for%20What%20Counts.md)
 [No More Mr. Nice Guy: A Proven Plan For Getting What You Want In Love, Sex, And Life](Books/No%20More%20Mr.%20Nice%20Guy-%20A%20Proven%20Plan%20For%20Getting%20What%20You%20Want%20In%20Love%2C%20Sex%2C%20And%20Life.md)
-[One Man's Wilderness](Books/One%20Man%27s%20Wilderness.md)
+[One Man's Wilderness](Books/%EF%BB%BFOne%20Man%27s%20Wilderness.md)
 [Ravencry](Books/Ravencry.md)
 [Shocks, Crises, and False Alarms](Books/Shocks%2C%20Crises%2C%20and%20False%20Alarms.md)
 [Success Through Stillness: Meditation Made Simple](Books/Success%20Through%20Stillness-%20Meditation%20Made%20Simple.md)
@@ -36,6 +36,5 @@
 [You Can Just Do Things: The Power of Permissionless Action](Books/You%20Can%20Just%20Do%20Things-%20The%20Power%20of%20Permissionless%20Action.md)
 [You Weren't Supposed to See That](Books/You%20Weren%27t%20Supposed%20to%20See%20That.md)
 [﻿Feeling Great: The Revolutionary New Treatment for Depression and Anxiety](Books/%EF%BB%BFFeeling%20Great-%20The%20Revolutionary%20New%20Treatment%20for%20Depression%20and%20Anxiety.md)
-[﻿One Man's Wilderness](Books/%EF%BB%BFOne%20Man%27s%20Wilderness.md)
 [﻿Pure Invention: How Japan's Pop Culture Conquered the World](Books/%EF%BB%BFPure%20Invention-%20How%20Japan%27s%20Pop%20Culture%20Conquered%20the%20World.md)
 [﻿The Pathless Path](Books/%EF%BB%BFThe%20Pathless%20Path.md)
