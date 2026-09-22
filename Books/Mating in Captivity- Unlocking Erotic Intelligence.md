@@ -1,27 +1,34 @@
 ---
-author: Esther Perel
-keywords:
-- work
-- creativity
-- money
-- psychology
-- relationships
-- self-development
-- philosophy
-- life-design
-tags:
-- books
-- highlights
-- work
-- creativity
-- money
-- psychology
-- relationships
-- self-development
-- philosophy
-- life-design
 title: "Mating in Captivity: Unlocking Erotic Intelligence"
+author: "Esther Perel"
 type: book
+tags:
+  - books
+  - highlights
+  - relationships
+  - psychology
+  - fear-and-anxiety
+  - creativity
+  - mental-health
+  - work
+  - life-design
+  - investing
+keywords:
+  - "love"
+  - "desire"
+  - "relationship"
+  - "erotic"
+  - "intimacy"
+  - "feel"
+  - "sexual"
+  - "need"
+  - "time"
+  - "want"
+  - "couples"
+  - "james"
+  - "less"
+  - "life"
+  - "partner"
 ---
 
 # Mating in Captivity: Unlocking Erotic Intelligence
@@ -30,1560 +37,320 @@ type: book
 
 ## Highlights
 
--   Today, we turn to one person to provide what an entire village once
-    did: a sense of grounding, meaning, and continuity. At the same
-    time, we expect our committed relationships to be romantic as well
-    as emotionally and sexually fulfilling. Is it any wonder that so
-    many relationships crumble under the weight of it all? It's hard to
-    generate excitement, anticipation, and lust with the same person you
-    look to for comfort and stability, but it's not impossible. I invite
-    you to think about ways you might introduce risk to safety, mystery
-    to the familiar, and novelty to the enduring.
-
--   My belief, reinforced by twenty years of practice, is that in the
-    course of establishing security, many couples confuse love with
-    merging. This mix-up is a bad omen for sex. To sustain an élan
-    toward the other, there must be a synapse to cross. Eroticism
-    requires separateness. In other words, eroticism thrives in the
-    space between the self and the other. In order to commune with the
-    one we love, we must be able to tolerate this void and its pall of
-    uncertainties.
-
--   Romantics value intensity over stability. Realists value security
-    over passion. But both are often disappointed, for few people can
-    live happily at either extreme.
-
--   People today are encouraged to pursue personal fulfillment and
-    sexual gratification, and to break free of the constraints of a
-    social and family life heretofore defined by duty and obligation.
-    But trailing in the shadow of this manifest extravagance lies a new
-    kind of gnawing insecurity. The extended family, the community, and
-    religion may indeed have limited our freedom, sexual and otherwise,
-    but in return they offered us a much-needed sense of belonging. For
-    generations, these traditional institutions provided order, meaning,
-    continuity, and social support. Dismantling them has left us with
-    more choices and fewer restrictions than ever. We are freer, but
-    also more alone. As Giddens describes it, we have become
-    ontologically more anxious. We bring to our love relationships this
-    free-floating anxiety.
-
--   There's a powerful tendency in long-term relationships to favor the
-    predictable over the unpredictable. Yet eroticism thrives on the
-    unpredictable. Desire butts heads with habit and repetition. It is
-    unruly, and it defies our attempts at control. So where does that
-    leave us? We don't want to throw away the security, because our
-    relationship depends on it. A sense of physical and emotional safety
-    is basic to healthy pleasure and connection. Yet without an element
-    of uncertainty there is no longing, no anticipation, no frisson. The
-    motivational expert Anthony Robbins put it succinctly when he
-    explained that passion in a relationship is commensurate with the
-    amount of uncertainty you can tolerate.
-
--   We liken the passion of the beginning to adolescent
-    intoxication---both transient and unrealistic. The consolation for
-    giving it up is the security that waits on the other side. Yet when
-    we trade passion for stability, are we not merely swapping one
-    fantasy for another? As Stephen Mitchell points out, the fantasy of
-    permanence may trump the fantasy of passion, but both are products
-    of our imagination. We long for constancy, we may labor for it, but
-    it is never guaranteed. When we love we always risk the possibility
-    of loss---by criticism, rejection, separation, and ultimately
-    death---regardless of how hard we try to defend against it.
-    Introducing uncertainty sometimes requires nothing more than letting
-    go of the illusion of certitude. In this shift of perception, we
-    recognize the inherent mystery of our partner.
-
--   maybe the waning of romance is less about the bounds of familiarity
-    and the weight of reality than it is about fear. Eroticism is risky.
-    People are afraid to allow themselves these moments of idealization
-    and yearning for the person they live with. It introduces a
-    recognition of the other's sovereignty that can feel destabilizing.
-
--   We often expect our relationship to act as a buttress against the
-    slings and arrows of life. But love, by its very nature, is
-    unstable. So we shore it up: we tighten the borders, batten down the
-    hatches, and create predictability, all in an effort to make us feel
-    more secure. Yet the mechanisms that we put in place to make love
-    safer often put us more at risk. We ground ourselves in familiarity,
-    and perhaps achieve a peaceful domestic arrangement, but in the
-    process we orchestrate boredom. The verve of the relationship
-    collapses under the weight of all that control. Stultified, couples
-    are left wondering, "Whatever happened to fun? What ever happened to
-    excitement, to transcendence, to awe?" Desire is fueled by the
-    unknown, and for that reason it's inherently anxiety-producing. In
-    his book Open to Desire, the Buddhist psychoanalyst Mark Epstein
-    explains that our willingness to engage that mystery keeps desire
-    alive. Faced with the irrefutable otherness of our partner, we can
-    respond with fear or with curiosity. We can try to reduce the other
-    to a knowable entity, or we can embrace her persistent mystery. When
-    we resist the urge to control, when we keep ourselves open, we
-    preserve the possibility of discovery. Eroticism resides in the
-    ambiguous space between anxiety and fascination. We remain
-    interested in our partners; they delight us, and we're drawn to
-    them. But, for many of us, renouncing the illusion of safety, and
-    accepting the reality of our fundamental insecurity, proves to be a
-    difficult step.
-
--   Beginnings are always ripe with possibilities, for they hold the
-    promise of completion. Through love we imagine a new way of being.
-    You see me as I've never seen myself. You airbrush my imperfections,
-    and I like what you see. With you, and through you, I will become
-    that which I long to be. I will become whole. Being chosen by the
-    one you chose is one of the glories of falling in love. It generates
-    a feeling of intense personal importance. I matter. You confirm my
-    significance.
-
--   If love is an act of imagination, then intimacy is an act of
-    fruition. It waits for the high to subside so it can patiently
-    insert itself into the relationship. The seeds of intimacy are time
-    and repetition. We choose each other again and again, and so create
-    a community of two.
-
--   I've come to see it as a separate entity. Sexuality is more than a
-    metaphor for the relationship---it stands on its own as a parallel
-    narrative.
-
--   Many of the men and women I see in my practice find it particularly
-    difficult to introduce this kind of emotional space into their
-    loving relationships. You would think that the safety of an
-    established base would make it easier to take these kinds of risks,
-    but no. A secure relationship does indeed give us the courage to act
-    on our professional ambitions, to confront family secrets, and to
-    take the skydiving course we never dared consider before. Yet we
-    balk at the idea of establishing distance within the relationship
-    itself---the very place that grants us the delicious togetherness in
-    the first place. We can tolerate space anywhere but there.
-
--   Sexual desire does not obey the laws that maintain peace and
-    contentment between partners. Reason, understanding, compassion, and
-    camaraderie are the handmaidens of a close, harmonious relationship.
-    But sex often evokes unreasoning obsession rather than thoughtful
-    judgment, and selfish desire rather than altruistic consideration.
-    Aggression, objectification, and power all exist in the shadow of
-    desire, components of passion that do not necessarily nurture
-    intimacy. Desire operates along its own trajectory.
-
--   We long to create closeness in our relationships, to bridge the
-    space between our partner and ourselves, but, ironically, it is this
-    very space between self and other that is the erotic synapse. In
-    order to bring lust home, we need to re-create the distance that we
-    worked so hard to bridge. Erotic intelligence is about creating
-    distance, then bringing that space to life.
-
--   The psychologist Virginia Goldner makes an accurate distinction
-    between the "flaccid safety of permanent coziness" and the "dynamic
-    safety" of couples who fight and make up and whose relationship is a
-    succession of breaches and repairs. It's not by co-opting aggression
-    but rather by owning it that sexual tension can freely romp---and
-    can itself bring safety.
-
--   In her landmark book The Second Sex, Simone de Beauvoir writes,
-    "Eroticism is a movement toward the Other, this is its essential
-    character." Yet in our efforts to establish intimacy we often seek
-    to eliminate otherness, thereby precluding the space necessary for
-    desire to flourish. We seek intimacy to protect ourselves from
-    feeling alone; and yet creating the distance essential to eroticism
-    means stepping back from the comfort of our partner and feeling more
-    alone. I suggest that our ability to tolerate our separateness---and
-    the fundamental insecurity it engenders---is a precondition for
-    maintaining interest and desire in a relationship. Instead of always
-    striving for closeness, I argue that couples may be better off
-    cultivating their separate selves. If cultivating separateness
-    sounds harsh, let's think of it instead as nurturing a sense of
-    selfhood. The French psychologist Jacques Salomé talks about the
-    need to develop a personal intimacy with one's own self as a
-    counterbalance to the couple. There is beauty in an image that
-    highlights a connection to oneself, rather than a distance from
-    one's partner. In our mutual intimacy we make love, we have
-    children, and we share physical space and interests. Indeed, we
-    blend the essential parts of our lives. But "essential" does not
-    mean "all." Personal intimacy demarcates a private zone, one that
-    requires tolerance and respect. It is a space---physical, emotional,
-    and intellectual---that belongs only to me. Not everything needs to
-    be revealed. Everyone should cultivate a secret garden. Love enjoys
-    knowing everything about you; desire needs mystery. Love likes to
-    shrink the distance that exists between me and you, while desire is
-    energized by it. If intimacy grows through repetition and
-    familiarity, eroticism is numbed by repetition. It thrives on the
-    mysterious, the novel, and the unexpected. Love is about having;
-    desire is about wanting. An expression of longing, desire requires
-    ongoing elusiveness. It is less concerned with where it has already
-    been than passionate about where it can still go. But too often, as
-    couples settle into the comforts of love, they cease to fan the
-    flame of desire. They forget that fire needs air.
-
--   In the past, when marriage was a more pragmatic institution, love
-    was optional. Respect was essential. Men and women found emotional
-    connection elsewhere, primarily in same-sex relationships. Men
-    bonded over work and recreation; women connected through child
-    rearing and borrowing sugar. Love within a marriage might develop
-    over time but was not indispensable to the success of the family.
-
--   Marriage used to be primarily a matter of economic sustenance, and
-    it was a partnership for life. Mating today is a free-choice
-    enterprise, and commitments are built on love. Intimacy has shifted
-    from being a by-product of a long-term relationship to being a
-    mandate for one. In companionate marriage, trust and affection have
-    replaced respect as the relational pillar, bringing us to a place
-    where the centrality of intimacy is unquestioned.
-
--   When people live on top of each other, there is no isolation to
-    transcend, and they are far less interested in embracing western,
-    middle-class ideals of intimacy. Their lives are entwined enough as
-    it is.
-
--   intimacy has been redefined. No longer is it the deep knowledge and
-    familiarity that develop over time and can be cultivated in silence.
-    Instead, we think of intimacy primarily as a discursive process, one
-    that involves self-disclosure, the trustful sharing of our most
-    personal and private material---our feelings. Of course, it is as
-    much about listening as it is about telling. The receiver of these
-    revelations must be a loving, accepting, nonjudgmental partner---a
-    "good listener," empathetic and validating. We want to feel
-    completely known, deeply recognized, and fully accepted for who we
-    are; and we expect our sharing to be reciprocated.
-
--   the emphasis on "talk intimacy" is nonetheless problematic, for a
-    number of reasons. The hegemony of the spoken word has veered into a
-    female bias that has, for once, put men in a position of
-    inferiority. Men are socialized to perform, to compete, and to be
-    fearless. The capacity to express feelings is not a prized attribute
-    in the making of American manhood. Dare I say it's not even
-    considered a desirable one?---at least, not yet. When it comes to
-    loving relationships, "talk intimacy" inevitably leaves many men at
-    a loss. In this regime, they suffer from a chronic intimacy
-    deficiency that needs ongoing repair. So much of masculine identity
-    is predicated on self-control and invulnerability.
-
--   While much has been written about the aggressive manifestations of
-    male sexuality, it is not sufficiently appreciated that the erotic
-    realm also offers men a restorative experience for their more tender
-    side. The body is our original mother tongue, and for a lot of men
-    it remains the only language for closeness that hasn't been spoiled.
-    Through sex, men can recapture the pure pleasure of connection
-    without having to compress their hard-to-articulate needs into the
-    prison of words.
-
--   The adherents of talk intimacy (often, though not always, women)
-    have a hard time recognizing these other languages for closeness,
-    hence they feel cheated when their partners are reluctant to confide
-    in them. "Why won't you talk to me?" they plead. "You should be able
-    to tell me anything. Don't you trust me? I want to be your best
-    friend." In this setup, the pressure is always on the non-talker to
-    change, rather than on the talker to be more versatile. This
-    situation minimizes the importance of nonverbal communication: doing
-    nice things for each other, making attentive gestures, or sharing
-    projects in a spirit of collaboration. A priceless smile or a
-    well-timed wink expresses complicity and attunement, especially when
-    words are unavailable.
-
--   In my own work, I see couples who no longer wait for an invitation
-    into their partner's interiority, but instead demand admittance, as
-    if they are entitled to unrestricted access into the private
-    thoughts of their loved ones. Intimacy becomes intrusion rather than
-    closeness---intimacy with an injunction.
-
--   Some couples take this one step farther, confusing intimacy with
-    control. What passes for care is actually covert surveillance---a
-    fact-finding approach to the details of a partner's life. What did
-    you eat for lunch? Who called? What did you guys talk about? This
-    kind of interrogation feigns closeness and confuses insignificant
-    details with a deeper sense of knowledge. I am often amazed at how
-    couples can be up on the minute details of each other's lives, but
-    haven't had a meaningful conversation in years.
-
--   When the impulse to share becomes obligatory,
-
--   When the impulse to share becomes obligatory, when personal
-    boundaries are no longer respected, when only the shared space of
-    togetherness is acknowledged and private space is denied, fusion
-    replaces intimacy and possession co-opts love. It is also the kiss
-    of death for sex. Deprived of enigma, intimacy becomes cruel when it
-    excludes any possibility of discovery. Where there is nothing left
-    to hide, there is nothing left to seek.
-
--   If one consequence of the supremacy of talk is that it leaves men at
-    a disadvantage, another is that it leaves women trapped in repressed
-    sexuality.
-
--   When we privilege speech and underplay the body, we collude in
-    keeping women confined.
-
--   The body is an inhibited site, awkward and tense. Play and
-    inventiveness have no place there. Words feel safer than gesture and
-    movements, and these people take refuge in speech. When reaching out
-    to others, they prefer the verbal route. Then there are those for
-    whom the body is like a playground, a place where they feel free and
-    unrestricted. They retain the child's capacity to fully inhabit
-    their bodies. In the physical realm, they can let go; they don't
-    have to be responsible. They are often the partner in the
-    relationship who wants more physical intimacy. It is especially
-    during lovemaking that they are able to escape their inner
-    rumblings. For them, sex is a relief that puts a halt to their
-    anxiety; for their more verbal partners, sex turns out to be a
-    source of anxiety.
-
--   Sometimes the emotional weaving is done through talk; often, it is
-    not. Building a bookshelf for your lover, changing the snow tires on
-    your wife's car, and learning to make his mom's chicken soup all
-    carry the promise of connection. Golde in Fiddler on the Roof
-    reminds us that even ordinary daily activities will, over time,
-    weave themselves into a rich tapestry of connection. Eddie and
-    Noriko, masters of nonverbal communication, can teach us all a
-    lesson in alternative ways to express our love. When we value only
-    what is disclosed through words, we do ourselves a disservice. At a
-    time when we could use just about any way to connect, we need to
-    honor and recognize the many ways we can reach out and touch
-    someone.
-
--   Some of America's best features---the belief in democracy, equality,
-    consensus-building, compromise, fairness, and mutual
-    tolerance---can, when carried too punctiliously into the bedroom,
-    result in very boring sex. Sexual desire and good citizenship don't
-    play by the same rules. And while enlightened egalitarianism
-    represents one of the greatest advances of modern society, it can
-    exact a toll in the erotic realm.
-
--   A lot of women find their desire for sexual submission hard to
-    accept. But stepping out of ourselves is exactly what eroticism
-    allows us to do. In eros, we trample on cultural restrictions; the
-    prohibitions we so vigorously uphold in the light are often the ones
-    we enjoy transgressing in the dark. It's an alternative space where
-    we can safely experience our taboos. The erotic imagination has the
-    force to override reason, convention, and social barriers.
-
--   If commitment requires a trade-off of freedom for security, then
-    eroticism is the gateway back to freedom. In the broad expansiveness
-    of our imagination we uncover the freedom that allows us to tolerate
-    the confines of reality. The very dynamics of power and control that
-    can be challenging in an emotional relationship can, when
-    eroticized, become highly desirable. In the crucible of the erotic
-    mind, we bring the more vexing components of love---dependency,
-    surrender, jealousy, aggression, even hostility---and transform them
-    into powerful sources of excitement.
-
--   we first learn about power differentials in the power grid of our
-    families.
-
--   Childhood is our basic training for power tactics. We have our will;
-    our parents have theirs. We demand; they object. We bargain for what
-    we want; they tell us what we can have. We learn to resist, and we
-    learn to surrender. At best we learn to balance, to mediate, to
-    understand. All these permutations of power stumble into our adult
-    intimacies, and gender does matter. Boys and girls undergo a
-    radically different initiation in wielding power. Men become adept
-    at direct expressions of power, women at indirect expressions; and
-    these differences are discernible in our sexual scripts. As adults,
-    we seek control in part as a defense against the vulnerability
-    inherent in love. When we put our hopes on one person, our
-    dependence soars. So do our frustrations and disappointments. The
-    greater our helplessness, the more dangerous the threat of
-    humiliation. The more we need, the angrier we are when we don't get.
-    Kids know this; lovers do, too. No one can bring us to the boiling
-    point as quickly as our partner (except maybe our parents, the
-    original locus of dependent rage). Love is always accompanied by
-    hate. While we fear the depth of our dependence, many of us are even
-    more frightened by the depth of our rage. We resort to intricate
-    relational contortions in order to keep all this combustion in
-    check. Yet the couples who most successfully implement this model of
-    placidity are rarely passionate lovers. When we confuse assertion
-    with aggression, neutralize otherness, adjust our longings, and
-    reason away our hostility, we assemble a calmness that is reassuring
-    but not very exciting. Stephen Mitchell makes the point that the
-    capacity to contain aggression is a precondition for the capacity to
-    love. We must integrate our aggression rather than eradicate it. He
-    explains, "The degradation of romance, the waning of desire, is due
-    not to the contamination of love by aggression, but to the inability
-    to sustain the necessary tension between them."
-
--   We do an exercise in which they divide a piece of paper by drawing a
-    line down the middle, then separately write their immediate
-    associations of the word "love" on the left-hand side. I give them
-    prompts: "When I think of love, I think of..." "When I love I
-    feel..." "When I am loved I feel..." "In love, I look for..." As
-    soon as they finish, they write their answers to the next set of
-    prompts on the right-hand side: "When I think of sex I think..."
-    "When I desire, I feel..." "When I am desired, I feel..." "In sex, I
-    look for..." This exercise, though simple, is remarkably
-    illuminating. First, because it lays out exactly how love and desire
-    are parsed in each partner's mind---how separate they are and how
-    interwoven. Second, it enables me to look at the congruence of these
-    arrangements between partners.
-
--   As I suspected, Jed and Coral experience sex in opposing ways, and
-    they look to sex for different things. Coral seeks intimate
-    connection through sex, and love charges her desire. She associates
-    love with warmth and security. Being loved makes her feel safe.
-    Being wanted does the same. For her, sex is sanguine, wholesome,
-    luxe. "I've connected with every person I've had sex with. Even in
-    one-night stands I would walk away smiling, thinking I was in love.
-    I had to learn that sex and love aren't always the same thing, that
-    I didn't have to want to marry every man I slept with." For Jed,
-    intimate connection emerges after the fact, and love and sex don't
-    blend nearly as seamlessly as they do for Coral. Love feels safe,
-    but also confining. It is laced with conflict. "I feel like I have
-    to restrict what I do and say to avoid hurting her. I feel
-    vulnerable, exposed, and disoriented. It's painful. I think I may
-    not deserve it because I just don't feel worth it. It's still hard
-    to see sometimes what inspires her to love me. I'm anxious." But
-    when it comes to sex, he has an entirely different experience. "Sex
-    has always fascinated me. It's the one place I can really be myself,
-    where I can express all kinds of feelings I usually keep under
-    wraps. Sex is deeply entwined with power; they're not fully distinct
-    for me." Aggression is an intrinsic part of his sexuality. It
-    emboldens him. He doesn't need to subordinate himself to the woman's
-    needs or feelings; nor does he get lost in them. "I need the power
-    because I felt so powerless for so long in my life. I need to
-    compartmentalize."
-
--   We believe that with a well-defined goal, a good plan, solid
-    organizational skills, and hard work, anything is possible. This is
-    the idea behind Americans' optimism. With the right effort and
-    unbending determination, there is no obstacle you can't overcome.
-    Hard work is rewarded by success. Conversely, if you fail, you
-    probably are lazy, unmotivated, self-indulgent, and unwilling to
-    really try to get what you want. You lack "spunk," and you have only
-    yourself to blame. And there's no reason why this boosterish,
-    essentially entrepreneurial interpretation wouldn't extend to any
-    existential or romantic quandary as well.
-
--   As a European, I have always admired Americans' optimism. It is the
-    opposite of the fatalism and resignation that pervade so many other,
-    more traditional cultures, and it expresses a healthy sense of
-    entitlement. People here don't like to say, "That's just the way it
-    is; you can't change it." But this can-do attitude encourages us to
-    assume that dwindling desire is an operational problem that can be
-    fixed. From magazine articles to self-help books, we are encouraged
-    to view a lack of sex in our relationships as a scheduling issue
-    that demands better prioritizing and time management, or as a
-    consequence of poor communication. If the problem is testosterone
-    deficiency, we can get a prescription---an excellent technical
-    solution. For the sexual malaise that can't be so easily
-    medicalized, remedies abound: books, videos, and sexual
-    accoutrements are there to assist you not only with the basics, but
-    to bring you to unimagined levels of ecstasy.
-
--   We've become exceedingly preoccupied with frequency of sexual
-    activity and number of orgasms.
-
--   The more diffuse and uncrunchable aspects of sexual
-    expression---love, intimacy, power, surrender, sensuality, and
-    excitement---rarely make it to the front page of a newspaper or the
-    cover of a magazine.
-
--   But when we reduce sex to a function, we also invoke the idea of
-    dysfunction. We are no longer talking about the art of sex; rather,
-    we are talking about the mechanics of sex. Science has replaced
-    religion as the authority; and science is a more formidable arbiter.
-    Medicine knows how to scare even those who scoff at religion.
-    Compared with a diagnosis, what's a mere sin? We used to moralize;
-    today we normalize, and performance anxiety is the secular version
-    of our old religious guilt.
-
--   This is not to say that practical advice and expert solutions are
-    never useful or necessary. If you have poor communication, of course
-    you should work at it; if you're too busy for sex, you're too busy.
-    If you lack knowledge, inform yourself. If you have a problematic
-    physical condition---age, hormonal changes, diabetes, prostate
-    cancer, hysterectomy---find a doctor who can offer medical support.
-    There are many books that offer sound help in this area.
-
--   We are socialized to tame our primal side: our unruly impulses, our
-    sexual urges, and our rapacious appetites. Social order is built on
-    this restraint, and lack thereof threatens to create chaos. Because
-    loss of control is almost exclusively seen in a negative light, we
-    don't even entertain the idea that surrender can be emotionally or
-    spiritually enlightening. But experiencing a temporary suspension of
-    our discernible self is often liberating and expansive.
-
--   it's the act of choosing, the freedom involved in choosing, that
-    keeps a relationship alive.
-
--   Desire emerged from a paradox: mutually recognizing the limitations
-    of married life created a bond between them; acknowledging otherness
-    inspired closeness.
-
--   What makes sustaining desire over time so difficult is that it
-    requires reconciling two opposing forces: freedom and commitment. So
-    it's not only a psychological or practical problem; it's also a
-    systemic one. That makes it harder to "work at." It belongs to the
-    category of existential dilemmas that are as unsolvable as they are
-    unavoidable.
-
--   We live in times where faster is better and control is power, where
-    performance trumps process and risk is mathematically calculated. In
-    our overcommitted lives there's a temptation to simplify our
-    existential complexities. We just don't have the time and patience
-    for open-ended reflection. We prefer instead to be proactive and
-    thereby reaffirm our sense of control. In my practice I meet couples
-    who complain about how the routine of their lives has left them
-    feeling numb. But when we continuously invest in the kind of
-    pragmatic solutions for "doing sex" that promise regularity---a
-    decent average---we run the risk of exacerbating the blandness we
-    struggle to remedy. Eroticism challenges us to seek a different kind
-    of resolution, to surrender to the unknown and ungraspable, and to
-    breach the confines of the rational world.
-
--   I believe there's an additional layer to our libidinal demise that
-    has to do with our culture's deep ambivalence around sexuality.
-    While we recognize the importance of sex, we nonetheless vacillate
-    between extremes of excessive license and repressive tactics: "Don't
-    do it till you're married." "Just do it when you feel like it."
-    "It's no big deal." "It's a huge deal." "You need love." "What's
-    love got to do with it?" It's an all-or-nothing approach to sex.
-    Porn sites proliferate on the Internet, yet we continue to debate
-    whether or not to provide sex education in our schools and, if so,
-    whether we should call it "Sex Ed"
-
--   I believe there's an additional layer to our libidinal demise that
-    has to do with our culture's deep ambivalence around sexuality.
-    While we recognize the importance of sex, we nonetheless vacillate
-    between extremes of excessive license and repressive tactics: "Don't
-    do it till you're married." "Just do it when you feel like it."
-    "It's no big deal." "It's a huge deal." "You need love." "What's
-    love got to do with it?" It's an all-or-nothing approach to sex.
-    Porn sites proliferate on the Internet, yet we continue to debate
-    whether or not to provide sex education in our schools and, if so,
-    whether we should call it "Sex Ed"
-
--   I believe there's an additional layer to our libidinal demise that
-    has to do with our culture's deep ambivalence around sexuality.
-    While we recognize the importance of sex, we nonetheless vacillate
-    between extremes of excessive license and repressive tactics: "Don't
-    do it till you're married." "Just do it when you feel like it."
-    "It's no big deal." "It's a huge deal." "You need love." "What's
-    love got to do with it?" It's an all-or-nothing approach to sex.
-    Porn sites proliferate on the Internet, yet we continue to debate
-    whether or not to provide sex education in our schools and, if so,
-    whether we should call it "Sex Ed" or opt for the less graphic
-    "Health Ed."
-
--   I believe there's an additional layer to our libidinal demise that
-    has to do with our culture's deep ambivalence around sexuality.
-    While we recognize the importance of sex, we nonetheless vacillate
-    between extremes of excessive license and repressive tactics: "Don't
-    do it till you're married." "Just do it when you feel like it."
-    "It's no big deal." "It's a huge deal." "You need love." "What's
-    love got to do with it?" It's an all-or-nothing approach to sex.
-    Porn sites proliferate on the Internet, yet we continue to debate
-    whether or not to provide sex education in our schools and, if so,
-    whether we should call it "Sex Ed" or opt for the less graphic
-    "Health Ed."
-
--   The legacy of Puritanism, which locates the family at the center of
-    society, expects marriage to be reasonable, sober, and productive.
-    You work, you save, and you plan. You take your commitments
-    seriously. But alongside this very American notion of individual
-    responsibility and moderation is the equally apple-pie notion of
-    individual freedom. We believe in personal fulfillment: in life,
-    liberty, and the pursuit of happiness. We relish the freedom to
-    spontaneously satisfy our desires, and we live in a market-driven
-    consumer economy which ensures that those desires never stop coming.
-    The sexual culture tells us what is attractive and what we should
-    want (as if we were incapable of finding out for ourselves whom to
-    desire and what turns us on). An entire industry of hedonism hovers
-    on the outskirts of marriage, a constant reminder of all we've
-    sacrificed in exchange for the muted sexuality of marital love.
-
--   Can our modern-day relationships ever be strong enough to withstand
-    the siren song of unlimited pleasure? When we are constantly
-    exhorted to replace the old with the new, when sexual images forever
-    portray youth and beauty (since nobody ages but you), when online
-    sex caters to your most idiosyncratic whim, can we reasonably expect
-    to remain contented with the same person for fifty years? The jury
-    is still out. We're promised immediate fulfillment, and it's there
-    for the taking by everyone but us.
-
--   Commitment means sacrificing your own goals and ambitions for
-    something that you can't control and that you could potentially fail
-    at. At least that's how we think of it now. Relationships are a loss
-    of independence. When you let another person in, romantically, you
-    make less room for yourself." "So relationships are about what you
-    lose, not what you gain?" I ask. "Exactly." "And romance?" "Hah.
-    There was none in high school. The few couples here at college stand
-    out as almost weird, like they're married or something." I am
-    intrigued by Ratu's portrayal of relationships. It had always seemed
-    to me that coupling (or at least the dream of romance) enlarges us,
-    and is about what you can discover with someone. At least, I was
-    convinced of that at her age. Ratu and her friends seem to find more
-    security in an MBA than in the power of a sustaining, loving bond.
-    Why do they feel this way? One reason might be that having embraced
-    the cultural mandate of self-reliance, they are apprehensive about
-    relationships. "If you add love to sex you make yourself extremely
-    vulnerable," she tells me. "I think that might be the heart of the
-    issue for my whole generation, this lack of trust. We were taught to
-    rely on ourselves, not to depend on others." It's an unromantic
-    attitude, but perhaps a wise one, given the precariousness of modern
-    marriage. Gender equality is made manifest in all its irony: both
-    men and women now have the right to be terrified of commitment.
-    Better to engage in risky sex than to succumb to the risks of the
-    heart.
-
--   For Nico, sex is a play in one act. For Maria it is a continuum of
-    pleasures, a successive unfolding. The problem arises when they
-    become trapped in a linear, goal-oriented focus on intercourse and
-    orgasm that bypasses eroticism. In this setup she struggles with the
-    idea that lingering is implicitly selfish and shamelessly greedy.
-    Her lack of prerogative and lack of self-affirmation are met with
-    Nico's hurriedness, which further reinforces her notion that she is
-    not worthy of attention. Of course she wouldn't worry that she was
-    taking too long if she thought he was into it. But for Nico slowness
-    inspires a different kind of anxiety, a fear of inadequacy that he
-    won't perform well enough. I suggest to Maria that she and Nico
-    liberate themselves from this task-oriented performance model of
-    sexuality with its rigid requirements for mutual orgasm. It's a
-    pass-fail approach that smacks of seriousness and takes much of the
-    fun out of sex.
-
--   I explain to Maria that it's scary to be both erotically exposed and
-    emotionally intimate with the same person, especially when you hold
-    the belief that sex is somehow shameful. "There's a whole part of
-    you that hasn't yet entered your relationship. In fact, the psychic
-    energy involved in keeping it tucked away is enough to make you
-    exhausted. No wonder you'd rather go to sleep than make love to your
-    husband." Like many of us, Maria grew up learning to hide her erotic
-    reveries and idle daydreams. Keeping our pleasures secret is a
-    central component of our sexual socialization.
-
--   It is hard to bring out in the open that which we spent years trying
-    to hide.
-
--   This is the challenge of sexual intimacy, of bringing home the
-    erotic. It is the most fearsome of all intimacies because it is
-    all-encompassing. It reaches the deepest places inside us, and
-    involves disclosing aspects of ourselves that are invariably bound
-    up with shame and guilt. It is scary, a whole new kind of nakedness,
-    far more revealing than the sight of our nude bodies. When we
-    express our erotic yearnings we risk humiliation and rejection,
-    which are equally devastating.
-
--   I have witnessed the painful scene when a person's preferences are
-    condemned and labeled by his or her partner as perverse, deviant,
-    and disgusting. It is no wonder that many of us prefer the security
-    of workable sex as a shield against this harrowing scenario. We may
-    be far from passion, but at least we feel normal. In the grand
-    scheme of things, it's not a bad compromise. But then there are
-    those who long to be known differently, to give themselves over and
-    risk crossing that threshold. They muster the courage to confront
-    the cultural prohibitions against sex---exuberant sex---at home.
-    They hunger for full expression in the erotic realm, and resist the
-    urge to withhold. For them sexual communion is far from dirty, but
-    rather a sacred melding that puts us in touch with the divine.
-    Erotic intimacy is the revelation of our memories, wishes, fears,
-    expectations, and struggles within a sexual relationship. When our
-    innermost desires are revealed, and are met by our loved one with
-    acceptance and validation, the shame dissolves. It is an experience
-    of profound empowerment and self-affirmation for the heart, body,
-    and soul. When we can be present for both love and sex, we transcend
-    the battleground of Puritanism and hedonism.
-
--   A HOST OF INSTITUTIONS LOOK out for our best interest. Religion,
-    government, medicine, education, the media, and pop culture all
-    labor tirelessly to define and regulate the parameters of our sexual
-    well-being. The incentives and prohibitions surrounding the
-    voluptuousness of the body are the mother's milk of society. Much of
-    what we learn about sex comes from the street, the movies,
-    television, and school. But before any of these reach us, our family
-    gets to us first. We are members of a society, but we're also the
-    children of our parents. (This includes grandparents, stepparents,
-    guardians, foster parents, and anyone else who is entrusted with our
-    early well-being.) No history has a more lasting effect on our adult
-    loves than the one we write with our primary caregivers.
-
--   We can trace back to where we learned to love and how. Did we learn
-    to experience pleasure or not, to trust others or not, to receive or
-    be denied? Were our parents monitoring our needs or were we expected
-    to monitor theirs? Did we turn to them for protection, or did we
-    flee them to protect ourselves? Were we rejected? Humiliated?
-    Abandoned? Were we held? Rocked? Soothed? Did we learn not to expect
-    too much, to hide when we are upset, to make eye contact? In our
-    family, we sense when it's OK to thrive and when others might be
-    hurt by our zest. We learn how to feel about our body, our gender,
-    and our sexuality. And we learn a multitude of other lessons about
-    who and how to be: to open up or to shut down, to sing or to
-    whisper, to cry or to hide our tears, to dare or to be afraid.
-
--   One aspect of the erotic blueprint that illustrates the
-    irrationality of our desire is that what excites us most often
-    arises from our childhood hurts and frustrations. The sex therapist
-    Jack Morin explains that the erotic imagination is ingenious in
-    undoing, transforming, and redressing the traumas of the past. In
-    other words, the experiences that caused us the most pain in
-    childhood sometimes become the greatest sources of pleasure and
-    excitement later on.
-
--   Let's take a look at Melinda. Her father is a philanderer. And while
-    she empathizes with her mother's despair, she also doesn't want to
-    be like her mother: broken, miserable, bereft. Instead she has
-    become the seductress, the opposite of the abandoned wife. Melinda
-    sets out to best men at their own game. Desire is stoked by
-    unavailability in Melinda's mind, and once she's seduced a man he is
-    instantly less attractive.
-
--   Almost nothing is more exciting than conquering a powerful, aloof
-    man; but the ultimate thrill is in dumping him---sure proof that she
-    has avenged the past. In heartlessly dismissing these men, Melinda
-    seeks to confirm that, unlike her mother, she is strong and
-    independent, the one calling the shots, making the choices, picking
-    up or discarding lovers as suits her fancy.
-
--   The central agent of eroticism is the human imagination, but for
-    many people the project of sexual self-discovery is hampered by
-    parental messages that induce fear, guilt, and mistrust. Something
-    that is meant to protect children often turns out to be a source of
-    much anxiety in adult sexual love.
-
--   Our physical and emotional dependence on our parents surpasses that
-    of any other living species, in both magnitude and duration. It is
-    so complete---and our need to feel safe is so profound---that we
-    will do anything not to lose them. We will suppress our wishes and
-    push our aggression underground. We will take the blame for abuse,
-    submit to control, become self-reliant, and otherwise renounce our
-    needs. In short, we'll apply a wide range of self-preservation
-    tactics, all aimed at maintaining our primary bond.
-
--   Things get tricky when you consider that one of our greatest needs,
-    developmentally speaking, is autonomy.
-
--   We need our parents to take care of us, but we also need them to
-    give us enough space to establish our freedom. We want them to hold
-    us and we want them to let us go. Throughout our lives we grapple
-    with this interplay between dependence and independence. How
-    artfully we reconcile these needs as adults depends greatly on how
-    our parents reacted to the stubborn duality in our little selves.
-    It's important to point out that our parents' behavior, what they
-    actually do, is only one part of the situation. Another part is our
-    interpretation of their actions.
-
--   Erotic intimacy is an act of generosity and self-centeredness, of
-    giving and taking. We need to be able to enter the body or the
-    erotic space of another, without the terror that we will be
-    swallowed and lose ourselves. At the same time we need to be able to
-    enter inside ourselves, to surrender to self-absorption while in the
-    other's presence, believing that the other will still be there when
-    we return, that he or she won't feel rejected by our momentary
-    absence. We need to be able to connect without the terror of
-    obliteration, and we need to be able to experience our separateness
-    without the terror of abandonment.
-
--   The first time James walked into my office, he sat down and said,
-    "Stella and I have a very good marriage, but sex has always been a
-    problem." James feels sexually inhibited with Stella, and their
-    erotic misfit fills him with tension. Whatever initial excitement he
-    may feel when Stella approaches him invariably turns into a
-    preoccupation with his own performance. Will I stay hard? Will I
-    come too soon? Will Stella have an orgasm? Sex becomes a race to the
-    finish line---can he get there before he loses his erection? His
-    ability to enjoy himself is massively curtailed by this narrow
-    focus. He can't be playful, can't try out new things, because
-    anything that strays from the routine might jeopardize his capacity
-    to perform. These anxieties always have a ripple effect, and James's
-    inhibitions have also stifled Stella. She senses his absence,
-    laments his lack of attention, and has complained about it bitterly
-    over the years.
-
--   What emerges in our conversations is that James was keenly attuned
-    to his mother's moods, and she was often lonely and sad. She didn't
-    like noise, didn't like messes, and got agitated when he and his
-    sister were too boisterous. She was a good mother, but very tightly
-    wound.
-
--   James's mother relied on him for support, company, and conversation.
-    (She referred to his father as simply the Paycheck.) "When I was
-    older and wanted to do things with my friends, I knew she was
-    disappointed. She'd say, 'Have a good time' in a way that made it
-    very hard for me to have a good time." James grew up torn between
-    his desire not to displease his mother and his need to lead his own
-    life.
-
--   Stella was the antithesis of James's mother, and for the first time
-    he was able to love a woman and not feel burdened with
-    responsibility and guilt. In fact, Stella regularly rejected his
-    attempts to be overly accommodating, explaining that they made her
-    feel smothered. He laughs when he recounts how anxious he used to
-    feel when he wanted to do something that didn't include her---he was
-    always afraid of disappointing her. He had a way of asking, "Do you
-    mind?" that drove her crazy. Finally she snapped, "Look, I'm not
-    your mother. You don't have to ask my permission." Stella has taught
-    James, largely through example, that you can be close to
-    someone---intimate, caring, secure---without feeling sacrificed in
-    the process. In asserting her independence, Stella has communicated
-    over and over that she's not fragile, and that her well-being does
-    not depend exclusively on him. The price of love does not have to be
-    personal obliteration.
-
--   But in the middle of this pastoral landscape is the minefield of
-    sex, where their worst arguments occur. She wants it; he doesn't.
-    She wants to talk about it; he doesn't. She gets angry. He gets
-    defensive. They clash, then wait for the dust to settle. This
-    situation is chronic and relentless, and recently it got a lot
-    worse. For years, Stella has resented being the custodian of their
-    sex life. "I'm the one who thinks about it, who wants it, who makes
-    it happen, and who complains when it doesn't. If I left it up to
-    James, our erotic life would be a desert." Privately James admits
-    that he initiates only when he's reasonably sure she won't be
-    receptive; that way, he appears to keep up his end of the bargain.
-    Stella hates being the one who "does it all," but she doesn't dare
-    stop, for fear that there will be nothing, an unbearable void.
-    Better to assume his lack of interest than to confirm it.
-
--   "We're like roommates. This time I really need him to make the
-    effort, and he won't." I point out to Stella that even though it may
-    look as if he won't, what's more likely is that he doesn't know how.
-    The disruption brought about by menopause challenges a pattern that
-    has been fixed since early in their relationship. They will soon
-    discover that it also opens up new possibilities. James is quick to
-    focus on performance issues to justify his lack of desire. He
-    foresees sexual failure, and his anxiety makes this prophecy
-    self-fulfilling. He feels diminished and unmanly each time he fails,
-    and his fear of impotence makes him want to stop even before he
-    starts.
-
--   The unintended irony in all this is that James becomes so obsessed
-    with doing it right, staying hard for Stella, that he loses sight of
-    her entirely. So while he thinks he's focusing completely on her,
-    she feels as if he's somewhere else altogether.
-
--   I remark to James that holding the lens squarely on the physical act
-    of sex---sex as a performance---is a decidedly unerotic approach. It
-    is too narrow an angle. To me, it seems that James is overwhelmed by
-    the whole prospect of being sexual with his wife: claiming desire,
-    eroticizing her, feeling free to express the bawdiness of his lust
-    with her.
-
--   The women who populate his fantasy life are lascivious, sexually
-    alluring, and in no way vulnerable. He need not fear that his
-    selfishness might hurt them, and he can delight in his excitement
-    guilt-free. This is a freedom he never reaches with his wife, and
-    that realization leads us to the cause of his erotic block. James
-    doesn't know how to enjoy himself sexually in the presence of the
-    woman he loves. Unable to reconcile pleasing himself and pleasing
-    Stella at the same time, he ends up pleasing neither.
-
--   He fears that if he surrenders to his own concupiscence and forgets
-    Stella, even for a moment, she will be unforgivably hurt. Though
-    James is not aware of this, his erotic blueprint is riddled with
-    marks left by his relationship with his unhappy mother.
-
--   he has to make an impossible choice between attending to himself and
-    securing closeness. The guilt he felt as a child about being selfish
-    has been transformed into sexual inhibition.
-
--   I work with James to establish a comfortable sense of sexual
-    separateness, making sure to clarify that separateness does not mean
-    indifference. Instead of fixating constantly on Stella, I ask him to
-    do the unthinkable and hold on to himself. With this in mind, I
-    suggest a few things. "First, leave the bedroom. Too many bad
-    associations. Curse the bed---it has failure written all over it. It
-    operates as a sensory deprivation tank. Find other surfaces in the
-    house. Then, I'd like you to masturbate next to Stella, to
-    experience the possibility of pleasing yourself in her presence.
-    Take note of the tension and the guilt. Be mindful of them, rather
-    than trying to avoid them." I chose masturbation for several
-    reasons. First, it is the one area of James's sexuality where he can
-    let go freely. Second, it invites him to be totally self-centered,
-    and relieves him of the responsibility of pleasing his wife. Third,
-    it will---I hope---confirm for him that attending to himself doesn't
-    have to hurt her. Being watched will support his ability to indulge
-    his erotic individuality guilt-free. Finally, it will turn his
-    performance anxiety on its head. The act of masturbating in her
-    presence is itself a grand performance, with Stella as the sole
-    spectator. For the first time he can consider that she may actually
-    enjoy taking in his enjoyment. Letting her watch him roam freely in
-    his own erotic territory is itself an intimate gift.
-
--   When James touches her tentatively, waiting for her to give him the
-    go-ahead, she is filled with resentment. As it turns out, James's
-    cautious regard is a turn-off. His deference leaves her feeling
-    burdened; his dogged focus leaves her aching.
-
--   I tell Stella what I've told many people who are cherished spouses
-    but famished lovers: "You know he loves you; you've never doubted
-    that; and that's why you've stayed all these years. What hurts so
-    much is that you've never felt wanted by him. You feel that it's all
-    on you to make it happen, and indeed it is. You've forfeited sensual
-    complicity for emotional security. It's a cruel bargain."
-
--   It's virtually impossible not to take such repeated denial
-    personally, to see it as proof that one is undesirable, and to slip
-    into self-doubt.
-
--   To James I say, "Love and desire are not the same. Cozy is not the
-    same as sexy. Your wife knows you love her. What she wants is to
-    feel desired by you. She wants to know your hunger, to taste the
-    delicate flavors of your craving, and to see it as a match for her
-    own. Your inability to let go, to surrender to your own hedonistic
-    designs, is infuriating to her. Your passivity is irritating, and
-    your considerateness is the opposite of her fantasy of unrestrained
-    rapture. Your lustiness would be an open endorsement for her own
-    ardor. It's hard to let go with someone who doesn't."
-
--   It takes two people to create a pattern, but only one to change it.
-    James gleefully described himself in a later session as "bold and
-    persistent," and was amazed by how the feeling of being in charge
-    literally charged him up. By taking control he was finally able to
-    lose control. The sexual prison he and Stella had carefully
-    constructed had begun to unlock. Freeing himself from his chronic
-    reactive stance, even momentarily, filled him with hope and gave him
-    a glimpse into the erotic possibilities that lay ahead.
-
--   It's worth pointing out that in this encounter (and subsequent ones)
-    James had no problem with coming too soon, or even with worrying
-    that he might. When sex feels like an obligation it's very
-    efficacious to come fast---it brings a quick end to the discomfort.
-    When lovers engage sexually as free agents, turning surrender into
-    an act of self-assertion, there is no need to get it over with.
-    Precipitating the grand finale isn't so much the point as savoring
-    the mutual trust and intimacy along the way. Premature ejaculation
-    is a misnomer. It is not a matter of timing; it has to do with lack
-    of intent. It would be better described as "involuntary
-    ejaculation." Once James was in charge of his desire, he was in
-    charge of his ejaculation as well.
-
--   Erotic excitement requires that we be able to step out of the
-    intimate bond for a moment, turn toward ourselves, and focus on our
-    own mounting sensations. We need to be able to be momentarily
-    selfish in order to be erotically connected.
-
--   The more we trust, the farther we are able to venture. When infants
-    play peek a boo, the distance they can bear is only as far as the
-    breadth of their fingers. What powers the game is the realization
-    that, even when I don't see you, you continue to exist. Older
-    children play hide-and-seek, secure in the knowledge that someone
-    will eventually come looking. The thrill of hiding is followed by
-    the relief of being found. Erotic intimacy is an adult version of
-    hide-and-seek. As when we were children, the stronger the connection
-    the braver we are about stretching it. We know our beloved will be
-    waiting for our return, will not punish our selfish pursuits, and in
-    fact may even applaud them.
-
--   In addition to the family legacy, we also carry a cultural legacy.
-    We are socialized to control ourselves, to restrain our impulses, to
-    tame the animal within. So as dutiful citizens and spouses we edit
-    ourselves and mask our ravenous appetites and conceal our fleeting
-    need to objectify the one we love.
-
--   Loving another without losing ourselves is the central dilemma of
-    intimacy. Our ability to negotiate the dual needs for connection and
-    autonomy stems from what we learned as children, and often takes a
-    lifetime of practice. It affects not only how we love but also how
-    we make love. Erotic intimacy holds the double promise of finding
-    oneself and losing oneself. It is an experience of merging and of
-    total self-absorption, of mutuality and selfishness. To be inside
-    another and inside ourselves at the same time is a double stance
-    that borders on the mystical. The momentary oneness we feel with our
-    beloved grows out of our ability to acknowledge our indissoluble
-    separateness. In order to be one, you must first be two.
-
--   The transition from two to three is one of the most profound
-    challenges a couple will ever face. It takes time---time measured in
-    years, not weeks---to find our bearings in this brave new world.
-    Having a baby is a psychological revolution that changes our
-    relation to almost everything and everyone, from our sense of self
-    and identity to our relations with our partners, friends, parents,
-    and in-laws. Our bodies change. So do our finances and work lives.
-    Priorities shift, roles are redefined, and the balance between
-    freedom and responsibility undergoes a massive overhaul. We
-    literally fall in love with our babies and, as we once understood
-    with our mates, falling in love is an all-consuming affair that
-    pushes everything else aside. The making of a family calls for a
-    redistribution of resources and, for a while, there seems to be less
-    for the couple: less time, less communication, less sleep, less
-    money, less freedom, less touch, less intimacy, less privacy.
-
--   Family life can feel like ongoing triage: what needs my immediate
-    attention, and what can I put off until later? We constantly sort
-    conflicting demands into their appropriate hierarchical slots: The
-    Crucial, The Important, The Dreamed of, The Ought-to, The
-    Negligible, The Irrelevant, The Whatever, The Trifling, The "Maybe
-    Someday," The "Not in this lifetime." Sex often remains firmly at
-    the bottom of the to-do list, never relinquishing its last-place
-    status to other, more mundane tasks.
-
--   Facing the great unknown of parenthood, we try to establish as much
-    security as we can. We seek to contain the unpredictable by creating
-    structure. We organize; we prioritize; we become serious. In the
-    process we cast aside what is frivolous, immature, irresponsible,
-    reckless, excessive, and unproductive, for such things clash with
-    the task at hand: building a family.
-
--   Family life flourishes in an atmosphere of comfort and consistency.
-    Yet eroticism resides in unpredictability, spontaneity, and risk.
-    Eros is a force that doesn't like to be constrained. When it settles
-    into repetition, habit, or rules, it touches its death. It then is
-    transformed into boredom and sometimes, more powerfully, into
-    repulsion. Sex, a harbinger of loss of control, is fraught with
-    uncertainty and vulnerability. But when kids come on the scene, our
-    tolerance for these destabilizing emotions takes a dive. Perhaps
-    this is why they are so often relegated to the fringes of family
-    life. What eroticism thrives on, family life defends against.
-
--   These cherished intruders fill us with a profound sense of
-    vulnerability and lack of control. We dread the thought of something
-    terrible happening to them or worse yet, of losing them. They hold
-    us hostage to constant anxiety. We love them so much, and we want to
-    protect them at all costs. We can numb these frightening thoughts or
-    obsess about them, but in either case we want to get it right. Are
-    they OK? How can you tell? Did I handle this well, or should we
-    start saving up for therapy as well as college? In the face of these
-    daunting questions, Stephanie runs for the mop, even when she
-    doesn't have to, because it provides a modicum of control in an
-    otherwise emotionally chaotic environment.
-
--   in a sense, a certain replacement has occurred. The sensuality that
-    women experience with their children is, in some ways, much more in
-    keeping with female sexuality in general. For women, much more than
-    for men, sexuality exists along what the Italian historian Francesco
-    Alberoni calls a "principle of continuity." Female eroticism is
-    diffuse, not localized in the genitals but distributed throughout
-    the body, mind, and senses. It is tactile and auditory, linked to
-    smell, skin, and contact; arousal is often more subjective than
-    physical, and desire arises on a lattice of emotion. In the
-    physicality between mother and child lie a multitude of sensuous
-    experiences. We caress their silky skin, we kiss, we cradle, we
-    rock. We nibble their toes, they touch our faces, we lick their
-    fingers, let them bite us when they're teething. We are captivated
-    by them and can stare at them for hours. When they devour us with
-    those big eyes, we are besotted, and so are they. This blissful
-    fusion bears a striking resemblance to the physical connection
-    between lovers. In fact, when Stephanie describes the early rapture
-    of her relationship with Warren---lingering gazes, weekends in bed,
-    baby talk, toe-nibbling---the echoes are unmistakable. When she
-    says, "At the end of the day, I have nothing left to give," I
-    believe her. But I also have come to believe that at the end of the
-    day, there may be nothing more she needs.
-
--   Stephanie's intense focus on her kids is not a mere
-    idiosyncrasy---not simply her own personal style. In fact, this kind
-    of overzealous parenting is a fairly recent trend that has, one
-    hopes, reached its apex of folly. Childhood is indeed a pivotal
-    stage of life that will inevitably shape the child's future. But the
-    last few decades have ushered in an emphasis on children's happiness
-    that would make our grandparents shudder. Childhood has been
-    sanctified so that it no longer seems ridiculous for one adult to
-    sacrifice herself entirely in order to foster the flawless and
-    painless development of her offspring---a one-person,
-    round-the-clock child rearing factory. This is a far cry from the
-    days (not so long ago in America and still present in many parts of
-    the world) when children were considered principally as collective
-    economic assets, and women gave birth to many children in hope of
-    keeping just a few. We no longer get work out of our children; today
-    we get meaning.
-
--   The magnitude of child rearing, coupled with the scarcity of
-    resources, affects mothers in particular, who carry most of the
-    burden in heterosexual couples. And the problem doesn't end there;
-    for this unprecedented child-centrality is unfolding against the
-    backdrop of romanticism that underscores modern marriage. Not only
-    do we want to be perfect parents and give our children everything;
-    we also want our marital relationships to be happy, fulfilled,
-    sexually exciting, and emotionally intimate. Indeed, in our culture
-    the survival of the family depends on the happiness of the couple.
-    But cultivating the ideal relationship requires care and attention,
-    and this competes directly with the "full-contact" parenting many of
-    us embrace. Utopian romance gets blasted by the realities of family
-    life. Stephanie feels overwhelmed because, indeed, she is.
-
--   What Stephanie fails to see is that behind Warren's nagging
-    insistence is a yearning to be intimate with his wife. For him, sex
-    is a prelude to intimacy, a pathway to emotional vulnerability. She
-    responds to him as if he were one more needy child. She doesn't
-    realize that this is not just for him but for her, too. Like a lot
-    of women, once she's in the caretaking mode she has a hard time
-    switching it off. She's so mentally organized in terms of what she
-    does for everyone else that she is unable to recognize when
-    something is offered to her. What Warren finds intolerable is that
-    his approach is having the opposite effect of what he intends. He is
-    desperate for a flicker of desire from Stephanie, but he wants it
-    just to be there, sudden and whole, the way it is for him. I explain
-    to him that expecting our partner to be in the mood just because we
-    are is a setup for disappointment. We take lack of desire as a
-    personal rejection, and forget that one of the great elixirs of
-    passion is anticipation.
-
--   For Stephanie, love and desire are inseparable. She needs to feel
-    intimate before she can allow the vulnerability of sex; otherwise,
-    she feels objectified.
-
--   Many women struggle to integrate sexuality and motherhood. Ours is a
-    culture that equates maternal devotion with selflessness:
-    self-sacrifice, self-abnegation, self-denial. Stephanie has had
-    years of putting the children first and forgetting herself
-    altogether. She has relinquished her freedom and her
-    independence---both cornerstones of desire---and has forsaken
-    herself as a person in her own right. Reconnecting with her erotic
-    self, separate from her maternal self, is crucial.
-
--   Together we shift the focus from self-denial to self-awareness. We
-    explore how she might reclaim a right to pleasure, with its inherent
-    threat of selfishness, in a way that doesn't leave her feeling like
-    a bad mother.
-
--   One upshot of these discussions is that Stephanie does something
-    radical (for her)---she goes on a weekend retreat with her sister,
-    leaving Warren and the children to their own devices. Getting to
-    that point took a lot of work, but I sense that before she can open
-    herself to sex, she needs to expand the general domain of personal
-    pleasure. Becoming more generous with herself, she might---I
-    hope---be more receptive to her husband.
-
--   There's an assumption---and you're not alone---that we need only
-    pursue what we don't yet possess. The trick is that in order to keep
-    our partner erotically engaged we have to become more seductive, not
-    less."
-
--   What I see over and over is that the person who takes on the role of
-    primary caretaker almost always undergoes changes similar to
-    Stephanie's: a total immersion in the lives and rhythms of the
-    children, a loss of self, and a greater difficulty extricating
-    himself or herself from chores (a compulsion that is simultaneously
-    frustrating and grounding).
-
--   The role of the more autonomous parent is to help the primary
-    caregiver disengage from the kids and reallocate energy to the
-    couple.
-
--   I have noticed over the years that child-centrality isn't just a
-    matter of lifestyle; it is sometimes an emotional configuration as
-    well. Children are indeed a source of nurturance for adults. Their
-    unconditional love and utter devotion infuse our lives with a
-    heightened sense of meaning. The problem arises when we turn to them
-    for what we no longer get from each other: a sense that we're
-    special, that we matter, that we're not alone. When we transfer
-    these adult emotional needs onto our children, we are placing too
-    big a burden on them. In order to feel safe, kids need to know that
-    there are limits to their power, and to what is surreptitiously
-    asked of them. They need us to have our own loving relationships, in
-    whatever form they take. When we are emotionally and sexually
-    satisfied (at least reasonably so; let's not get carried away here),
-    we allow our children to experience their own independence with
-    freedom and support.
-
--   Spontaneity is desirable, but the reality of family life demands
-    planning. Couples without kids can initiate sex on a whim, but
-    parents need to be more practical. Be it a regular date night, a
-    weekend away every few months, or an extra half hour in the car,
-    what matters is that couples cordon off erotic territory for
-    themselves.
-
--   There are so many reasons to give up on sex that those who don't are
-    champions in their own right. The brave and determined couples who
-    maintain an erotic connection are, above all, the couples who value
-    it. When they sense that desire is in crisis, they become
-    industrious, and make intentional, diligent attempts to resuscitate
-    it. They know that it is not children who extinguish the flame of
-    desire; it is adults who fail to keep the spark alive.
-
--   If we feel insecure and unattractive, in our fantasies we are
-    irresistible. If we anticipate a withholding woman, in fantasy she's
-    insatiable. If we fear our own aggression, in our internal reveries
-    we can feel powerful without worrying that we might hurt another. If
-    we don't dare ask, in our erotic imaginings the other knows our
-    needs even before we do. If we feel we shouldn't have sex, in our
-    private theater we can surrender to a lustful other without having
-    to bear the responsibility---we did what he wanted, it wasn't us.
-    Fantasy expresses the problem and provides the solution.
-
--   To my thinking, sexual fantasy includes any mental activity that
-    generates desire and intensifies enthusiasm. These thoughts need not
-    be graphic, or even well-defined. They're often inarticulate, more
-    feelings than images, more sensuous than sexual. Virtually anything
-    can work its way into one's erotic imagination. Memories, smells,
-    sounds, words, specific times of the day, textures---all can be
-    considered fantasy as long as they set in motion the arc of desire.
-
--   Some couples get an erotic charge from sharing their fantasies in
-    words or in enactments. Catherine and her husband scheme in naughty
-    complicity when they plan out the details of their lascivious
-    one-acts. This is fun, it's novel, and it allows them to be (and be
-    with) someone new without having to go somewhere else. It creates
-    multiplicity out of monogamy. But not everyone wants a ticket to
-    this theater of seduction. Disclosure is not a necessary part of
-    working with fantasy. I don't advocate a tell-all approach; not
-    everyone would choose to live in an atmosphere of True Confessions.
-    We may like to keep our imaginings to ourselves, not out of shame
-    but out of an inchoate awareness that exposure to bright light will
-    cause them to wither on the vine. Alternatively, we may be wise to
-    dream alone, for we may not be on the same erotic wavelength as our
-    beloved.
-
--   Heterosexual pornography, predominantly produced by and for men,
-    concerns itself almost exclusively with what the sociologist Anthony
-    Giddens calls "low emotion, high intensity sex." In part, it meets
-    the need of many men to compartmentalize their sexual and emotional
-    lives, and to separate their secure relationships from their rash
-    urges. But it also serves an additional purpose not immediately
-    apparent. While opponents of porn focus primarily on the aggression
-    and violence of male sexuality, Giddens makes the point that the
-    male potency displayed in these stories is a manifest reassurance
-    against male insecurities---sexual and other. The female characters
-    in much pornography (themselves invulnerable) neutralize male
-    vulnerability because they are always fully responsive and fully
-    satisfied. The man never suffers from inadequacy, because the woman
-    is in a state of ecstatic bliss that is entirely his doing. She
-    confirms his virility.
-
--   Our cultural taboos about erotic fantasy are so strong that for many
-    people the very idea of discussing it creates anxiety and shame. Yet
-    fantasies are maps of our psychological and cultural preoccupations;
-    exploring them can lead to greater self-awareness, an essential step
-    in creating change. When we cordon off our erotic interiors, we are
-    left with sex that is truncated, devoid of vibrancy, and not
-    particularly intimate. What people fail to see is that dull, boring
-    sexual relationships are often a consequence of shutting down the
-    imagination in just this way. Our erotic imagination is an exuberant
-    expression of our aliveness, and one of the most powerful tools we
-    have for keeping desire alive. Giving voice to our fantasies can
-    liberate us from the many personal and social obstacles that stand
-    in the way of pleasure. Understanding what our fantasies do for us
-    will help us understand what it is we're seeking, sexually and
-    emotionally. In our erotic daydreams, we find the energy that keeps
-    us passionately awake to our own sexuality.
-
--   No longer obligated to marry who we must, we set out with a new
-    ideal of what we want, and we want plenty. Our desiderata still
-    include everything the traditional family was meant to
-    provide---security, children, property, respectability---but now we
-    also want our Joe to love us, to desire us, to be interested in us.
-    We should be confidants, best friends, and passionate lovers. Modern
-    marriage promises us that there is one person out there with whom
-    all this is possible if we can just find her.
-
--   Once upon a time, there was one person whose only role was to be
-    there for us. In the ecstatic communion between mother and child,
-    there is no gap. To the newborn the mother is everything, all at
-    once, inseparable, unbounded: her skin, her breast, her voice, her
-    smile, it is all for him. As a pink-bottomed baby, we were full and
-    fulfilled, and somewhere deep inside we've never forgotten that
-    Eden. Those of us who didn't know this idyllic state---those with
-    mothers who were unavailable, inconsistent, absent, or selfish---are
-    often even more determined to find the perfect partner. The question
-    remains: isn't the oneness we strive to restore itself a fantasy?
-
--   For the child, Mom is the be-all and end-all, but the mother has
-    always known other people. She even has a jealous lover, the father.
-    As it turns out, Mom was never totally faithful---not even once upon
-    a time. So the specter of betrayal is there from the beginning. We
-    grow up with it. The isolating conditions of modern life only
-    amplify the rumbling insecurity that hides in the background of our
-    romantic possessiveness. Fear of loss and fear of abandonment
-    tighten our grip on fidelity. In a culture where everything is
-    disposable and downsizing confirms just how replaceable we really
-    are, our need to feel secure in our primary relationship is all the
-    greater.
-
--   When the intimacy is gone, when we no longer
-
--   When the intimacy is gone, when we no longer talk, when we haven't
-    been touched in years, we are more vulnerable to the kindness of
-    strangers. When the kids are young and needy, extramarital
-    appreciation can feel like a tonic. When they're older and gone,
-    empty nesters may seek replenishment elsewhere. If our health fails
-    us, or if we've just been visited by death, we may experience
-    outbursts of dissatisfaction, a cry for something better.
-
--   Affairs are motivated by myriad forces; not all of them are directly
-    related to flaws in the marriage. As it happens, plenty of
-    adulterers are reasonably content in their relationships.
-
--   Marriage is imperfect. We start with a desire for oneness, and then
-    we discover our differences. Our fears are aroused by the prospect
-    of all the things we're never going to have. We fight. We withdraw.
-    We blame our partners for failing to make us whole. We look
-    elsewhere. Sadly, too many of us stay stuck in this place until
-    we're bald or gray. Others mourn the loss of the dream, then come to
-    terms with the choice they made. Love is anchored in acceptance.
-
--   At the boundary of every couple lives the third. He's the high
-    school sweetheart whose hands you still remember, the pretty
-    cashier, the handsome fourth-grade teacher you flirt with when you
-    pick your son up at school. The smiling stranger on the subway is
-    the third. So, too, are the stripper, the porn star, and the sex
-    worker, whether touched or untouched. He is the one a woman
-    fantasizes about when she makes love to her husband. Increasingly,
-    she can be found on the Internet. Real or imagined, embodied or not,
-    the third is the fulcrum on which a couple balances. The third is
-    the manifestation of our desire for what lies outside the fence. It
-    is the forbidden.
-
--   we live in a world that offers us little help with staying put or
-    making do. In our consumer culture, we always want the next best
-    thing: the latest, the newest, the youngest. Failing that, we at
-    least want more: more intensity, more variety, more stimulation. We
-    seek instant gratification and are increasingly intolerant of any
-    frustration. Nowhere are we encouraged to be satisfied with what we
-    have, to think, "This is good. This is enough." Sex is part and
-    parcel of this economy---some people might even say that sex propels
-    it.
-
--   These couples, in their own ways, have chosen to acknowledge the
-    possibility of the third: the recognition that our partner has his
-    or her own sexuality, replete with fantasies and desires that aren't
-    necessarily about us. When we validate one another's freedom within
-    the relationship, we're less inclined to search for it elsewhere. In
-    this sense, inviting the third goes some way toward containing its
-    volatility, not to mention its appeal. It is no longer a shadow but
-    a presence, something to talk about openly, joke about, play with.
-    When we can tell the truth safely, we are less inclined to keep
-    secrets.
-
--   Rather than inhibiting a couple's sexuality, recognizing the third
-    has a tendency to add spice, not least because it reminds us that we
-    do not own our partners. We should not take them for granted. In
-    uncertainty lies the seed of wanting.
-
--   Finally, renouncing others reaffirms our choice. He is the one I
-    want. We admit our roving desires, yet push them back. We flirt with
-    them, all the while keeping them at a safe distance. Perhaps this is
-    another way of looking at maturity: not as passionless love, but as
-    love that knows of other passions not chosen.
-
--   There are a lot of ways to invite the third into a relationship that
-    don't include extramarital sex, and a few that do. For most people,
-    the mention of sexually open relationships sets off the red warning
-    lights.
-
--   Monogamy stipulates keeping the forbidden on the outside, but rarely
-    includes provisions for the couple. Eventually, if desire withers,
-    monogamy too easily slides downward into celibacy. When this
-    happens, fidelity becomes a weakness rather than a virtue.
-
--   it's been my experience that couples who negotiate sexual
-    boundaries, like the ones mentioned above, are no less committed
-    than those who keep the gates closed. In fact, it is their desire to
-    make the relationship stronger that leads them to explore other
-    models of long-term love. Rather than expelling the third from the
-    province of matrimony, they grant it a tourist visa. For these
-    couples, fidelity is defined not by sexual exclusivity but by the
-    strength of their commitment. The boundaries aren't physical but
-    emotional. The primacy of the couple remains paramount.
-
--   It's interesting to note that although these couples bring a new
-    meaning to the concept of fidelity, they are nonetheless susceptible
-    to betrayal. Trust is crucial in any relationship, and this is no
-    different for those who invite the third into their intimate space.
-    Infidelity lies in breaches of the agreement, in violations of
-    trust. Even though the rules themselves may look very different,
-    they are breakable, and breaking them has equally painful
-    consequences. In this sense, sexually open couples are no different
-    from their monogamous counterparts.
-
--   The presence of the third is a fact of life; how we deal with it is
-    up to us. We can approach it with fear, avoidance, and moral
-    outrage; or we can bring to it a robust curiosity and a sense of
-    intrigue.
-
--   Marriage has become a matter of love; love is a matter of choice;
-    and choice implies renouncing others. But that doesn't mean the
-    others are dead. Nor does it mean that we need to deaden our senses
-    so as to protect ourselves from their allure. Acknowledging the
-    third has to do with validating the erotic separateness of our
-    partner. It follows that our partner's sexuality does not belong to
-    us.
-
--   The more we choke each other's freedom, the harder it is for desire
-    to breathe within a committed relationship.
-
--   I'd like to suggest that we view monogamy not as a given but as a
-    choice. As such, it becomes a negotiated decision. More to the
-    point, if we're planning to spend fifty years with one soul---and we
-    want a happy jubilee---it may be wiser to review our contract at
-    various junctures. Just how accommodating each couple may be to the
-    third varies. But at least a nod is more apt to sustain desire with
-    our one and only over the long haul---and perhaps even to create a
-    new "art of loving" for the twenty-first century couple.
-
--   Marriage, we've been taught, is about commitment, security, comfort,
-    and family. It's a serious business, a responsible and purposeful
-    enterprise; it's all the things we need, and all the things we need
-    to do. Play and its playmates (risk, seduction, naughtiness,
-    transgression) are left to fend for themselves outside the solid
-    architecture of our homes.
-
--   For \[married\] sex to be "meaningful," it must always be an
-    expression of love---preferably of lifelong, abiding love---every
-    time we climb into bed with one another. And what an incredible
-    burden that is! It eliminates sex stimulated by a whole array of
-    other emotions and sensations: playful sex and angry sex, quick,
-    "mindless" sex and "naughty" sex. It eliminates, in fact, just about
-    every occasion for having sex there is. After all, who can feel
-    "lifelong, abiding love" that regularly---especially at eleven
-    o'clock at night?
-
--   Domestic eroticism is wrapped in a veil of appropriateness.
-
--   a lot of couples play with objectification as a way to superimpose
-    otherness on a partner who's become too familiar. It is often
-    dismissed as lacking intimacy, but I think that when both of you are
-    into it, it's another kind of closeness. You have to trust people a
-    lot to let yourself forget them."
-
--   Fear---of judgment, of rejection, of loss---is embedded in romantic
-    love. Sexual rejection at the hands of the one we love is
-    particularly hurtful. We are therefore less inclined to be
-    erotically adventurous with the person we depend on for so much and
-    whose opinion is paramount. We'd rather edit ourselves, maintaining
-    a tightly negotiated, acceptable, even boring erotic script, than
-    risk injury. It is no surprise that some of us can freely engage in
-    the perils and adventures of sex only when the emotional stakes are
-    lower---when we love less or, more important, when we are less
-    afraid to lose love.
-
--   When the object of our desire is a person, her rejection leaves us
-    feeling lonely, unworthy, unloved, or---worse---unlovable. But
-    fulfilled desire carries its own brand of loss. Getting what we want
-    undermines the thrill of wanting it. The deliciousness of yearning,
-    the elaborate strategies of pursuit, the charged fantasies, in short
-    all the activity and energy that went into wanting give way to the
-    foreclosure of having. Just think about the last thing you had to
-    have until you owned it. Now that it's yours, you may enjoy it, you
-    may love it, but do you still want it? Do you even remember how much
-    you wanted it in the first place?
-
--   Is it harder to want what you already have? The law of diminishing
-    returns tells us that increased frequency leads to decreased
-    satisfaction. The more you use a product, the less satisfying each
-    subsequent use will be.
-
--   Fortunately, the logic of this argument breaks down when it is
-    applied to love, for it is based on the erroneous assumption that we
-    can own a person in the same way that we can own an iPod or a new
-    pair of Prada heels.
-
--   The grand illusion of committed love is that we think our partners
-    are ours. In truth, their separateness is unassailable, and their
-    mystery is forever ungraspable. As soon as we can begin to
-    acknowledge this, sustained desire becomes a real possibility. It's
-    remarkable to me how a sudden threat to the status quo (an affair,
-    an infatuation, a prolonged absence, or even a really good fight)
-    can suddenly ignite desire. There's nothing like the fear of loss to
-    make those old shoes look new again.
-
--   The counterargument to the law of diminishing returns is the
-    principle that consistent investment leads to increased
-    satisfaction. The more you do something, and the better you get at
-    it, the more you're going to enjoy it.
-
--   Unfortunately, all too often we associate effort with work, and
-    discipline with pain. But there's a different way to think of work.
-    It can be creative and life-affirming, sparking a heightened sense
-    of vitality rather than a bone-deep exhaustion. If we want sex to be
-    fulfilling, then we have to apply effort in just this artful way.
-
--   It is hard to overstate their enthusiastic conviction that really
-    sexy sex is supposed to be spur-of-the-moment. We like to believe
-    that sex arises from an impulse or inclination that is natural,
-    unprompted, and artless.
-
--   For many of us, premeditated sex is suspicious. It threatens our
-    belief that sex is subject only to the machinations of magic and
-    chemistry. The idea that sex must be spontaneous keeps us one step
-    removed from having to will sex, to own our desire, and to express
-    it with intent. As long as sex is something that just happens, you
-    don't have to claim it. It's ironic that in such a willful society,
-    willfully conjuring up sex seems obvious and crass. It embarrasses
-    us, as if we've been caught doing something inappropriate.
-
--   spontaneity was a myth. Whatever used to happen "in the moment" was
-    often the result of hours, if not days, of preparation. What outfit,
-    what conversation, which restaurant, which music? All that
-    planning---that highly detailed, imaginative production---was part
-    of the buildup and part of the denouement. For this reason, I urge
-    my patients not to be spontaneous about sex. Spontaneity is a
-    fabulous idea, but in an ongoing relationship whatever is going to
-    "just happen" already has. Now they have to make it happen.
-    Committed sex is intentional sex. "I couldn't resist" has to become
-    "I don't want to resist." "We just fell into each other's arms" has
-    to become "Let me take you in my arms." "We just click" has to
-    become "Can we click tonight?"
-
--   My aim is to help patients become comfortable with sexuality as a
-    consciously acknowledged and enthusiastically welcomed part of their
-    lives---something that demands full engagement. The idea of planning
-    is a hurdle many couples need to cross. They associate planning with
-    scheduling, scheduling with work, and work with obligation. Often,
-    therapy is a process of dismantling these beliefs.
-
--   quite a few of my patients balk at the idea of deliberateness when
-    it comes to sex. They find these strategies too laborious for the
-    long haul, believing they should no longer be necessary after the
-    initial conquest. "Seducing my partner? Do I still have to do that?"
-    This reluctance is often a covert expression of an infantile wish to
-    be loved just as we are, without any effort whatsoever on our part,
-    because we're so special. It's the grandiosity of the baby, and we
-    all carry it inside.
-
--   Anticipation implies that we are looking forward to something. It is
-    an important ingredient of desire, and planning for sex helps to
-    generate it.
-
--   I believe that longing, waiting, and yearning are fundamental
-    elements of desire that can be generated with forethought, even in
-    long-term relationships.
-
--   Eroticism, intertwined as it is with imagination, is another form of
-    play.
-
--   Through play we suspend disbelief---we pretend something is real
-    even when we damn well know it is not. Earnestness has no place
-    here. Play, by definition, is carefree and unself-conscious. The
-    great theoretician of play, Johan Huizinga, maintained that a
-    fundamental feature of play is that it serves no other purpose. The
-    purposelessness associated with play is hard to reconcile with our
-    culture of high efficiency and constant accountability. More and
-    more, we measure play by its benefits. We play squash for
-    cardiovascular conditioning; we take our kids to dinner to expand
-    their palates; we go on vacation to recharge. Yet if we're plagued
-    by self-awareness, obsessed with outcomes, or fearful of judgment,
-    our enjoyment is inevitably compromised. When we are children, play
-    comes to us naturally, but our capacity for play collapses as we
-    age. Sex often remains the last arena of play we can permit
-    ourselves, a bridge to our childhood.
-
--   Every so often, I meet couples who get it, who maintain a sense of
-    playfulness with each other, in and out of the bedroom. They are
-    physically and sensually alive---two people whose desire for one
-    another hasn't been left to languish. Even in our culture of
-    immediate gratification, they're able to see seduction as an end in
-    itself.
-
--   For all these couples, playfulness is central to their relationship,
-    and eroticism extends beyond the sexual act.
-
--   They revere the erotic, yet they delight in its irreverence. They
-    like sex, they especially like it with each other, and they take the
-    time to nurture an erotic space. Like all couples, they go through
-    periods when desire is dormant---when they are estranged from each
-    other, or simply immersed in their own projects and in their own
-    lives---but they don't panic, terrified that something is
-    fundamentally wrong with them. They know that erotic intensity waxes
-    and wanes, that desire suffers periodic eclipses and intermittent
-    disappearances. But given sufficient attention, they can bring the
-    frisson back. For them, love is a vessel that contains both security
-    and adventure, and commitment offers one of the great luxuries of
-    life: time. Marriage is not the end of their romance, it's the
-    beginning. They know that they have years in which to deepen their
-    connection, to experiment, to regress, and even to fail. They see
-    their relationship as something alive and ongoing, not a fait
-    accompli. It's a story that they are writing together, one with many
-    chapters, and neither partner knows how it will end. There's always
-    a place they haven't gone yet, always something about the other
-    still to be discovered.
-
--   Modern relationships are cauldrons of contradictory longings: safety
-    and excitement, grounding and transcendence, the comfort of love and
-    the heat of passion. We want it all, and we want it with one person.
-    Reconciling the domestic and the erotic is a delicate balancing act
-    that we achieve intermittently at best. It requires knowing your
-    partner while recognizing his persistent mystery; creating security
-    while remaining open to the unknown; cultivating intimacy that
-    respects privacy. Separateness and togetherness alternate, or
-    proceed in counterpoint. Desire resists confinement, and commitment
-    mustn't swallow freedom whole. At the same time, eroticism in the
-    home requires active engagement and willful intent. It is an ongoing
-    resistance to the message that marriage is serious, more work than
-    play; and that passion is for teenagers and the immature. We must
-    unpack our ambivalence about pleasure, and challenge our pervasive
-    discomfort with sexuality, particularly in the context of family.
-    Complaining of sexual boredom is easy and conventional. Nurturing
-    eroticism in the home is an act of open defiance.
+> Today, we turn to one person to provide what an entire village once did: a sense of grounding, meaning, and continuity. At the same time, we expect our committed relationships to be romantic as well as emotionally and sexually fulfilling. Is it any wonder that so many relationships crumble under the weight of it all? It’s hard to generate excitement, anticipation, and lust with the same person you look to for comfort and stability, but it’s not impossible. I invite you to think about ways you might introduce risk to safety, mystery to the familiar, and novelty to the enduring.
+
+> My belief, reinforced by twenty years of practice, is that in the course of establishing security, many couples confuse love with merging. This mix-up is a bad omen for sex. To sustain an élan toward the other, there must be a synapse to cross. Eroticism requires separateness. In other words, eroticism thrives in the space between the self and the other. In order to commune with the one we love, we must be able to tolerate this void and its pall of uncertainties.
+
+> Romantics value intensity over stability. Realists value security over passion. But both are often disappointed, for few people can live happily at either extreme.
+
+> People today are encouraged to pursue personal fulfillment and sexual gratification, and to break free of the constraints of a social and family life heretofore defined by duty and obligation. But trailing in the shadow of this manifest extravagance lies a new kind of gnawing insecurity. The extended family, the community, and religion may indeed have limited our freedom, sexual and otherwise, but in return they offered us a much-needed sense of belonging. For generations, these traditional institutions provided order, meaning, continuity, and social support. Dismantling them has left us with more choices and fewer restrictions than ever. We are freer, but also more alone. As Giddens describes it, we have become ontologically more anxious. We bring to our love relationships this free-floating anxiety.
+
+> There’s a powerful tendency in long-term relationships to favor the predictable over the unpredictable. Yet eroticism thrives on the unpredictable. Desire butts heads with habit and repetition. It is unruly, and it defies our attempts at control. So where does that leave us? We don’t want to throw away the security, because our relationship depends on it. A sense of physical and emotional safety is basic to healthy pleasure and connection. Yet without an element of uncertainty there is no longing, no anticipation, no frisson. The motivational expert Anthony Robbins put it succinctly when he explained that passion in a relationship is commensurate with the amount of uncertainty you can tolerate.
+
+> We liken the passion of the beginning to adolescent intoxication—both transient and unrealistic. The consolation for giving it up is the security that waits on the other side. Yet when we trade passion for stability, are we not merely swapping one fantasy for another? As Stephen Mitchell points out, the fantasy of permanence may trump the fantasy of passion, but both are products of our imagination. We long for constancy, we may labor for it, but it is never guaranteed. When we love we always risk the possibility of loss—by criticism, rejection, separation, and ultimately death—regardless of how hard we try to defend against it. Introducing uncertainty sometimes requires nothing more than letting go of the illusion of certitude. In this shift of perception, we recognize the inherent mystery of our partner.
+
+> maybe the waning of romance is less about the bounds of familiarity and the weight of reality than it is about fear. Eroticism is risky. People are afraid to allow themselves these moments of idealization and yearning for the person they live with. It introduces a recognition of the other’s sovereignty that can feel destabilizing.
+
+> We often expect our relationship to act as a buttress against the slings and arrows of life. But love, by its very nature, is unstable. So we shore it up: we tighten the borders, batten down the hatches, and create predictability, all in an effort to make us feel more secure. Yet the mechanisms that we put in place to make love safer often put us more at risk. We ground ourselves in familiarity, and perhaps achieve a peaceful domestic arrangement, but in the process we orchestrate boredom. The verve of the relationship collapses under the weight of all that control. Stultified, couples are left wondering, “Whatever happened to fun? What ever happened to excitement, to transcendence, to awe?” Desire is fueled by the unknown, and for that reason it’s inherently anxiety-producing. In his book Open to Desire, the Buddhist psychoanalyst Mark Epstein explains that our willingness to engage that mystery keeps desire alive. Faced with the irrefutable otherness of our partner, we can respond with fear or with curiosity. We can try to reduce the other to a knowable entity, or we can embrace her persistent mystery. When we resist the urge to control, when we keep ourselves open, we preserve the possibility of discovery. Eroticism resides in the ambiguous space between anxiety and fascination. We remain interested in our partners; they delight us, and we’re drawn to them. But, for many of us, renouncing the illusion of safety, and accepting the reality of our fundamental insecurity, proves to be a difficult step.
+
+> Beginnings are always ripe with possibilities, for they hold the promise of completion. Through love we imagine a new way of being. You see me as I’ve never seen myself. You airbrush my imperfections, and I like what you see. With you, and through you, I will become that which I long to be. I will become whole. Being chosen by the one you chose is one of the glories of falling in love. It generates a feeling of intense personal importance. I matter. You confirm my significance.
+
+> If love is an act of imagination, then intimacy is an act of fruition. It waits for the high to subside so it can patiently insert itself into the relationship. The seeds of intimacy are time and repetition. We choose each other again and again, and so create a community of two.
+
+> I’ve come to see it as a separate entity. Sexuality is more than a metaphor for the relationship—it stands on its own as a parallel narrative.
+
+> Many of the men and women I see in my practice find it particularly difficult to introduce this kind of emotional space into their loving relationships. You would think that the safety of an established base would make it easier to take these kinds of risks, but no. A secure relationship does indeed give us the courage to act on our professional ambitions, to confront family secrets, and to take the skydiving course we never dared consider before. Yet we balk at the idea of establishing distance within the relationship itself—the very place that grants us the delicious togetherness in the first place. We can tolerate space anywhere but there.
+
+> Sexual desire does not obey the laws that maintain peace and contentment between partners. Reason, understanding, compassion, and camaraderie are the handmaidens of a close, harmonious relationship. But sex often evokes unreasoning obsession rather than thoughtful judgment, and selfish desire rather than altruistic consideration. Aggression, objectification, and power all exist in the shadow of desire, components of passion that do not necessarily nurture intimacy. Desire operates along its own trajectory.
+
+> We long to create closeness in our relationships, to bridge the space between our partner and ourselves, but, ironically, it is this very space between self and other that is the erotic synapse. In order to bring lust home, we need to re-create the distance that we worked so hard to bridge. Erotic intelligence is about creating distance, then bringing that space to life.
+
+> The psychologist Virginia Goldner makes an accurate distinction between the “flaccid safety of permanent coziness” and the “dynamic safety” of couples who fight and make up and whose relationship is a succession of breaches and repairs. It’s not by co-opting aggression but rather by owning it that sexual tension can freely romp—and can itself bring safety.
+
+> In her landmark book The Second Sex, Simone de Beauvoir writes, “Eroticism is a movement toward the Other, this is its essential character.” Yet in our efforts to establish intimacy we often seek to eliminate otherness, thereby precluding the space necessary for desire to flourish. We seek intimacy to protect ourselves from feeling alone; and yet creating the distance essential to eroticism means stepping back from the comfort of our partner and feeling more alone. I suggest that our ability to tolerate our separateness—and the fundamental insecurity it engenders—is a precondition for maintaining interest and desire in a relationship. Instead of always striving for closeness, I argue that couples may be better off cultivating their separate selves. If cultivating separateness sounds harsh, let’s think of it instead as nurturing a sense of selfhood. The French psychologist Jacques Salomé talks about the need to develop a personal intimacy with one’s own self as a counterbalance to the couple. There is beauty in an image that highlights a connection to oneself, rather than a distance from one’s partner. In our mutual intimacy we make love, we have children, and we share physical space and interests. Indeed, we blend the essential parts of our lives. But “essential” does not mean “all.” Personal intimacy demarcates a private zone, one that requires tolerance and respect. It is a space—physical, emotional, and intellectual—that belongs only to me. Not everything needs to be revealed. Everyone should cultivate a secret garden. Love enjoys knowing everything about you; desire needs mystery. Love likes to shrink the distance that exists between me and you, while desire is energized by it. If intimacy grows through repetition and familiarity, eroticism is numbed by repetition. It thrives on the mysterious, the novel, and the unexpected. Love is about having; desire is about wanting. An expression of longing, desire requires ongoing elusiveness. It is less concerned with where it has already been than passionate about where it can still go. But too often, as couples settle into the comforts of love, they cease to fan the flame of desire. They forget that fire needs air.
+
+> In the past, when marriage was a more pragmatic institution, love was optional. Respect was essential. Men and women found emotional connection elsewhere, primarily in same-sex relationships. Men bonded over work and recreation; women connected through child rearing and borrowing sugar. Love within a marriage might develop over time but was not indispensable to the success of the family.
+
+> Marriage used to be primarily a matter of economic sustenance, and it was a partnership for life. Mating today is a free-choice enterprise, and commitments are built on love. Intimacy has shifted from being a by-product of a long-term relationship to being a mandate for one. In companionate marriage, trust and affection have replaced respect as the relational pillar, bringing us to a place where the centrality of intimacy is unquestioned.
+
+> When people live on top of each other, there is no isolation to transcend, and they are far less interested in embracing western, middle-class ideals of intimacy. Their lives are entwined enough as it is.
+
+> intimacy has been redefined. No longer is it the deep knowledge and familiarity that develop over time and can be cultivated in silence. Instead, we think of intimacy primarily as a discursive process, one that involves self-disclosure, the trustful sharing of our most personal and private material—our feelings. Of course, it is as much about listening as it is about telling. The receiver of these revelations must be a loving, accepting, nonjudgmental partner—a “good listener,” empathetic and validating. We want to feel completely known, deeply recognized, and fully accepted for who we are; and we expect our sharing to be reciprocated.
+
+> the emphasis on “talk intimacy” is nonetheless problematic, for a number of reasons. The hegemony of the spoken word has veered into a female bias that has, for once, put men in a position of inferiority. Men are socialized to perform, to compete, and to be fearless. The capacity to express feelings is not a prized attribute in the making of American manhood. Dare I say it’s not even considered a desirable one?—at least, not yet. When it comes to loving relationships, “talk intimacy” inevitably leaves many men at a loss. In this regime, they suffer from a chronic intimacy deficiency that needs ongoing repair. So much of masculine identity is predicated on self-control and invulnerability.
+
+> While much has been written about the aggressive manifestations of male sexuality, it is not sufficiently appreciated that the erotic realm also offers men a restorative experience for their more tender side. The body is our original mother tongue, and for a lot of men it remains the only language for closeness that hasn’t been spoiled. Through sex, men can recapture the pure pleasure of connection without having to compress their hard-to-articulate needs into the prison of words.
+
+> The adherents of talk intimacy (often, though not always, women) have a hard time recognizing these other languages for closeness, hence they feel cheated when their partners are reluctant to confide in them. “Why won’t you talk to me?” they plead. “You should be able to tell me anything. Don’t you trust me? I want to be your best friend.” In this setup, the pressure is always on the non-talker to change, rather than on the talker to be more versatile. This situation minimizes the importance of nonverbal communication: doing nice things for each other, making attentive gestures, or sharing projects in a spirit of collaboration. A priceless smile or a well-timed wink expresses complicity and attunement, especially when words are unavailable.
+
+> In my own work, I see couples who no longer wait for an invitation into their partner’s interiority, but instead demand admittance, as if they are entitled to unrestricted access into the private thoughts of their loved ones. Intimacy becomes intrusion rather than closeness—intimacy with an injunction.
+
+> Some couples take this one step farther, confusing intimacy with control. What passes for care is actually covert surveillance—a fact-finding approach to the details of a partner’s life. What did you eat for lunch? Who called? What did you guys talk about? This kind of interrogation feigns closeness and confuses insignificant details with a deeper sense of knowledge. I am often amazed at how couples can be up on the minute details of each other’s lives, but haven’t had a meaningful conversation in years.
+
+> When the impulse to share becomes obligatory,
+
+> When the impulse to share becomes obligatory, when personal boundaries are no longer respected, when only the shared space of togetherness is acknowledged and private space is denied, fusion replaces intimacy and possession co-opts love. It is also the kiss of death for sex. Deprived of enigma, intimacy becomes cruel when it excludes any possibility of discovery. Where there is nothing left to hide, there is nothing left to seek.
+
+> If one consequence of the supremacy of talk is that it leaves men at a disadvantage, another is that it leaves women trapped in repressed sexuality.
+
+> When we privilege speech and underplay the body, we collude in keeping women confined.
+
+> The body is an inhibited site, awkward and tense. Play and inventiveness have no place there. Words feel safer than gesture and movements, and these people take refuge in speech. When reaching out to others, they prefer the verbal route. Then there are those for whom the body is like a playground, a place where they feel free and unrestricted. They retain the child’s capacity to fully inhabit their bodies. In the physical realm, they can let go; they don’t have to be responsible. They are often the partner in the relationship who wants more physical intimacy. It is especially during lovemaking that they are able to escape their inner rumblings. For them, sex is a relief that puts a halt to their anxiety; for their more verbal partners, sex turns out to be a source of anxiety.
+
+> Sometimes the emotional weaving is done through talk; often, it is not. Building a bookshelf for your lover, changing the snow tires on your wife’s car, and learning to make his mom’s chicken soup all carry the promise of connection. Golde in Fiddler on the Roof reminds us that even ordinary daily activities will, over time, weave themselves into a rich tapestry of connection. Eddie and Noriko, masters of nonverbal communication, can teach us all a lesson in alternative ways to express our love. When we value only what is disclosed through words, we do ourselves a disservice. At a time when we could use just about any way to connect, we need to honor and recognize the many ways we can reach out and touch someone.
+
+> Some of America’s best features—the belief in democracy, equality, consensus-building, compromise, fairness, and mutual tolerance—can, when carried too punctiliously into the bedroom, result in very boring sex. Sexual desire and good citizenship don’t play by the same rules. And while enlightened egalitarianism represents one of the greatest advances of modern society, it can exact a toll in the erotic realm.
+
+> A lot of women find their desire for sexual submission hard to accept. But stepping out of ourselves is exactly what eroticism allows us to do. In eros, we trample on cultural restrictions; the prohibitions we so vigorously uphold in the light are often the ones we enjoy transgressing in the dark. It’s an alternative space where we can safely experience our taboos. The erotic imagination has the force to override reason, convention, and social barriers.
+
+> If commitment requires a trade-off of freedom for security, then eroticism is the gateway back to freedom. In the broad expansiveness of our imagination we uncover the freedom that allows us to tolerate the confines of reality. The very dynamics of power and control that can be challenging in an emotional relationship can, when eroticized, become highly desirable. In the crucible of the erotic mind, we bring the more vexing components of love—dependency, surrender, jealousy, aggression, even hostility—and transform them into powerful sources of excitement.
+
+> we first learn about power differentials in the power grid of our families.
+
+> Childhood is our basic training for power tactics. We have our will; our parents have theirs. We demand; they object. We bargain for what we want; they tell us what we can have. We learn to resist, and we learn to surrender. At best we learn to balance, to mediate, to understand. All these permutations of power stumble into our adult intimacies, and gender does matter. Boys and girls undergo a radically different initiation in wielding power. Men become adept at direct expressions of power, women at indirect expressions; and these differences are discernible in our sexual scripts. As adults, we seek control in part as a defense against the vulnerability inherent in love. When we put our hopes on one person, our dependence soars. So do our frustrations and disappointments. The greater our helplessness, the more dangerous the threat of humiliation. The more we need, the angrier we are when we don’t get. Kids know this; lovers do, too. No one can bring us to the boiling point as quickly as our partner (except maybe our parents, the original locus of dependent rage). Love is always accompanied by hate. While we fear the depth of our dependence, many of us are even more frightened by the depth of our rage. We resort to intricate relational contortions in order to keep all this combustion in check. Yet the couples who most successfully implement this model of placidity are rarely passionate lovers. When we confuse assertion with aggression, neutralize otherness, adjust our longings, and reason away our hostility, we assemble a calmness that is reassuring but not very exciting. Stephen Mitchell makes the point that the capacity to contain aggression is a precondition for the capacity to love. We must integrate our aggression rather than eradicate it. He explains, “The degradation of romance, the waning of desire, is due not to the contamination of love by aggression, but to the inability to sustain the necessary tension between them.”
+
+> We do an exercise in which they divide a piece of paper by drawing a line down the middle, then separately write their immediate associations of the word “love” on the left-hand side. I give them prompts: “When I think of love, I think of…” “When I love I feel…” “When I am loved I feel…” “In love, I look for…” As soon as they finish, they write their answers to the next set of prompts on the right-hand side: “When I think of sex I think…” “When I desire, I feel…” “When I am desired, I feel…” “In sex, I look for…” This exercise, though simple, is remarkably illuminating. First, because it lays out exactly how love and desire are parsed in each partner’s mind—how separate they are and how interwoven. Second, it enables me to look at the congruence of these arrangements between partners.
+
+> As I suspected, Jed and Coral experience sex in opposing ways, and they look to sex for different things. Coral seeks intimate connection through sex, and love charges her desire. She associates love with warmth and security. Being loved makes her feel safe. Being wanted does the same. For her, sex is sanguine, wholesome, luxe. “I’ve connected with every person I’ve had sex with. Even in one-night stands I would walk away smiling, thinking I was in love. I had to learn that sex and love aren’t always the same thing, that I didn’t have to want to marry every man I slept with.” For Jed, intimate connection emerges after the fact, and love and sex don’t blend nearly as seamlessly as they do for Coral. Love feels safe, but also confining. It is laced with conflict. “I feel like I have to restrict what I do and say to avoid hurting her. I feel vulnerable, exposed, and disoriented. It’s painful. I think I may not deserve it because I just don’t feel worth it. It’s still hard to see sometimes what inspires her to love me. I’m anxious.” But when it comes to sex, he has an entirely different experience. “Sex has always fascinated me. It’s the one place I can really be myself, where I can express all kinds of feelings I usually keep under wraps. Sex is deeply entwined with power; they’re not fully distinct for me.” Aggression is an intrinsic part of his sexuality. It emboldens him. He doesn’t need to subordinate himself to the woman’s needs or feelings; nor does he get lost in them. “I need the power because I felt so powerless for so long in my life. I need to compartmentalize.”
+
+> We believe that with a well-defined goal, a good plan, solid organizational skills, and hard work, anything is possible. This is the idea behind Americans’ optimism. With the right effort and unbending determination, there is no obstacle you can’t overcome. Hard work is rewarded by success. Conversely, if you fail, you probably are lazy, unmotivated, self-indulgent, and unwilling to really try to get what you want. You lack “spunk,” and you have only yourself to blame. And there’s no reason why this boosterish, essentially entrepreneurial interpretation wouldn’t extend to any existential or romantic quandary as well.
+
+> As a European, I have always admired Americans’ optimism. It is the opposite of the fatalism and resignation that pervade so many other, more traditional cultures, and it expresses a healthy sense of entitlement. People here don’t like to say, “That’s just the way it is; you can’t change it.” But this can-do attitude encourages us to assume that dwindling desire is an operational problem that can be fixed. From magazine articles to self-help books, we are encouraged to view a lack of sex in our relationships as a scheduling issue that demands better prioritizing and time management, or as a consequence of poor communication. If the problem is testosterone deficiency, we can get a prescription—an excellent technical solution. For the sexual malaise that can’t be so easily medicalized, remedies abound: books, videos, and sexual accoutrements are there to assist you not only with the basics, but to bring you to unimagined levels of ecstasy.
+
+> We’ve become exceedingly preoccupied with frequency of sexual activity and number of orgasms.
+
+> The more diffuse and uncrunchable aspects of sexual expression—love, intimacy, power, surrender, sensuality, and excitement—rarely make it to the front page of a newspaper or the cover of a magazine.
+
+> But when we reduce sex to a function, we also invoke the idea of dysfunction. We are no longer talking about the art of sex; rather, we are talking about the mechanics of sex. Science has replaced religion as the authority; and science is a more formidable arbiter. Medicine knows how to scare even those who scoff at religion. Compared with a diagnosis, what’s a mere sin? We used to moralize; today we normalize, and performance anxiety is the secular version of our old religious guilt.
+
+> This is not to say that practical advice and expert solutions are never useful or necessary. If you have poor communication, of course you should work at it; if you’re too busy for sex, you’re too busy. If you lack knowledge, inform yourself. If you have a problematic physical condition—age, hormonal changes, diabetes, prostate cancer, hysterectomy—find a doctor who can offer medical support. There are many books that offer sound help in this area.
+
+> We are socialized to tame our primal side: our unruly impulses, our sexual urges, and our rapacious appetites. Social order is built on this restraint, and lack thereof threatens to create chaos. Because loss of control is almost exclusively seen in a negative light, we don’t even entertain the idea that surrender can be emotionally or spiritually enlightening. But experiencing a temporary suspension of our discernible self is often liberating and expansive.
+
+> it’s the act of choosing, the freedom involved in choosing, that keeps a relationship alive.
+
+> Desire emerged from a paradox: mutually recognizing the limitations of married life created a bond between them; acknowledging otherness inspired closeness.
+
+> What makes sustaining desire over time so difficult is that it requires reconciling two opposing forces: freedom and commitment. So it’s not only a psychological or practical problem; it’s also a systemic one. That makes it harder to “work at.” It belongs to the category of existential dilemmas that are as unsolvable as they are unavoidable.
+
+> We live in times where faster is better and control is power, where performance trumps process and risk is mathematically calculated. In our overcommitted lives there’s a temptation to simplify our existential complexities. We just don’t have the time and patience for open-ended reflection. We prefer instead to be proactive and thereby reaffirm our sense of control. In my practice I meet couples who complain about how the routine of their lives has left them feeling numb. But when we continuously invest in the kind of pragmatic solutions for “doing sex” that promise regularity—a decent average—we run the risk of exacerbating the blandness we struggle to remedy. Eroticism challenges us to seek a different kind of resolution, to surrender to the unknown and ungraspable, and to breach the confines of the rational world.
+
+> I believe there’s an additional layer to our libidinal demise that has to do with our culture’s deep ambivalence around sexuality. While we recognize the importance of sex, we nonetheless vacillate between extremes of excessive license and repressive tactics: “Don’t do it till you’re married.” “Just do it when you feel like it.” “It’s no big deal.” “It’s a huge deal.” “You need love.” “What’s love got to do with it?” It’s an all-or-nothing approach to sex. Porn sites proliferate on the Internet, yet we continue to debate whether or not to provide sex education in our schools and, if so, whether we should call it “Sex Ed”
+
+> I believe there’s an additional layer to our libidinal demise that has to do with our culture’s deep ambivalence around sexuality. While we recognize the importance of sex, we nonetheless vacillate between extremes of excessive license and repressive tactics: “Don’t do it till you’re married.” “Just do it when you feel like it.” “It’s no big deal.” “It’s a huge deal.” “You need love.” “What’s love got to do with it?” It’s an all-or-nothing approach to sex. Porn sites proliferate on the Internet, yet we continue to debate whether or not to provide sex education in our schools and, if so, whether we should call it “Sex Ed” or opt for the less graphic “Health Ed.”
+
+> The legacy of Puritanism, which locates the family at the center of society, expects marriage to be reasonable, sober, and productive. You work, you save, and you plan. You take your commitments seriously. But alongside this very American notion of individual responsibility and moderation is the equally apple-pie notion of individual freedom. We believe in personal fulfillment: in life, liberty, and the pursuit of happiness. We relish the freedom to spontaneously satisfy our desires, and we live in a market-driven consumer economy which ensures that those desires never stop coming. The sexual culture tells us what is attractive and what we should want (as if we were incapable of finding out for ourselves whom to desire and what turns us on). An entire industry of hedonism hovers on the outskirts of marriage, a constant reminder of all we’ve sacrificed in exchange for the muted sexuality of marital love.
+
+> Can our modern-day relationships ever be strong enough to withstand the siren song of unlimited pleasure? When we are constantly exhorted to replace the old with the new, when sexual images forever portray youth and beauty (since nobody ages but you), when online sex caters to your most idiosyncratic whim, can we reasonably expect to remain contented with the same person for fifty years? The jury is still out. We’re promised immediate fulfillment, and it’s there for the taking by everyone but us.
+
+> Commitment means sacrificing your own goals and ambitions for something that you can’t control and that you could potentially fail at. At least that’s how we think of it now. Relationships are a loss of independence. When you let another person in, romantically, you make less room for yourself.” “So relationships are about what you lose, not what you gain?” I ask. “Exactly.” “And romance?” “Hah. There was none in high school. The few couples here at college stand out as almost weird, like they’re married or something.” I am intrigued by Ratu’s portrayal of relationships. It had always seemed to me that coupling (or at least the dream of romance) enlarges us, and is about what you can discover with someone. At least, I was convinced of that at her age. Ratu and her friends seem to find more security in an MBA than in the power of a sustaining, loving bond. Why do they feel this way? One reason might be that having embraced the cultural mandate of self-reliance, they are apprehensive about relationships. “If you add love to sex you make yourself extremely vulnerable,” she tells me. “I think that might be the heart of the issue for my whole generation, this lack of trust. We were taught to rely on ourselves, not to depend on others.” It’s an unromantic attitude, but perhaps a wise one, given the precariousness of modern marriage. Gender equality is made manifest in all its irony: both men and women now have the right to be terrified of commitment. Better to engage in risky sex than to succumb to the risks of the heart.
+
+> For Nico, sex is a play in one act. For Maria it is a continuum of pleasures, a successive unfolding. The problem arises when they become trapped in a linear, goal-oriented focus on intercourse and orgasm that bypasses eroticism. In this setup she struggles with the idea that lingering is implicitly selfish and shamelessly greedy. Her lack of prerogative and lack of self-affirmation are met with Nico’s hurriedness, which further reinforces her notion that she is not worthy of attention. Of course she wouldn’t worry that she was taking too long if she thought he was into it. But for Nico slowness inspires a different kind of anxiety, a fear of inadequacy that he won’t perform well enough. I suggest to Maria that she and Nico liberate themselves from this task-oriented performance model of sexuality with its rigid requirements for mutual orgasm. It’s a pass-fail approach that smacks of seriousness and takes much of the fun out of sex.
+
+> I explain to Maria that it’s scary to be both erotically exposed and emotionally intimate with the same person, especially when you hold the belief that sex is somehow shameful. “There’s a whole part of you that hasn’t yet entered your relationship. In fact, the psychic energy involved in keeping it tucked away is enough to make you exhausted. No wonder you’d rather go to sleep than make love to your husband.” Like many of us, Maria grew up learning to hide her erotic reveries and idle daydreams. Keeping our pleasures secret is a central component of our sexual socialization.
+
+> It is hard to bring out in the open that which we spent years trying to hide.
+
+> This is the challenge of sexual intimacy, of bringing home the erotic. It is the most fearsome of all intimacies because it is all-encompassing. It reaches the deepest places inside us, and involves disclosing aspects of ourselves that are invariably bound up with shame and guilt. It is scary, a whole new kind of nakedness, far more revealing than the sight of our nude bodies. When we express our erotic yearnings we risk humiliation and rejection, which are equally devastating.
+
+> I have witnessed the painful scene when a person’s preferences are condemned and labeled by his or her partner as perverse, deviant, and disgusting. It is no wonder that many of us prefer the security of workable sex as a shield against this harrowing scenario. We may be far from passion, but at least we feel normal. In the grand scheme of things, it’s not a bad compromise. But then there are those who long to be known differently, to give themselves over and risk crossing that threshold. They muster the courage to confront the cultural prohibitions against sex—exuberant sex—at home. They hunger for full expression in the erotic realm, and resist the urge to withhold. For them sexual communion is far from dirty, but rather a sacred melding that puts us in touch with the divine. Erotic intimacy is the revelation of our memories, wishes, fears, expectations, and struggles within a sexual relationship. When our innermost desires are revealed, and are met by our loved one with acceptance and validation, the shame dissolves. It is an experience of profound empowerment and self-affirmation for the heart, body, and soul. When we can be present for both love and sex, we transcend the battleground of Puritanism and hedonism.
+
+> A HOST OF INSTITUTIONS LOOK out for our best interest. Religion, government, medicine, education, the media, and pop culture all labor tirelessly to define and regulate the parameters of our sexual well-being. The incentives and prohibitions surrounding the voluptuousness of the body are the mother’s milk of society. Much of what we learn about sex comes from the street, the movies, television, and school. But before any of these reach us, our family gets to us first. We are members of a society, but we’re also the children of our parents. (This includes grandparents, stepparents, guardians, foster parents, and anyone else who is entrusted with our early well-being.) No history has a more lasting effect on our adult loves than the one we write with our primary caregivers.
+
+> We can trace back to where we learned to love and how. Did we learn to experience pleasure or not, to trust others or not, to receive or be denied? Were our parents monitoring our needs or were we expected to monitor theirs? Did we turn to them for protection, or did we flee them to protect ourselves? Were we rejected? Humiliated? Abandoned? Were we held? Rocked? Soothed? Did we learn not to expect too much, to hide when we are upset, to make eye contact? In our family, we sense when it’s OK to thrive and when others might be hurt by our zest. We learn how to feel about our body, our gender, and our sexuality. And we learn a multitude of other lessons about who and how to be: to open up or to shut down, to sing or to whisper, to cry or to hide our tears, to dare or to be afraid.
+
+> One aspect of the erotic blueprint that illustrates the irrationality of our desire is that what excites us most often arises from our childhood hurts and frustrations. The sex therapist Jack Morin explains that the erotic imagination is ingenious in undoing, transforming, and redressing the traumas of the past. In other words, the experiences that caused us the most pain in childhood sometimes become the greatest sources of pleasure and excitement later on.
+
+> Let’s take a look at Melinda. Her father is a philanderer. And while she empathizes with her mother’s despair, she also doesn’t want to be like her mother: broken, miserable, bereft. Instead she has become the seductress, the opposite of the abandoned wife. Melinda sets out to best men at their own game. Desire is stoked by unavailability in Melinda’s mind, and once she’s seduced a man he is instantly less attractive.
+
+> Almost nothing is more exciting than conquering a powerful, aloof man; but the ultimate thrill is in dumping him—sure proof that she has avenged the past. In heartlessly dismissing these men, Melinda seeks to confirm that, unlike her mother, she is strong and independent, the one calling the shots, making the choices, picking up or discarding lovers as suits her fancy.
+
+> The central agent of eroticism is the human imagination, but for many people the project of sexual self-discovery is hampered by parental messages that induce fear, guilt, and mistrust. Something that is meant to protect children often turns out to be a source of much anxiety in adult sexual love.
+
+> Our physical and emotional dependence on our parents surpasses that of any other living species, in both magnitude and duration. It is so complete—and our need to feel safe is so profound—that we will do anything not to lose them. We will suppress our wishes and push our aggression underground. We will take the blame for abuse, submit to control, become self-reliant, and otherwise renounce our needs. In short, we’ll apply a wide range of self-preservation tactics, all aimed at maintaining our primary bond.
+
+> Things get tricky when you consider that one of our greatest needs, developmentally speaking, is autonomy.
+
+> We need our parents to take care of us, but we also need them to give us enough space to establish our freedom. We want them to hold us and we want them to let us go. Throughout our lives we grapple with this interplay between dependence and independence. How artfully we reconcile these needs as adults depends greatly on how our parents reacted to the stubborn duality in our little selves. It’s important to point out that our parents’ behavior, what they actually do, is only one part of the situation. Another part is our interpretation of their actions.
+
+> Erotic intimacy is an act of generosity and self-centeredness, of giving and taking. We need to be able to enter the body or the erotic space of another, without the terror that we will be swallowed and lose ourselves. At the same time we need to be able to enter inside ourselves, to surrender to self-absorption while in the other’s presence, believing that the other will still be there when we return, that he or she won’t feel rejected by our momentary absence. We need to be able to connect without the terror of obliteration, and we need to be able to experience our separateness without the terror of abandonment.
+
+> The first time James walked into my office, he sat down and said, “Stella and I have a very good marriage, but sex has always been a problem.” James feels sexually inhibited with Stella, and their erotic misfit fills him with tension. Whatever initial excitement he may feel when Stella approaches him invariably turns into a preoccupation with his own performance. Will I stay hard? Will I come too soon? Will Stella have an orgasm? Sex becomes a race to the finish line—can he get there before he loses his erection? His ability to enjoy himself is massively curtailed by this narrow focus. He can’t be playful, can’t try out new things, because anything that strays from the routine might jeopardize his capacity to perform. These anxieties always have a ripple effect, and James’s inhibitions have also stifled Stella. She senses his absence, laments his lack of attention, and has complained about it bitterly over the years.
+
+> What emerges in our conversations is that James was keenly attuned to his mother’s moods, and she was often lonely and sad. She didn’t like noise, didn’t like messes, and got agitated when he and his sister were too boisterous. She was a good mother, but very tightly wound.
+
+> James’s mother relied on him for support, company, and conversation. (She referred to his father as simply the Paycheck.) “When I was older and wanted to do things with my friends, I knew she was disappointed. She’d say, ‘Have a good time’ in a way that made it very hard for me to have a good time.” James grew up torn between his desire not to displease his mother and his need to lead his own life.
+
+> Stella was the antithesis of James’s mother, and for the first time he was able to love a woman and not feel burdened with responsibility and guilt. In fact, Stella regularly rejected his attempts to be overly accommodating, explaining that they made her feel smothered. He laughs when he recounts how anxious he used to feel when he wanted to do something that didn’t include her—he was always afraid of disappointing her. He had a way of asking, “Do you mind?” that drove her crazy. Finally she snapped, “Look, I’m not your mother. You don’t have to ask my permission.” Stella has taught James, largely through example, that you can be close to someone—intimate, caring, secure—without feeling sacrificed in the process. In asserting her independence, Stella has communicated over and over that she’s not fragile, and that her well-being does not depend exclusively on him. The price of love does not have to be personal obliteration.
+
+> But in the middle of this pastoral landscape is the minefield of sex, where their worst arguments occur. She wants it; he doesn’t. She wants to talk about it; he doesn’t. She gets angry. He gets defensive. They clash, then wait for the dust to settle. This situation is chronic and relentless, and recently it got a lot worse. For years, Stella has resented being the custodian of their sex life. “I’m the one who thinks about it, who wants it, who makes it happen, and who complains when it doesn’t. If I left it up to James, our erotic life would be a desert.” Privately James admits that he initiates only when he’s reasonably sure she won’t be receptive; that way, he appears to keep up his end of the bargain. Stella hates being the one who “does it all,” but she doesn’t dare stop, for fear that there will be nothing, an unbearable void. Better to assume his lack of interest than to confirm it.
+
+> “We’re like roommates. This time I really need him to make the effort, and he won’t.” I point out to Stella that even though it may look as if he won’t, what’s more likely is that he doesn’t know how. The disruption brought about by menopause challenges a pattern that has been fixed since early in their relationship. They will soon discover that it also opens up new possibilities. James is quick to focus on performance issues to justify his lack of desire. He foresees sexual failure, and his anxiety makes this prophecy self-fulfilling. He feels diminished and unmanly each time he fails, and his fear of impotence makes him want to stop even before he starts.
+
+> The unintended irony in all this is that James becomes so obsessed with doing it right, staying hard for Stella, that he loses sight of her entirely. So while he thinks he’s focusing completely on her, she feels as if he’s somewhere else altogether.
+
+> I remark to James that holding the lens squarely on the physical act of sex—sex as a performance—is a decidedly unerotic approach. It is too narrow an angle. To me, it seems that James is overwhelmed by the whole prospect of being sexual with his wife: claiming desire, eroticizing her, feeling free to express the bawdiness of his lust with her.
+
+> The women who populate his fantasy life are lascivious, sexually alluring, and in no way vulnerable. He need not fear that his selfishness might hurt them, and he can delight in his excitement guilt-free. This is a freedom he never reaches with his wife, and that realization leads us to the cause of his erotic block. James doesn’t know how to enjoy himself sexually in the presence of the woman he loves. Unable to reconcile pleasing himself and pleasing Stella at the same time, he ends up pleasing neither.
+
+> He fears that if he surrenders to his own concupiscence and forgets Stella, even for a moment, she will be unforgivably hurt. Though James is not aware of this, his erotic blueprint is riddled with marks left by his relationship with his unhappy mother.
+
+> he has to make an impossible choice between attending to himself and securing closeness. The guilt he felt as a child about being selfish has been transformed into sexual inhibition.
+
+> I work with James to establish a comfortable sense of sexual separateness, making sure to clarify that separateness does not mean indifference. Instead of fixating constantly on Stella, I ask him to do the unthinkable and hold on to himself. With this in mind, I suggest a few things. “First, leave the bedroom. Too many bad associations. Curse the bed—it has failure written all over it. It operates as a sensory deprivation tank. Find other surfaces in the house. Then, I’d like you to masturbate next to Stella, to experience the possibility of pleasing yourself in her presence. Take note of the tension and the guilt. Be mindful of them, rather than trying to avoid them.” I chose masturbation for several reasons. First, it is the one area of James’s sexuality where he can let go freely. Second, it invites him to be totally self-centered, and relieves him of the responsibility of pleasing his wife. Third, it will—I hope—confirm for him that attending to himself doesn’t have to hurt her. Being watched will support his ability to indulge his erotic individuality guilt-free. Finally, it will turn his performance anxiety on its head. The act of masturbating in her presence is itself a grand performance, with Stella as the sole spectator. For the first time he can consider that she may actually enjoy taking in his enjoyment. Letting her watch him roam freely in his own erotic territory is itself an intimate gift.
+
+> When James touches her tentatively, waiting for her to give him the go-ahead, she is filled with resentment. As it turns out, James’s cautious regard is a turn-off. His deference leaves her feeling burdened; his dogged focus leaves her aching.
+
+> I tell Stella what I’ve told many people who are cherished spouses but famished lovers: “You know he loves you; you’ve never doubted that; and that’s why you’ve stayed all these years. What hurts so much is that you’ve never felt wanted by him. You feel that it’s all on you to make it happen, and indeed it is. You’ve forfeited sensual complicity for emotional security. It’s a cruel bargain.”
+
+> It’s virtually impossible not to take such repeated denial personally, to see it as proof that one is undesirable, and to slip into self-doubt.
+
+> To James I say, “Love and desire are not the same. Cozy is not the same as sexy. Your wife knows you love her. What she wants is to feel desired by you. She wants to know your hunger, to taste the delicate flavors of your craving, and to see it as a match for her own. Your inability to let go, to surrender to your own hedonistic designs, is infuriating to her. Your passivity is irritating, and your considerateness is the opposite of her fantasy of unrestrained rapture. Your lustiness would be an open endorsement for her own ardor. It’s hard to let go with someone who doesn’t.”
+
+> It takes two people to create a pattern, but only one to change it. James gleefully described himself in a later session as “bold and persistent,” and was amazed by how the feeling of being in charge literally charged him up. By taking control he was finally able to lose control. The sexual prison he and Stella had carefully constructed had begun to unlock. Freeing himself from his chronic reactive stance, even momentarily, filled him with hope and gave him a glimpse into the erotic possibilities that lay ahead.
+
+> It’s worth pointing out that in this encounter (and subsequent ones) James had no problem with coming too soon, or even with worrying that he might. When sex feels like an obligation it’s very efficacious to come fast—it brings a quick end to the discomfort. When lovers engage sexually as free agents, turning surrender into an act of self-assertion, there is no need to get it over with. Precipitating the grand finale isn’t so much the point as savoring the mutual trust and intimacy along the way. Premature ejaculation is a misnomer. It is not a matter of timing; it has to do with lack of intent. It would be better described as “involuntary ejaculation.” Once James was in charge of his desire, he was in charge of his ejaculation as well.
+
+> Erotic excitement requires that we be able to step out of the intimate bond for a moment, turn toward ourselves, and focus on our own mounting sensations. We need to be able to be momentarily selfish in order to be erotically connected.
+
+> The more we trust, the farther we are able to venture. When infants play peek a boo, the distance they can bear is only as far as the breadth of their fingers. What powers the game is the realization that, even when I don’t see you, you continue to exist. Older children play hide-and-seek, secure in the knowledge that someone will eventually come looking. The thrill of hiding is followed by the relief of being found. Erotic intimacy is an adult version of hide-and-seek. As when we were children, the stronger the connection the braver we are about stretching it. We know our beloved will be waiting for our return, will not punish our selfish pursuits, and in fact may even applaud them.
+
+> In addition to the family legacy, we also carry a cultural legacy. We are socialized to control ourselves, to restrain our impulses, to tame the animal within. So as dutiful citizens and spouses we edit ourselves and mask our ravenous appetites and conceal our fleeting need to objectify the one we love.
+
+> Loving another without losing ourselves is the central dilemma of intimacy. Our ability to negotiate the dual needs for connection and autonomy stems from what we learned as children, and often takes a lifetime of practice. It affects not only how we love but also how we make love. Erotic intimacy holds the double promise of finding oneself and losing oneself. It is an experience of merging and of total self-absorption, of mutuality and selfishness. To be inside another and inside ourselves at the same time is a double stance that borders on the mystical. The momentary oneness we feel with our beloved grows out of our ability to acknowledge our indissoluble separateness. In order to be one, you must first be two.
+
+> The transition from two to three is one of the most profound challenges a couple will ever face. It takes time—time measured in years, not weeks—to find our bearings in this brave new world. Having a baby is a psychological revolution that changes our relation to almost everything and everyone, from our sense of self and identity to our relations with our partners, friends, parents, and in-laws. Our bodies change. So do our finances and work lives. Priorities shift, roles are redefined, and the balance between freedom and responsibility undergoes a massive overhaul. We literally fall in love with our babies and, as we once understood with our mates, falling in love is an all-consuming affair that pushes everything else aside. The making of a family calls for a redistribution of resources and, for a while, there seems to be less for the couple: less time, less communication, less sleep, less money, less freedom, less touch, less intimacy, less privacy.
+
+> Family life can feel like ongoing triage: what needs my immediate attention, and what can I put off until later? We constantly sort conflicting demands into their appropriate hierarchical slots: The Crucial, The Important, The Dreamed of, The Ought-to, The Negligible, The Irrelevant, The Whatever, The Trifling, The “Maybe Someday,” The “Not in this lifetime.” Sex often remains firmly at the bottom of the to-do list, never relinquishing its last-place status to other, more mundane tasks.
+
+> Facing the great unknown of parenthood, we try to establish as much security as we can. We seek to contain the unpredictable by creating structure. We organize; we prioritize; we become serious. In the process we cast aside what is frivolous, immature, irresponsible, reckless, excessive, and unproductive, for such things clash with the task at hand: building a family.
+
+> Family life flourishes in an atmosphere of comfort and consistency. Yet eroticism resides in unpredictability, spontaneity, and risk. Eros is a force that doesn’t like to be constrained. When it settles into repetition, habit, or rules, it touches its death. It then is transformed into boredom and sometimes, more powerfully, into repulsion. Sex, a harbinger of loss of control, is fraught with uncertainty and vulnerability. But when kids come on the scene, our tolerance for these destabilizing emotions takes a dive. Perhaps this is why they are so often relegated to the fringes of family life. What eroticism thrives on, family life defends against.
+
+> These cherished intruders fill us with a profound sense of vulnerability and lack of control. We dread the thought of something terrible happening to them or worse yet, of losing them. They hold us hostage to constant anxiety. We love them so much, and we want to protect them at all costs. We can numb these frightening thoughts or obsess about them, but in either case we want to get it right. Are they OK? How can you tell? Did I handle this well, or should we start saving up for therapy as well as college? In the face of these daunting questions, Stephanie runs for the mop, even when she doesn’t have to, because it provides a modicum of control in an otherwise emotionally chaotic environment.
+
+> in a sense, a certain replacement has occurred. The sensuality that women experience with their children is, in some ways, much more in keeping with female sexuality in general. For women, much more than for men, sexuality exists along what the Italian historian Francesco Alberoni calls a “principle of continuity.” Female eroticism is diffuse, not localized in the genitals but distributed throughout the body, mind, and senses. It is tactile and auditory, linked to smell, skin, and contact; arousal is often more subjective than physical, and desire arises on a lattice of emotion. In the physicality between mother and child lie a multitude of sensuous experiences. We caress their silky skin, we kiss, we cradle, we rock. We nibble their toes, they touch our faces, we lick their fingers, let them bite us when they’re teething. We are captivated by them and can stare at them for hours. When they devour us with those big eyes, we are besotted, and so are they. This blissful fusion bears a striking resemblance to the physical connection between lovers. In fact, when Stephanie describes the early rapture of her relationship with Warren—lingering gazes, weekends in bed, baby talk, toe-nibbling—the echoes are unmistakable. When she says, “At the end of the day, I have nothing left to give,” I believe her. But I also have come to believe that at the end of the day, there may be nothing more she needs.
+
+> Stephanie’s intense focus on her kids is not a mere idiosyncrasy—not simply her own personal style. In fact, this kind of overzealous parenting is a fairly recent trend that has, one hopes, reached its apex of folly. Childhood is indeed a pivotal stage of life that will inevitably shape the child’s future. But the last few decades have ushered in an emphasis on children’s happiness that would make our grandparents shudder. Childhood has been sanctified so that it no longer seems ridiculous for one adult to sacrifice herself entirely in order to foster the flawless and painless development of her offspring—a one-person, round-the-clock child rearing factory. This is a far cry from the days (not so long ago in America and still present in many parts of the world) when children were considered principally as collective economic assets, and women gave birth to many children in hope of keeping just a few. We no longer get work out of our children; today we get meaning.
+
+> The magnitude of child rearing, coupled with the scarcity of resources, affects mothers in particular, who carry most of the burden in heterosexual couples. And the problem doesn’t end there; for this unprecedented child-centrality is unfolding against the backdrop of romanticism that underscores modern marriage. Not only do we want to be perfect parents and give our children everything; we also want our marital relationships to be happy, fulfilled, sexually exciting, and emotionally intimate. Indeed, in our culture the survival of the family depends on the happiness of the couple. But cultivating the ideal relationship requires care and attention, and this competes directly with the “full-contact” parenting many of us embrace. Utopian romance gets blasted by the realities of family life. Stephanie feels overwhelmed because, indeed, she is.
+
+> What Stephanie fails to see is that behind Warren’s nagging insistence is a yearning to be intimate with his wife. For him, sex is a prelude to intimacy, a pathway to emotional vulnerability. She responds to him as if he were one more needy child. She doesn’t realize that this is not just for him but for her, too. Like a lot of women, once she’s in the caretaking mode she has a hard time switching it off. She’s so mentally organized in terms of what she does for everyone else that she is unable to recognize when something is offered to her. What Warren finds intolerable is that his approach is having the opposite effect of what he intends. He is desperate for a flicker of desire from Stephanie, but he wants it just to be there, sudden and whole, the way it is for him. I explain to him that expecting our partner to be in the mood just because we are is a setup for disappointment. We take lack of desire as a personal rejection, and forget that one of the great elixirs of passion is anticipation.
+
+> For Stephanie, love and desire are inseparable. She needs to feel intimate before she can allow the vulnerability of sex; otherwise, she feels objectified.
+
+> Many women struggle to integrate sexuality and motherhood. Ours is a culture that equates maternal devotion with selflessness: self-sacrifice, self-abnegation, self-denial. Stephanie has had years of putting the children first and forgetting herself altogether. She has relinquished her freedom and her independence—both cornerstones of desire—and has forsaken herself as a person in her own right. Reconnecting with her erotic self, separate from her maternal self, is crucial.
+
+> Together we shift the focus from self-denial to self-awareness. We explore how she might reclaim a right to pleasure, with its inherent threat of selfishness, in a way that doesn’t leave her feeling like a bad mother.
+
+> One upshot of these discussions is that Stephanie does something radical (for her)—she goes on a weekend retreat with her sister, leaving Warren and the children to their own devices. Getting to that point took a lot of work, but I sense that before she can open herself to sex, she needs to expand the general domain of personal pleasure. Becoming more generous with herself, she might—I hope—be more receptive to her husband.
+
+> There’s an assumption—and you’re not alone—that we need only pursue what we don’t yet possess. The trick is that in order to keep our partner erotically engaged we have to become more seductive, not less.”
+
+> What I see over and over is that the person who takes on the role of primary caretaker almost always undergoes changes similar to Stephanie’s: a total immersion in the lives and rhythms of the children, a loss of self, and a greater difficulty extricating himself or herself from chores (a compulsion that is simultaneously frustrating and grounding).
+
+> The role of the more autonomous parent is to help the primary caregiver disengage from the kids and reallocate energy to the couple.
+
+> I have noticed over the years that child-centrality isn’t just a matter of lifestyle; it is sometimes an emotional configuration as well. Children are indeed a source of nurturance for adults. Their unconditional love and utter devotion infuse our lives with a heightened sense of meaning. The problem arises when we turn to them for what we no longer get from each other: a sense that we’re special, that we matter, that we’re not alone. When we transfer these adult emotional needs onto our children, we are placing too big a burden on them. In order to feel safe, kids need to know that there are limits to their power, and to what is surreptitiously asked of them. They need us to have our own loving relationships, in whatever form they take. When we are emotionally and sexually satisfied (at least reasonably so; let’s not get carried away here), we allow our children to experience their own independence with freedom and support.
+
+> Spontaneity is desirable, but the reality of family life demands planning. Couples without kids can initiate sex on a whim, but parents need to be more practical. Be it a regular date night, a weekend away every few months, or an extra half hour in the car, what matters is that couples cordon off erotic territory for themselves.
+
+> There are so many reasons to give up on sex that those who don’t are champions in their own right. The brave and determined couples who maintain an erotic connection are, above all, the couples who value it. When they sense that desire is in crisis, they become industrious, and make intentional, diligent attempts to resuscitate it. They know that it is not children who extinguish the flame of desire; it is adults who fail to keep the spark alive.
+
+> If we feel insecure and unattractive, in our fantasies we are irresistible. If we anticipate a withholding woman, in fantasy she’s insatiable. If we fear our own aggression, in our internal reveries we can feel powerful without worrying that we might hurt another. If we don’t dare ask, in our erotic imaginings the other knows our needs even before we do. If we feel we shouldn’t have sex, in our private theater we can surrender to a lustful other without having to bear the responsibility—we did what he wanted, it wasn’t us. Fantasy expresses the problem and provides the solution.
+
+> To my thinking, sexual fantasy includes any mental activity that generates desire and intensifies enthusiasm. These thoughts need not be graphic, or even well-defined. They’re often inarticulate, more feelings than images, more sensuous than sexual. Virtually anything can work its way into one’s erotic imagination. Memories, smells, sounds, words, specific times of the day, textures—all can be considered fantasy as long as they set in motion the arc of desire.
+
+> Some couples get an erotic charge from sharing their fantasies in words or in enactments. Catherine and her husband scheme in naughty complicity when they plan out the details of their lascivious one-acts. This is fun, it’s novel, and it allows them to be (and be with) someone new without having to go somewhere else. It creates multiplicity out of monogamy. But not everyone wants a ticket to this theater of seduction. Disclosure is not a necessary part of working with fantasy. I don’t advocate a tell-all approach; not everyone would choose to live in an atmosphere of True Confessions. We may like to keep our imaginings to ourselves, not out of shame but out of an inchoate awareness that exposure to bright light will cause them to wither on the vine. Alternatively, we may be wise to dream alone, for we may not be on the same erotic wavelength as our beloved.
+
+> Heterosexual pornography, predominantly produced by and for men, concerns itself almost exclusively with what the sociologist Anthony Giddens calls “low emotion, high intensity sex.” In part, it meets the need of many men to compartmentalize their sexual and emotional lives, and to separate their secure relationships from their rash urges. But it also serves an additional purpose not immediately apparent. While opponents of porn focus primarily on the aggression and violence of male sexuality, Giddens makes the point that the male potency displayed in these stories is a manifest reassurance against male insecurities—sexual and other. The female characters in much pornography (themselves invulnerable) neutralize male vulnerability because they are always fully responsive and fully satisfied. The man never suffers from inadequacy, because the woman is in a state of ecstatic bliss that is entirely his doing. She confirms his virility.
+
+> Our cultural taboos about erotic fantasy are so strong that for many people the very idea of discussing it creates anxiety and shame. Yet fantasies are maps of our psychological and cultural preoccupations; exploring them can lead to greater self-awareness, an essential step in creating change. When we cordon off our erotic interiors, we are left with sex that is truncated, devoid of vibrancy, and not particularly intimate. What people fail to see is that dull, boring sexual relationships are often a consequence of shutting down the imagination in just this way. Our erotic imagination is an exuberant expression of our aliveness, and one of the most powerful tools we have for keeping desire alive. Giving voice to our fantasies can liberate us from the many personal and social obstacles that stand in the way of pleasure. Understanding what our fantasies do for us will help us understand what it is we’re seeking, sexually and emotionally. In our erotic daydreams, we find the energy that keeps us passionately awake to our own sexuality.
+
+> No longer obligated to marry who we must, we set out with a new ideal of what we want, and we want plenty. Our desiderata still include everything the traditional family was meant to provide—security, children, property, respectability—but now we also want our Joe to love us, to desire us, to be interested in us. We should be confidants, best friends, and passionate lovers. Modern marriage promises us that there is one person out there with whom all this is possible if we can just find her.
+
+> Once upon a time, there was one person whose only role was to be there for us. In the ecstatic communion between mother and child, there is no gap. To the newborn the mother is everything, all at once, inseparable, unbounded: her skin, her breast, her voice, her smile, it is all for him. As a pink-bottomed baby, we were full and fulfilled, and somewhere deep inside we’ve never forgotten that Eden. Those of us who didn’t know this idyllic state—those with mothers who were unavailable, inconsistent, absent, or selfish—are often even more determined to find the perfect partner. The question remains: isn’t the oneness we strive to restore itself a fantasy?
+
+> For the child, Mom is the be-all and end-all, but the mother has always known other people. She even has a jealous lover, the father. As it turns out, Mom was never totally faithful—not even once upon a time. So the specter of betrayal is there from the beginning. We grow up with it. The isolating conditions of modern life only amplify the rumbling insecurity that hides in the background of our romantic possessiveness. Fear of loss and fear of abandonment tighten our grip on fidelity. In a culture where everything is disposable and downsizing confirms just how replaceable we really are, our need to feel secure in our primary relationship is all the greater.
+
+> When the intimacy is gone, when we no longer
+
+> When the intimacy is gone, when we no longer talk, when we haven’t been touched in years, we are more vulnerable to the kindness of strangers. When the kids are young and needy, extramarital appreciation can feel like a tonic. When they’re older and gone, empty nesters may seek replenishment elsewhere. If our health fails us, or if we’ve just been visited by death, we may experience outbursts of dissatisfaction, a cry for something better.
+
+> Affairs are motivated by myriad forces; not all of them are directly related to flaws in the marriage. As it happens, plenty of adulterers are reasonably content in their relationships.
+
+> Marriage is imperfect. We start with a desire for oneness, and then we discover our differences. Our fears are aroused by the prospect of all the things we’re never going to have. We fight. We withdraw. We blame our partners for failing to make us whole. We look elsewhere. Sadly, too many of us stay stuck in this place until we’re bald or gray. Others mourn the loss of the dream, then come to terms with the choice they made. Love is anchored in acceptance.
+
+> At the boundary of every couple lives the third. He’s the high school sweetheart whose hands you still remember, the pretty cashier, the handsome fourth-grade teacher you flirt with when you pick your son up at school. The smiling stranger on the subway is the third. So, too, are the stripper, the porn star, and the sex worker, whether touched or untouched. He is the one a woman fantasizes about when she makes love to her husband. Increasingly, she can be found on the Internet. Real or imagined, embodied or not, the third is the fulcrum on which a couple balances. The third is the manifestation of our desire for what lies outside the fence. It is the forbidden.
+
+> we live in a world that offers us little help with staying put or making do. In our consumer culture, we always want the next best thing: the latest, the newest, the youngest. Failing that, we at least want more: more intensity, more variety, more stimulation. We seek instant gratification and are increasingly intolerant of any frustration. Nowhere are we encouraged to be satisfied with what we have, to think, “This is good. This is enough.” Sex is part and parcel of this economy—some people might even say that sex propels it.
+
+> These couples, in their own ways, have chosen to acknowledge the possibility of the third: the recognition that our partner has his or her own sexuality, replete with fantasies and desires that aren’t necessarily about us. When we validate one another’s freedom within the relationship, we’re less inclined to search for it elsewhere. In this sense, inviting the third goes some way toward containing its volatility, not to mention its appeal. It is no longer a shadow but a presence, something to talk about openly, joke about, play with. When we can tell the truth safely, we are less inclined to keep secrets.
+
+> Rather than inhibiting a couple’s sexuality, recognizing the third has a tendency to add spice, not least because it reminds us that we do not own our partners. We should not take them for granted. In uncertainty lies the seed of wanting.
+
+> Finally, renouncing others reaffirms our choice. He is the one I want. We admit our roving desires, yet push them back. We flirt with them, all the while keeping them at a safe distance. Perhaps this is another way of looking at maturity: not as passionless love, but as love that knows of other passions not chosen.
+
+> There are a lot of ways to invite the third into a relationship that don’t include extramarital sex, and a few that do. For most people, the mention of sexually open relationships sets off the red warning lights.
+
+> Monogamy stipulates keeping the forbidden on the outside, but rarely includes provisions for the couple. Eventually, if desire withers, monogamy too easily slides downward into celibacy. When this happens, fidelity becomes a weakness rather than a virtue.
+
+> it’s been my experience that couples who negotiate sexual boundaries, like the ones mentioned above, are no less committed than those who keep the gates closed. In fact, it is their desire to make the relationship stronger that leads them to explore other models of long-term love. Rather than expelling the third from the province of matrimony, they grant it a tourist visa. For these couples, fidelity is defined not by sexual exclusivity but by the strength of their commitment. The boundaries aren’t physical but emotional. The primacy of the couple remains paramount.
+
+> It’s interesting to note that although these couples bring a new meaning to the concept of fidelity, they are nonetheless susceptible to betrayal. Trust is crucial in any relationship, and this is no different for those who invite the third into their intimate space. Infidelity lies in breaches of the agreement, in violations of trust. Even though the rules themselves may look very different, they are breakable, and breaking them has equally painful consequences. In this sense, sexually open couples are no different from their monogamous counterparts.
+
+> The presence of the third is a fact of life; how we deal with it is up to us. We can approach it with fear, avoidance, and moral outrage; or we can bring to it a robust curiosity and a sense of intrigue.
+
+> Marriage has become a matter of love; love is a matter of choice; and choice implies renouncing others. But that doesn’t mean the others are dead. Nor does it mean that we need to deaden our senses so as to protect ourselves from their allure. Acknowledging the third has to do with validating the erotic separateness of our partner. It follows that our partner’s sexuality does not belong to us.
+
+> The more we choke each other’s freedom, the harder it is for desire to breathe within a committed relationship.
+
+> I’d like to suggest that we view monogamy not as a given but as a choice. As such, it becomes a negotiated decision. More to the point, if we’re planning to spend fifty years with one soul—and we want a happy jubilee—it may be wiser to review our contract at various junctures. Just how accommodating each couple may be to the third varies. But at least a nod is more apt to sustain desire with our one and only over the long haul—and perhaps even to create a new “art of loving” for the twenty-first century couple.
+
+> Marriage, we’ve been taught, is about commitment, security, comfort, and family. It’s a serious business, a responsible and purposeful enterprise; it’s all the things we need, and all the things we need to do. Play and its playmates (risk, seduction, naughtiness, transgression) are left to fend for themselves outside the solid architecture of our homes.
+
+> For [married] sex to be “meaningful,” it must always be an expression of love—preferably of lifelong, abiding love—every time we climb into bed with one another. And what an incredible burden that is! It eliminates sex stimulated by a whole array of other emotions and sensations: playful sex and angry sex, quick, “mindless” sex and “naughty” sex. It eliminates, in fact, just about every occasion for having sex there is. After all, who can feel “lifelong, abiding love” that regularly—especially at eleven o’clock at night?
+
+> Domestic eroticism is wrapped in a veil of appropriateness.
+
+> a lot of couples play with objectification as a way to superimpose otherness on a partner who’s become too familiar. It is often dismissed as lacking intimacy, but I think that when both of you are into it, it’s another kind of closeness. You have to trust people a lot to let yourself forget them.”
+
+> Fear—of judgment, of rejection, of loss—is embedded in romantic love. Sexual rejection at the hands of the one we love is particularly hurtful. We are therefore less inclined to be erotically adventurous with the person we depend on for so much and whose opinion is paramount. We’d rather edit ourselves, maintaining a tightly negotiated, acceptable, even boring erotic script, than risk injury. It is no surprise that some of us can freely engage in the perils and adventures of sex only when the emotional stakes are lower—when we love less or, more important, when we are less afraid to lose love.
+
+> When the object of our desire is a person, her rejection leaves us feeling lonely, unworthy, unloved, or—worse—unlovable. But fulfilled desire carries its own brand of loss. Getting what we want undermines the thrill of wanting it. The deliciousness of yearning, the elaborate strategies of pursuit, the charged fantasies, in short all the activity and energy that went into wanting give way to the foreclosure of having. Just think about the last thing you had to have until you owned it. Now that it’s yours, you may enjoy it, you may love it, but do you still want it? Do you even remember how much you wanted it in the first place?
+
+> Is it harder to want what you already have? The law of diminishing returns tells us that increased frequency leads to decreased satisfaction. The more you use a product, the less satisfying each subsequent use will be.
+
+> Fortunately, the logic of this argument breaks down when it is applied to love, for it is based on the erroneous assumption that we can own a person in the same way that we can own an iPod or a new pair of Prada heels.
+
+> The grand illusion of committed love is that we think our partners are ours. In truth, their separateness is unassailable, and their mystery is forever ungraspable. As soon as we can begin to acknowledge this, sustained desire becomes a real possibility. It’s remarkable to me how a sudden threat to the status quo (an affair, an infatuation, a prolonged absence, or even a really good fight) can suddenly ignite desire. There’s nothing like the fear of loss to make those old shoes look new again.
+
+> The counterargument to the law of diminishing returns is the principle that consistent investment leads to increased satisfaction. The more you do something, and the better you get at it, the more you’re going to enjoy it.
+
+> Unfortunately, all too often we associate effort with work, and discipline with pain. But there’s a different way to think of work. It can be creative and life-affirming, sparking a heightened sense of vitality rather than a bone-deep exhaustion. If we want sex to be fulfilling, then we have to apply effort in just this artful way.
+
+> It is hard to overstate their enthusiastic conviction that really sexy sex is supposed to be spur-of-the-moment. We like to believe that sex arises from an impulse or inclination that is natural, unprompted, and artless.
+
+> For many of us, premeditated sex is suspicious. It threatens our belief that sex is subject only to the machinations of magic and chemistry. The idea that sex must be spontaneous keeps us one step removed from having to will sex, to own our desire, and to express it with intent. As long as sex is something that just happens, you don’t have to claim it. It’s ironic that in such a willful society, willfully conjuring up sex seems obvious and crass. It embarrasses us, as if we’ve been caught doing something inappropriate.
+
+> spontaneity was a myth. Whatever used to happen “in the moment” was often the result of hours, if not days, of preparation. What outfit, what conversation, which restaurant, which music? All that planning—that highly detailed, imaginative production—was part of the buildup and part of the denouement. For this reason, I urge my patients not to be spontaneous about sex. Spontaneity is a fabulous idea, but in an ongoing relationship whatever is going to “just happen” already has. Now they have to make it happen. Committed sex is intentional sex. “I couldn’t resist” has to become “I don’t want to resist.” “We just fell into each other’s arms” has to become “Let me take you in my arms.” “We just click” has to become “Can we click tonight?”
+
+> My aim is to help patients become comfortable with sexuality as a consciously acknowledged and enthusiastically welcomed part of their lives—something that demands full engagement. The idea of planning is a hurdle many couples need to cross. They associate planning with scheduling, scheduling with work, and work with obligation. Often, therapy is a process of dismantling these beliefs.
+
+> quite a few of my patients balk at the idea of deliberateness when it comes to sex. They find these strategies too laborious for the long haul, believing they should no longer be necessary after the initial conquest. “Seducing my partner? Do I still have to do that?” This reluctance is often a covert expression of an infantile wish to be loved just as we are, without any effort whatsoever on our part, because we’re so special. It’s the grandiosity of the baby, and we all carry it inside.
+
+> Anticipation implies that we are looking forward to something. It is an important ingredient of desire, and planning for sex helps to generate it.
+
+> I believe that longing, waiting, and yearning are fundamental elements of desire that can be generated with forethought, even in long-term relationships.
+
+> Eroticism, intertwined as it is with imagination, is another form of play.
+
+> Through play we suspend disbelief—we pretend something is real even when we damn well know it is not. Earnestness has no place here. Play, by definition, is carefree and unself-conscious. The great theoretician of play, Johan Huizinga, maintained that a fundamental feature of play is that it serves no other purpose. The purposelessness associated with play is hard to reconcile with our culture of high efficiency and constant accountability. More and more, we measure play by its benefits. We play squash for cardiovascular conditioning; we take our kids to dinner to expand their palates; we go on vacation to recharge. Yet if we’re plagued by self-awareness, obsessed with outcomes, or fearful of judgment, our enjoyment is inevitably compromised. When we are children, play comes to us naturally, but our capacity for play collapses as we age. Sex often remains the last arena of play we can permit ourselves, a bridge to our childhood.
+
+> Every so often, I meet couples who get it, who maintain a sense of playfulness with each other, in and out of the bedroom. They are physically and sensually alive—two people whose desire for one another hasn’t been left to languish. Even in our culture of immediate gratification, they’re able to see seduction as an end in itself.
+
+> For all these couples, playfulness is central to their relationship, and eroticism extends beyond the sexual act.
+
+> They revere the erotic, yet they delight in its irreverence. They like sex, they especially like it with each other, and they take the time to nurture an erotic space. Like all couples, they go through periods when desire is dormant—when they are estranged from each other, or simply immersed in their own projects and in their own lives—but they don’t panic, terrified that something is fundamentally wrong with them. They know that erotic intensity waxes and wanes, that desire suffers periodic eclipses and intermittent disappearances. But given sufficient attention, they can bring the frisson back. For them, love is a vessel that contains both security and adventure, and commitment offers one of the great luxuries of life: time. Marriage is not the end of their romance, it’s the beginning. They know that they have years in which to deepen their connection, to experiment, to regress, and even to fail. They see their relationship as something alive and ongoing, not a fait accompli. It’s a story that they are writing together, one with many chapters, and neither partner knows how it will end. There’s always a place they haven’t gone yet, always something about the other still to be discovered.
+
+> Modern relationships are cauldrons of contradictory longings: safety and excitement, grounding and transcendence, the comfort of love and the heat of passion. We want it all, and we want it with one person. Reconciling the domestic and the erotic is a delicate balancing act that we achieve intermittently at best. It requires knowing your partner while recognizing his persistent mystery; creating security while remaining open to the unknown; cultivating intimacy that respects privacy. Separateness and togetherness alternate, or proceed in counterpoint. Desire resists confinement, and commitment mustn’t swallow freedom whole. At the same time, eroticism in the home requires active engagement and willful intent. It is an ongoing resistance to the message that marriage is serious, more work than play; and that passion is for teenagers and the immature. We must unpack our ambivalence about pleasure, and challenge our pervasive discomfort with sexuality, particularly in the context of family. Complaining of sexual boredom is easy and conventional. Nurturing eroticism in the home is an act of open defiance.

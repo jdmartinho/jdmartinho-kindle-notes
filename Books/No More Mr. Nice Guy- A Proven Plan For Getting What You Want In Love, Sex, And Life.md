@@ -1,792 +1,404 @@
 ---
-author: Robert A. Glover
-keywords:
-- work
-- creativity
-- psychology
-- relationships
-- self-development
-- life-design
-- fear-and-anxiety
-- craftsmanship
-tags:
-- books
-- highlights
-- work
-- creativity
-- psychology
-- relationships
-- self-development
-- life-design
-- fear-and-anxiety
-- craftsmanship
-title: "No More Mr. Nice Guy: A Proven Plan For Getting What You Want In
-  Love, Sex, And Life"
+title: "No More Mr. Nice Guy: A Proven Plan For Getting What You Want In Love, Sex, And Life"
+author: "Robert A. Glover"
 type: book
+tags:
+  - books
+  - highlights
+  - relationships
+  - psychology
+  - fear-and-anxiety
+  - work
+  - mental-health
+  - career
+  - creativity
+  - money
+keywords:
+  - "nice"
+  - "guys"
+  - "sexual"
+  - "life"
+  - "needs"
+  - "free"
+  - "breaking"
+  - "activity"
+  - "fear"
+  - "good"
+  - "experience"
+  - "behavior"
+  - "time"
+  - "believe"
+  - "shame"
 ---
 
-# No More Mr. Nice Guy: A Proven Plan For Getting What You Want In Love, Sex, And Life
+# No More Mr. Nice Guy: A Proven Plan For Getting What You Want In Love, Sex, And Life
 
 **Author:** Robert A. Glover
 
 ## Highlights
 
--   Though all of these men are unique, each shares a common life
-    script: They all believe that if they are "good" and do everything
-    "right," they will be loved, get their needs met, and have a
-    problem-free life. This attempt to be good typically involves trying
-    to eliminate or hide certain things about themselves (their
-    mistakes, needs, emotions) and become what they believe others want
-    them to be (generous, helpful, peaceful, etc.). I call these men
-    Nice Guys.
+> Though all of these men are unique, each shares a common life script: They all believe that if they are "good" and do everything "right," they will be loved, get their needs met, and have a problem-free life. This attempt to be good typically involves trying to eliminate or hide certain things about themselves (their mistakes, needs, emotions) and become what they believe others want them to be (generous, helpful, peaceful, etc.). I call these men Nice Guys.
 
--   Every Nice Guy is unique, but all have a cluster of similar
-    characteristics. These traits are the result of a script, often
-    formed in childhood, that guides their lives.
+> Every Nice Guy is unique, but all have a cluster of similar characteristics. These traits are the result of a script, often formed in childhood, that guides their lives.
 
--   Nice Guys are givers. Nice Guys frequently state that it makes them
-    feel good to give to others.
-
--   Nice Guys fix and caretake.
-
--   Nice Guys seek approval from others. A universal trait of the Nice
-    Guy Syndrome is the seeking of validation from others.
-
--   Nice Guys avoid conflict.
-
--   Nice Guys believe they must hide their perceived flaws and mistakes.
-    These men are afraid that others will get mad at them, shame them,
-    or leave them if some mistake or shortcoming is exposed. Nice Guys
-    seek the "right" way to do things. Nice Guys believe there is a key
-    to having a happy, problem-free life.
-
--   Nice Guys repress their feelings. Nice Guys tend to analyze rather
-    than feel.
-
--   Nice Guys often try to be different from their fathers. Many Nice
-    Guys report having unavailable, absent, passive, angry,
-    philandering, or alcoholic fathers.
-
--   Nice Guys are often more comfortable relating to women than to men.
-    Due to their childhood conditioning, many Nice Guys have few male
-    friends. Nice Guys frequently seek the approval of women and
-    convince themselves they are different from other men.
-
--   Nice Guys have difficulty making their needs a priority.
-
--   Nice Guys often make their partner their emotional center.
-
--   These men have been conditioned to believe that if they are "nice,"
-    they will be loved, get their needs met, and have a smooth life. The
-    term Nice Guy is actually a misnomer because Nice Guys are often
-    anything but nice. Here are some Not-So-Nice Traits of Nice Guys:
-    Nice Guys are dishonest. These men hide their mistakes, avoid
-    conflict, say what they think people want to hear, and repress their
-    feelings.
-
--   Nice Guys are secretive.
-
--   Nice Guys are compartmentalized.
-
--   Nice Guys are manipulative.
-
--   Nice Guys are controlling. A major priority for Nice Guys is keeping
-    their world smooth. This creates a constant need to try to control
-    the people and things around them.
-
--   Nice Guys give to get . Though Nice Guys tend to be generous givers,
-    their giving often has unconscious and unspoken strings attached.
-
--   Nice Guys are passive-aggressive. Nice Guys tend to express their
-    frustration and resentment in indirect, roundabout, and not so nice
-    ways.
-
--   Nice Guys are full of rage. Though Nice Guys frequently deny ever
-    getting angry, a lifetime of frustration and resentment creates a
-    pressure cooker of repressed rage deep inside these men.
-
--   Nice Guys are addictive. Addictive behavior serves the purpose of
-    relieving stress, altering moods, or medicating pain.
-
--   Nice Guys have difficulty setting boundaries. Many Nice Guys have a
-    hard time saying "no," "stop," or "I'm going to." They often feel
-    like helpless victims and see the other person as the cause of the
-    problems they are experiencing.
-
--   Nice Guys are frequently isolated.
-
--   Nice Guys are often attracted to people and situations that need
-    fixing.
-
--   Nice Guys frequently have problems in intimate relationships.
-
--   Nice Guys have issues with sexuality. Though most Nice Guys deny
-    having problems with sex, I have yet to meet one who isn't either
-    dissatisfied with his sex life, has a sexual dysfunction (can't get
-    or maintain an erection, climaxes too quickly), or has sexually
-    acted out (through affairs, prostitution, pornography, compulsive
-    masturbation, etc.).
-
--   Nice Guys are usually only relatively successful.
-
--   Recovery from the Nice Guy Syndrome isn't about going from one
-    extreme to another. The process of breaking free from ineffective
-    Nice Guy patterns doesn't involve becoming "not nice." Rather, it
-    means becoming "integrated." Being integrated means being able to
-    accept all aspects of one's self.  An integrated man is able to
-    embrace everything that makes him uniquely male: his power, his
-    assertiveness, his courage, and his passion as well as his
-    imperfections, his mistakes, and his dark side.
-
--   An integrated male possesses many of the following attributes: He
-    has a strong sense of self. He likes himself just as he is. He takes
-    responsibility for getting his own needs met. He is comfortable with
-    his masculinity and his sexuality. He has integrity. He does what is
-    right, not what is expedient. He is a leader. He is willing to
-    provide for and protect those he cares about. He is clear, direct,
-    and expressive of his feelings. He can be nurturing and giving
-    without caretaking or problem-solving. He knows how to set
-    boundaries and is not afraid to work through conflict.
-
--   Breaking free from the Nice Guy Syndrome demands embracing a totally
-    different way of viewing oneself and the world, a complete change in
-    one's personal paradigm.
-
--   Most paradigms are developed when we are young, naïve, and
-    relatively powerless. They are often based on the inaccurate
-    interpretations of childhood experiences. Since they are often
-    unconscious, they are rarely evaluated or updated. Perhaps most
-    significantly, they are assumed to be 100 percent accurate --- even
-    when they are not.
-
--   The working paradigm of the Nice Guy is this: IF I can hide my flaws
-    and become what I think others want me to be THEN I will be loved,
-    get my needs met, and have a problem-free life.
-
--   Recovery from the Nice Guy Syndrome is dependent on revealing one's
-    self and receiving support from safe people.
-
--   The premise of this book is that during their formative years, all
-    Nice Guys received messages from their families and the world around
-    them that it was not safe, acceptable, or desirable for them to be
-    who they were, just as they were.
-
--   The most impressionable time in an individual's life is from birth
-    to about five years. In these first few years a child's personality
-    is most significantly influenced by his surroundings.
-
--   There are two important facts we must understand about children.
-    First, when children come into the world they are totally helpless.
-    They are dependent on others to recognize and respond to their needs
-    in a timely, judicious manner. As a result of this dependency, every
-    child's greatest fear is abandonment. To children, abandonment means
-    death. Second, children are ego-centered. This means that they
-    inherently believe they are the center of the universe and
-    everything revolves around them. Therefore, they believe that they
-    are the cause of everything that happens to them. These two factors
-    --- their fear of abandonment and their ego-centeredness --- create
-    a very powerful dynamic for all children. Whenever a child
-    experiences any kind of abandonment he will always believe that he
-    is the cause of what has happened to him.
-
--   These abandonment experiences and the naive, ego-centered
-    interpretation of them, creates a belief in some young children that
-    it is not acceptable for them to be who they are, just as they are.
-    They conclude that there must be something wrong with them, which
-    causes the important people in their lives to abandon them. They
-    have no way of comprehending that their abandonment experiences are
-    not caused by something about them, but by the people who are
-    supposed to recognize and meet their needs.
-
--   This naive, ego-centered interpretation of their abandonment
-    experiences creates a psychological state called toxic shame. Toxic
-    shame is the belief that one is inherently bad, defective,
-    different, or unlovable. Toxic shame is not just a belief that one
-    does bad things, it is a deeply held core belief that one is bad.
-
--   As a result of these abandonment experiences and the faulty
-    interpretation of these events, all children develop survival
-    mechanisms to help them do three very important things:  1) Try to
-    cope with the emotional and physical distress of being abandoned. 2)
-    Try to prevent similar events from happening again. 3) Try to hide
-    their internalized toxic shame (or perceived badness) from
-    themselves and others.
-
--   The survival mechanisms that Nice Guys develop to deal with their
-    abandonment experiences and internalized toxic shame are usually
-    manifested in one of two ways. In one form, a Nice Guy exaggerates
-    his belief about his "not OK-ness" and believes he is the worst kind
-    of person. I call this man the "I'm so bad" Nice Guy. The "I'm so
-    bad" Nice Guy is convinced everyone can see how bad he is. He can
-    give concrete examples of bad behavior in childhood, adolescence,
-    and adulthood that support his core belief about himself.
-
--   He is convinced his only hope for having any kind of happiness in
-    life lies in trying his best to mask his inherent badness. He never
-    really believes anyone will buy into his Nice Guy persona, but
-    doesn't think he has any other choice.
-
--   The second kind of Nice Guy is the "I'm so good" Nice Guy. This man
-    handles his toxic shame by repressing his core belief about his
-    worthlessness. He believes he is one of the nicest guys you will
-    ever meet. If he is conscious of any perceived flaws, they are seen
-    as minor and easily correctable. As a child he was never a moment's
-    problem. As a teen he did everything right. As an adult, he follows
-    all the rules to a "t". This Nice Guy has tucked his core belief
-    about his "not OK-ness" into a handy, air-tight compartment deep in
-    his unconscious mind. He masks his toxic shame with a belief that
-    all the good things he does make him a good person.
-
--   In general, the Nice Guys I have worked with do not report having
-    had a close, bonded relationship with their fathers in childhood.
-    Sometimes this was a result of their fathers working long hours,
-    being withdrawn, or being passive. More often than not, Nice Guys
-    describe their fathers in negative terms. They often see them as
-    controlling, rageful, angry, absent, abusive, unavailable,
-    addictive, or philandering. It is not unusual at some point in
-    childhood for Nice Guys to have made a conscious decision to be
-    different from their fathers.
-
--   Seeking women's approval requires Nice Guys to constantly monitor
-    the possibility of a woman's availability. The possibility of
-    availability is a term I use to describe the subjective measure of a
-    woman's sexual availability. Since Nice Guys see sex as the ultimate
-    form of acceptance, and they believe a woman must be in a good mood
-    before she will have sex, these men are constantly diligent to not
-    do anything that might upset a woman whom they desire. In addition,
-    if a woman they desire is angry, depressed, or in a bad mood, they
-    believe they must do something quickly --- lie, offer solutions,
-    sacrifice self, manipulate --- to fix it.
-
--   Seeking women's approval creates rage toward women. Though most Nice
-    Guys claim to "love" women, the truth is, most of these men have
-    tremendous rage toward women. This is because we tend to eventually
-    despise whatever we make into our god. When our god fails to respond
-    in the ways we expect, we humans tend to respond in one of two ways.
-    We either blindly intensify our acts of worship or lash out in
-    righteous anger.
-
--   Seeking women's approval gives women the power to define men and
-    determine their worth.
-
--   Since Nice Guys do not believe they are OK just as they are, they
-    see any mistake or perceived flaw as proof that they are bad and
-    unlovable. They believe that if anyone sees how bad they really are,
-    they will be hurt, shamed, or abandoned. As a result, Nice Guys are
-    consummate cover-up artists.
-
--   DEER is an acronym I use for: Defend Explain Excuse Rationalize.
-    These are all fear-based behaviors used to distract others from
-    focusing on the Nice Guy's mistakes and "badness." The Nice Guy is
-    most likely to go into the DEER Response when he has done something
-    or failed to do something, and someone (usually wife, partner, or
-    boss) confronts him and expresses his or her feelings.
-
--   If someone gets angry at a Nice Guy or points out some flaw or
-    mistake, his shame will be triggered. In an attempt to distract
-    himself and the other person from his "badness" he may try to turn
-    the tables and do something to trigger the other person's shame. I
-    call this shame dumping. This unconscious strategy is based on the
-    belief that if the Nice Guy can shift the focus to the other
-    person's badness, he can slip out of the spotlight. Typical shame
-    dumping techniques include blame, bringing up the past, deflection,
-    and pointing out the other person's flaws.
-
--   Nice Guys have a difficult time comprehending that in general,
-    people are not drawn to perfection in others. People are drawn to
-    shared interests, shared problems, and an individual's life energy.
-    Humans connect with humans. Hiding one's humanity and trying to
-    project an image of perfection makes a person vague, slippery,
-    lifeless, and uninteresting.
-
--   Instead of seeking external validation and avoiding disapproval,
-    recovering Nice Guys must begin seeking the approval of the only
-    person who really matters --- themselves.
-
--   To help facilitate this recovery process, Nice Guys can: Identify
-    how they seek approval. Take good care of themselves. Give
-    themselves positive affirmations. Spend extended periods of time
-    alone. Reveal themselves to safe people.
-
--   As the recovering Nice Guy begins to do good things for himself, he
-    will feel uncomfortable. He may actually feel frightened, anxious,
-    guilty, or confused. These feelings are the result of what is called
-    cognitive dissonance. When the Nice Guy does something good for
-    himself he is doing something that implies he is valuable. This will
-    conflict with his deeply held belief that he is worthless. As a
-    result, he will experience dissonance --- a clashing of two
-    competing messages. In time, one of the beliefs will win. I
-    encourage recovering Nice Guys to keep being good to themselves, no
-    matter how frightening. In time the core messages from childhood are
-    replaced with new, more accurate beliefs that reflect their inherent
-    worth.
-
--   Spending extended time alone is an important process in recovering
-    from the Nice Guy Syndrome. When alone, Nice Guys can discover who
-    they are, what they like about themselves, and what rules they
-    choose to govern their lives. I strongly recommend that Nice Guys
-    take trips and retreats by themselves to places where no one knows
-    them. In this context, the Nice Guy has fewer reasons to try to win
-    people's approval, and there is less of a need to try to hide faults
-    and mistakes. While alone, Nice Guys can reflect on themselves and
-    their life direction. It is also a good time to practice taking
-    responsibility for one's needs.
-
--   When the Nice Guy discovers that spending time alone doesn't kill
-    him, he may also realize that he doesn't have to stay in bad
-    relationships, tolerate intolerable behavior, or manipulate people
-    to try to get his needs met. This time alone is spent most
-    effectively when the Nice Guy can observe his tendency to distract
-    himself with addictive patterns such as keeping busy, or using sex,
-    food, or alcohol to medicate. Writing in a journal during these
-    times can be especially effective.
-
--   When a child's needs are not met in a timely, healthy manner, the
-    child may come to believe he is "bad" for having needs. He may also
-    think that it is his needs that cause people to hurt him or abandon
-    him. Typically Nice Guys respond to these inaccurate interpretations
-    of their life events by developing a number of survival mechanisms.
-    Trying to appear needless and wantless. Making it difficult for
-    others to give to them. Using "covert contracts." Caretaking ---
-    focusing attention on other people's needs.
-
--   These helpless little boys concluded that if they could eliminate or
-    hide all of their needs, then no one would abandon them. They also
-    convinced themselves that if they didn't have needs, it wouldn't
-    hurt so bad when the needs weren't met. Not only did they learn
-    early not to expect to get their needs met, but also that their very
-    survival seemed to depend on appearing not to have needs. This
-    created an unsolvable bind: these helpless little boys could not
-    totally repress their needs and stay alive, and they could not meet
-    their needs on their own. The only logical solution was to try to
-    appear to be needless and wantless while trying to get needs met in
-    indirect and covert ways.
-
--   In addition to using ineffective strategies to get their needs met,
-    Nice Guys are terrible receivers. Since getting their needs met
-    contradicts their childhood paradigms, Nice Guys are extremely
-    uncomfortable when they actually do get what they want. Though most
-    Nice Guys have a difficult time grasping this concept, they are
-    terrified of getting what they really want and will go to extreme
-    measures to make sure they don't. Nice Guys carry out this
-    unconscious agenda by connecting with needy or unavailable people,
-    operating from an unspoken agenda, being unclear and indirect,
-    pushing people away, and sabotaging.
-
--   Almost everything a Nice Guy does represents some manifestation of a
-    covert contract. The Nice Guy's covert contract is simply this: 1) I
-    will do this \_\_\_\_\_\_\_\_\_\_\_\_\_\_ (fill in the blank) for
-    you, so that  2) You will do this \_\_\_\_\_\_\_\_\_\_\_\_\_\_ (fill
-    in the blank) for me. 3) We will both act as if we have no awareness
-    of this contract.
-
--   Caretaking is an immature and indirect attempt to try to get one's
-    needs met. Caretaking always consists of two parts: 1) Focusing on
-    another's problems, needs, or feelings in order to  2) Feel
-    valuable, get one's own needs met, or to avoid dealing with one's
-    own problems or feelings.
-
--   Caretaking 1) Gives to others what the giver needs to give. 2) Comes
-    from a place of emptiness within the giver. 3) Always has
-    unconscious strings attached. Caring 1) Gives to others what the
-    receiver needs.  2) Comes from a place of abundance within the
-    giver. 3) Has no strings attached.
-
--   Giving to get creates a cycle of craziness called the victim
-    triangle. The victim triangle consists of three predictable
-    sequences: 1) The Nice Guy gives to others hoping to get something
-    in return. 2) When it doesn't seem that he is getting as much as he
-    gives or he isn't getting what he expected, he feels frustrated and
-    resentful. Remember, the Nice Guy is the one keeping score and he
-    isn't totally objective. 3) When this frustration and resentment
-    builds up long enough, it spills out in the form of rage attacks,
-    passive-aggressive behavior, pouting, tantrums, withdrawing,
-    shaming, criticizing, blaming, even physical abuse. Once the cycle
-    has been completed, it usually just begins all over again.
-
--   Breaking Free: Activity #1 Write down three possible safe people or
-    groups that might be able to provide support for you in your
-    recovery from the Nice Guy Syndrome.
-
--   Breaking Free Activity #3 It is impossible to cover every factor
-    that might cause a young boy to try to hide his perceived flaws and
-    seek approval from others. I don't believe it is essential for Nice
-    Guys to uncover every experience that ever made them feel unsafe or
-    bad. But I have found that some understanding of where a life script
-    originated is helpful in changing that script. Reread the stories of
-    Alan, Jason, and Jose. Think about how these stories are similar to
-    your own childhood experiences. On a separate piece of paper or
-    journal, write down or illustrate the messages you received in your
-    family that seemed to imply that it wasn't OK for you to be who you
-    were, just as you were. Share these experiences with a safe person.
-    As you do, make note of your feelings. Do you feel sad, angry,
-    lonely, numb? Share this information as well. The purpose of this
-    assignment is to name, rather than blame. Blaming will keep you
-    stuck. Naming the childhood experiences that led you to believe that
-    it was not a safe or acceptable thing for you to be just who you
-    were will allow you replace these messages with more accurate ones
-    and help you change your Nice Guy script.
-
--   Breaking Free Activity #4 I've taken surveys in several No More
-    Mr. Nice Guy! groups asking the members about the attachments they
-    use to try to get external approval. The following are just a few of
-    the responses. Look over the list. Note any of the ways in which you
-    seek approval. Add to the list any behaviors that are uniquely you.
-    Write down examples of each. Ask others for feedback about the ways
-    in which they see you seeking approval. Having one's hair just
-    right. Being smart. Having a pleasant, non-threatening voice.
-    Looking unselfish. Being different from other men. Staying sober.
-    Being in good shape. Being a great dancer. Being a good lover. Never
-    getting angry. Making other people happy. Being a good worker.
-    Having a clean car. Dressing well. Being nice. Respecting women.
-    Never offending anyone. Looking like a good father.
-
--   Breaking Free Activity #5 If you did not care what people thought of
-    you, how would you live your life differently? If you were not
-    concerned with getting the approval of women, how would your
-    relationships with the opposite sex be different?
-
--   Breaking Free Activity #6 Look over the lists above. Write down
-    examples of situations in which you have tried to hide or distract
-    attention from any of these perceived flaws. How effective do you
-    think you are in keeping these things hidden from the people you
-    love?
-
--   Nice Guys believe they must hide or distract attention from any
-    perceived shortcoming . . . If they forget something. If they are
-    late. If they break something. If they don't understand something.
-    If they do something wrong. If they are depressed. If they are in
-    pain. If they generally mess up. The Nice Guy's need to hide is
-    often the most pronounced in areas that are just part of being human
-    and alive. That they are sexual. That they have bodily functions.
-    That they are getting older. That they are losing their hair. That
-    they have needs. That they are imperfect.
-
--   Breaking Free Activity #7 Do you believe that people can see your
-    human imperfections and still love you? How would you be different
-    if you knew the people who care about you would never leave you or
-    stop loving you --- no matter what?
-
--   Breaking Free Activity #8 Go back to the list of approval-seeking
-    behaviors at the beginning of this chapter. Choose one of the ways
-    you try to get external validation and do one of the following:  1)
-    Go on a moratorium from this behavior. Set a period of time to stop
-    doing it. Tell the people around you what you are doing. If you
-    slip, tell a safe person about it. Use the slip as information about
-    why, in that particular moment, you felt the need to get external
-    approval. 2) Consciously do more of this behavior. This may not make
-    logical sense, but it is a powerful way to explore any dysfunctional
-    behavior. Observe how you feel when you consciously try harder to
-    get external validation.
-
--   Breaking Free Activity #9 Begin with the list above and add good
-    things that you can do for yourself. Put the list up where you will
-    see it and choose at least one thing per day and do it for yourself.
-
--   Breaking Free Activity #10 Make a list of positive affirmations
-    about yourself. Write them on note cards and place them where you
-    will see them regularly. Change the cards often so they stay fresh.
-    When you read affirmations, close your eyes and fully embrace the
-    meaning of the words. Observe any tendency of your mind to reject
-    the affirmations in favor of old, deeply held beliefs. The following
-    are some possible affirmations: "I am lovable just as I am." "I am
-    perfectly imperfect." "My needs are important." "I am a strong and
-    powerful person." "I can handle it." "People love and accept me just
-    as I am." "It is OK to be human and make mistakes." "I am the only
-    person I have to please."
-
--   Breaking Free Activity #11 Plan a weekend trip to the mountains or
-    beach. If possible, plan a vacation or retreat for a week or longer
-    by yourself to a place where no one knows you. Visit a foreign
-    country by yourself if at all possible. Use this time as an
-    opportunity for self-observation and reflection. Keep a
-    journal. Practice good self-care. Take along this book and spend
-    time doing the Breaking Free exercises. When you return home,
-    observe how you are different and how long it takes for you to begin
-    returning to familiar patterns.
-
--   Breaking Free Activity #12 Do you believe it is OK for you to have
-    needs? Do you believe people want to help you meet your needs? Do
-    you believe this world is a place of abundance?
-
--   Breaking Free Activity #13 Identify at least one covert contract
-    between you and a significant other. What do you give? What do you
-    expect in return? Share this information with the other person. Ask
-    the person how it feels to respond to an unclear agenda.
-
--   Breaking Free Activity #14 Identify two or three examples of your
-    caretaking behavior. In order to stimulate awareness of your
-    caretaking, do one of the following for a period of one week:  1) Go
-    on a caretaking moratorium. Because Nice Guys have a difficult time
-    differentiating between caring and caretaking, stop giving
-    completely (except to young, dependent children). Tell people what
-    you are doing so they won't be confused. Observe your feelings and
-    other people's reactions. 2) Consciously try to caretake more than
-    you already do. As odd as this assignment may sound, it is a very
-    effective way to create awareness of your caretaking behavior. Pay
-    attention to how you feel and how other people react to you.
-
--   Breaking Free Activity #15 It can be difficult to make a direct link
-    between your caretaking behavior and the emotional pukes which
-    inevitably follow. Observe the ways you hurt the people you love. Do
-    you make cutting remarks or hurtful "jokes"? Do you embarrass them
-    in public? Are you frequently late? Do you "forget" things they've
-    asked you to do? Do you criticize them? Do you withdraw from them or
-    threaten to leave? Do you let frustration build until you blow up at
-    them? Ask the significant others in your life to give you feedback
-    about your caretaking and emotional pukes. This information may be
-    hard to hear and may trigger a shame attack, but it is important
-    information for breaking out of the victim triangle.
-
--   Breaking Free Activity #16 Make a decision to put yourself first for
-    a weekend or even a whole week. Tell the people around you what you
-    are doing. Ask a friend to support you and encourage you in this
-    process. Pay attention to your initial anxiety. Pay attention to
-    your tendency to revert to old patterns. At the end of the time
-    period, ask the people around you what it was like for them when you
-    put yourself first. Remember, you don't have to do it perfectly.
-    Just do it.
-
--   Even though Nice Guys are obsessed with trying to create a smooth,
-    problem-free life, two major factors prevent them from attaining
-    this goal. The first is that they are attempting the impossible.
-    Life is not smooth. Human existence is by nature chaotic. Life is
-    filled with experiences that are unpredictable and beyond anyone's
-    control. Therefore, trying to create a predictable life in which
-    everything always goes as planned is an exercise in futility. In
-    spite of the fact that we live in a chaotic, unpredictable world,
-    Nice Guys are not only convinced that life can be smooth, they
-    believe it should be. This belief is the direct result of their
-    childhood abandonment experiences. The unpredictability of not
-    having their needs met in a timely, judicious fashion was not only
-    frightening, it was potentially life-threatening. In attempt to cope
-    with the uncertainty of their chaotic childhood, Nice Guys developed
-    a belief system that if they could just do everything right, then
-    everything would go right in their lives. Sometimes these men also
-    developed belief systems that their childhood was ideal and
-    problem-free (the opposite of reality) in order to cope with their
-    abandonment experiences. These were all distorted beliefs, but these
-    illusions helped these helpless little boys deal with the turmoil
-    that was out of their control. A second reason Nice Guys never
-    accomplish their goal of having a smooth life is that they do the
-    opposite of what works. By approaching adult situations with
-    survival mechanisms that were formed when they were naive and
-    powerless, they are insured of having very little success in
-    creating anything that resembles stability in their lives.
-
--   The dependence on these ineffective survival mechanisms keeps Nice
-    Guys trapped in the memory of their fearful childhood experiences
-    and perpetuates a vicious cycle. The more frightened they are, the
-    more they use their childhood survival mechanisms. The more they use
-    these ineffective mechanisms, the less successful they are at
-    negotiating the complexities, challenges and ambiguities of life.
-    The less successful they are, the more fearful they become . . . you
-    get the picture.
-
--   Breaking Free Activity #17 Look over the following list of ways Nice
-    Guys try to create a smooth, problem-free life. Write down an
-    example of how you used each coping mechanism in childhood. Then,
-    next to each, give an example of how you use this strategy to try to
-    control your world in adulthood. Note how each of these behaviors
-    keeps you feeling like a powerless victim. Share this information
-    with a safe person. Doing it right. Playing it safe. Anticipating
-    and fixing. Trying not to rock the boat. Being charming and helpful.
-    Never being a moment's problem. Using covert contracts. Controlling
-    and manipulating. Caretaking and pleasing. Withholding information.
-    Repressing feelings. Making sure other people don't have feelings.
-    Avoiding problems and difficult situations.
-
--   I define personal power as a state of mind in which a person is
-    confident he can handle whatever may come. This kind of power not
-    only successfully deals with problems, challenges and adversity, it
-    actually welcomes them, meets them head on, and is thankful for
-    them. Personal power isn't the absence of fear. Even the most
-    powerful people have fear. Personal power is the result of feeling
-    fear, but not giving in to the fear.
-
--   Reclaiming personal power includes: Surrendering. Dwelling in
-    reality. Expressing feelings. Facing fears. Developing integrity.
-    Setting boundaries.
-
--   Ironically, the most important aspect of reclaiming personal power
-    and getting what one wants in love and life is surrender. Surrender
-    doesn't mean giving up, it means letting go of what one can't change
-    and changing what one can. Letting go doesn't mean not caring or not
-    trying. Letting go means letting be. It is like opening up a tightly
-    clenched fist and releasing the tension stored inside. At first the
-    fingers will want to return to their former clenched position. The
-    hand almost has to be retrained to open up and relax. So it is with
-    learning how to surrender and let go.
-
--   Surrender allows recovering Nice Guys to let go and respond to
-    life's complex beauty, rather than trying to control it. Surrender
-    allows these men to see life as a laboratory for learning, growth,
-    and creativity. Surrender allows recovering Nice Guys to see each
-    life experience as a "gift" from the universe to stimulate growth,
-    healing and learning. Instead of asking, "Why is this happening to
-    me?" the recovering Nice Guy can respond to life's challenges by
-    pondering, "What do I need to learn from this situation?"
-
--   Breaking Free Activity #18 Think about one "gift" from the universe
-    which you initially resisted but can now be seen as a positive
-    stimulus for growth or discovery. Are there any similar gifts in
-    your life right now to which you need to surrender? Share this
-    information with a safe person.
-
--   Nice Guys try to control their world by creating belief systems
-    about people and situations that are not based in reality. They then
-    act as if these beliefs are accurate. This is why their behavior
-    often seems illogical to outside observers.
-
--   Breaking Free Activity #19 Pick one area in your life in which you
-    routinely feel frustrated or out of control. Step back from the
-    situation. Is the difficulty you are having with the situation the
-    result of you trying to project the reality you want to believe onto
-    it? If you had to accept the reality of this situation, how might
-    you change your response to it?
-
--   Nice Guys are terrified of two kinds of feelings --- their own and
-    everyone else's. Any kind of intensity causes Nice Guys to feel out
-    of control. As children, feeling things intensely invited either
-    negative attention or no attention at all. Therefore, it came to
-    feel safer to clamp a lid down tightly on any emotion that might
-    attract too much negative attention or might cause them to feel
-    abandoned.
-
--   I frequently hear Nice Guys rationalize the withholding of their
-    feelings by claiming they don't want to hurt anyone. The truth is
-    they are covering their own butts. What they are really saying is
-    that they don't want to do anything that might recreate their
-    childhood experiences. They're really not trying to protect anyone
-    from harm, they're just trying to keep their world smooth and under
-    control.
-
--   The goal of teaching Nice Guys to embrace their feelings is not to
-    make them soft and "touchy-feely." Men who are in touch with their
-    feelings are powerful, assertive, and energized. Contrary to what
-    many Nice Guys believe, they don't have to become more like women in
-    order to have their feelings. This is why I support men in learning
-    about their feelings from other men.
-
--   Breaking Free Activity #20 Some guidelines about expressing
-    feelings. Don't focus on the other person, "You are making me mad."
-    Instead, take responsibility for what you are feeling: "I am feeling
-    angry." Don't use feeling words to describe what you are thinking,
-    as in "I feel like Joe was trying to take advantage of me." Instead,
-    pay attention to what you are experiencing in your body: "I'm
-    feeling helpless and frightened." In general, try to begin feeling
-    statements with "I", rather than "you." Try to avoid the crutch of
-    saying "I feel like." As in "I feel like you are being mean to me."
-
--   For Nice Guys, fear is recorded at the cellular level. It is a
-    memory of every seemingly life-threatening experience they ever had.
-    It was born of a time of absolute dependency and helplessness. It
-    originated in not having their needs met in a timely, judicious
-    manner. It was fostered by fearful systems that discouraged risk and
-    rewarded conservatism. It was heightened by the reality that life is
-    messy and chaotic and any kind of change promises a journey into the
-    unknown. I call this kind of fear, Memory Fear. Because of the
-    memory fear created in childhood, Nice Guys still approach the world
-    as if it is dangerous and overpowering. To cope with these
-    realities, Nice Guys typically hunker down and play it safe.
-
--   As a consequence of playing it safe, Nice Guys experience a lot of
-    needless suffering. Suffering because they avoid new situations.
-    Suffering because they stay with the familiar. Suffering because
-    they procrastinate, avoid, and fail to finish what they start.
-    Suffering because they make a bad situation worse by doing more of
-    what has never worked in the past. Suffering because they expend so
-    much energy trying to control the uncontrollable.
-
--   Behind Nolan's fear of making a decision was the childhood fear that
-    he wouldn't be able to handle whatever happened. Together we
-    brainstormed all the possible consequences of divorcing his wife.
-    Behind each potential consequence was the unconscious belief that he
-    wouldn't be able to handle it. I sent Nolan home with his list of
-    fears along with a more accurate statement about each: No matter
-    what happened, he would handle it.
-
--   Facing present day fears is the only way to overcome memory fear.
-    Every time the Nice Guy confronts a fear, he unconsciously creates a
-    belief that he can handle whatever it is he is afraid of. This
-    challenges his memory fear. Challenging this memory fear makes the
-    things outside of him seem less threatening. As these things seem
-    less frightening, he feels more confident in confronting them. The
-    more this confidence grows, the less threatening life seems.
-
--   Breaking Free Activity #21 List one fear that has been controlling
-    your life. Once you decide to confront the fear, begin repeating to
-    yourself, "I can handle it. No matter what happens, I will handle
-    it." Keep repeating this mantra until you take action and stop
-    feeling fear.
-
--   Most Nice Guys pride themselves on being honest and trustworthy. In
-    reality, Nice Guys are fundamentally dishonest. They have the
-    ability to tell a lie or withhold the truth and still believe the
-    illusion that they are basically honest people. Since dishonesty is
-    a fear-based behavior, telling lies and withholding the truth robs
-    Nice Guys of their personal power. I define lying as anything less
-    than the truth.
-
--   When Nice Guys are learning to tell the truth I encourage them to
-    pay attention to the things they least want others to know, what
-    they least want to reveal. These are the things they are most likely
-    to hold back --- and the things they most need to tell. Sometimes
-    they have to practice telling a certain truth several times until
-    all of these pieces of information get told. Sometimes after telling
-    the truth, Nice Guys will report that it was a "mistake" because
-    someone reacted with anger. Telling the truth is not a magic formula
-    for having a smooth life. But living a life of integrity is actually
-    easier than living one built around deceit and distortion.
-
--   Developing integrity is an essential part of recovery from the Nice
-    Guy Syndrome. My definition of integrity is "deciding what feels
-    right and doing it." The alternative is using the "committee
-    approach." This method of decision-making and acting is based on
-    trying to guess what everyone else would think is right. Following
-    this committee approach is the quickest path to confusion, fear,
-    powerlessness, and dishonesty.
-
--   When applying the definition above, there are two ways to be out of
-    integrity, but only one way to be in it. When a Nice Guy never even
-    bothers to ask himself, "What do I think is right?" or uses the
-    committee method, he will always be out of integrity. If he asks
-    himself what he believes is right but doesn't do it, he is also out
-    of integrity. Only by asking himself what he believes is right and
-    then doing it does he become a man of integrity.
-
--   Breaking Free Activity #22 Choose one area in which you have been
-    out of integrity. Identify your fear that keeps you from telling the
-    truth or doing the right thing. Reveal this situation to a safe
-    person. Then go and tell the truth or do what you have to do to make
-    the situation right. Tell yourself you can handle it. Since telling
-    the truth may create a crisis for you or others, have faith that
-    everyone involved will survive this crisis.
-
--   It is not unusual for recovering Nice Guys to go a little overboard
-    when they first learn about boundary setting. They have a tendency
-    to swing from one extreme to another. They become Kamikaze boundary
-    setters. They try to set boundaries with a sledge hammer or machete.
-    They usually learn in time that they only have to use as much
-    resistance as necessary to get the job done. In time, they also
-    learn that boundary setting isn't about getting other people to be
-    different, but about getting themselves to be different. If someone
-    is crossing their boundary, it isn't the other person's problem, it
-    is theirs. Because of memory fear, Nice Guys often unconsciously
-    reinforce the very behaviors they find intolerable. Due to their
-    childhood conditioning, they teach the people around them that they
-    will accept having their boundaries violated. As recovering Nice
-    Guys begin to take responsibility for how they let people treat
-    them, their own behavior begins to change. As they stop reinforcing
-    things they aren't willing to tolerate, the people around them are
-    given the opportunity to behave differently. This gives
-    relationships a chance to survive and grow.
-
--   Breaking Free Activity #23 Before you can start setting boundaries,
-    you have to become aware of how much you back up from your line to
-    avoid conflict or to keep the peace. For the next week, observe
-    yourself. Do you say "yes" when you would rather say "no"? Do you
-    agree to do something to avoid conflict? Do you avoid doing
-    something because someone might get upset at you? Do you tolerate an
-    intolerable situation, hoping that it will just go away? Write these
-    observations down and share them with a safe person.
+> Nice Guys are givers. Nice Guys frequently state that it makes them feel good to give to others.
+
+> Nice Guys fix and caretake.
+
+> Nice Guys seek approval from others. A universal trait of the Nice Guy Syndrome is the seeking of validation from others.
+
+> Nice Guys avoid conflict.
+
+> Nice Guys believe they must hide their perceived flaws and mistakes. These men are afraid that others will get mad at them, shame them, or leave them if some mistake or shortcoming is exposed. Nice Guys seek the "right" way to do things. Nice Guys believe there is a key to having a happy, problem-free life.
+
+> Nice Guys repress their feelings. Nice Guys tend to analyze rather than feel.
+
+> Nice Guys often try to be different from their fathers. Many Nice Guys report having unavailable, absent, passive, angry, philandering, or alcoholic fathers.
+
+> Nice Guys are often more comfortable relating to women than to men. Due to their childhood conditioning, many Nice Guys have few male friends. Nice Guys frequently seek the approval of women and convince themselves they are different from other men.
+
+> Nice Guys have difficulty making their needs a priority.
+
+> Nice Guys often make their partner their emotional center.
+
+> These men have been conditioned to believe that if they are "nice," they will be loved, get their needs met, and have a smooth life. The term Nice Guy is actually a misnomer because Nice Guys are often anything but nice. Here are some Not-So-Nice Traits of Nice Guys: Nice Guys are dishonest. These men hide their mistakes, avoid conflict, say what they think people want to hear, and repress their feelings.
+
+> Nice Guys are secretive.
+
+> Nice Guys are compartmentalized.
+
+> Nice Guys are manipulative.
+
+> Nice Guys are controlling. A major priority for Nice Guys is keeping their world smooth. This creates a constant need to try to control the people and things around them.
+
+> Nice Guys give to get . Though Nice Guys tend to be generous givers, their giving often has unconscious and unspoken strings attached.
+
+> Nice Guys are passive-aggressive. Nice Guys tend to express their frustration and resentment in indirect, roundabout, and not so nice ways.
+
+> Nice Guys are full of rage. Though Nice Guys frequently deny ever getting angry, a lifetime of frustration and resentment creates a pressure cooker of repressed rage deep inside these men.
+
+> Nice Guys are addictive. Addictive behavior serves the purpose of relieving stress, altering moods, or medicating pain.
+
+> Nice Guys have difficulty setting boundaries. Many Nice Guys have a hard time saying "no," "stop," or "I'm going to." They often feel like helpless victims and see the other person as the cause of the problems they are experiencing.
+
+> Nice Guys are frequently isolated.
+
+> Nice Guys are often attracted to people and situations that need fixing.
+
+> Nice Guys frequently have problems in intimate relationships.
+
+> Nice Guys have issues with sexuality. Though most Nice Guys deny having problems with sex, I have yet to meet one who isn't either dissatisfied with his sex life, has a sexual dysfunction (can't get or maintain an erection, climaxes too quickly), or has sexually acted out (through affairs, prostitution, pornography, compulsive masturbation, etc.).
+
+> Nice Guys are usually only relatively successful.
+
+> Recovery from the Nice Guy Syndrome isn't about going from one extreme to another. The process of breaking free from ineffective Nice Guy patterns doesn't involve becoming "not nice." Rather, it means becoming "integrated." Being integrated means being able to accept all aspects of one's self.  An integrated man is able to embrace everything that makes him uniquely male: his power, his assertiveness, his courage, and his passion as well as his imperfections, his mistakes, and his dark side.
+
+> An integrated male possesses many of the following attributes: He has a strong sense of self. He likes himself just as he is. He takes responsibility for getting his own needs met. He is comfortable with his masculinity and his sexuality. He has integrity. He does what is right, not what is expedient. He is a leader. He is willing to provide for and protect those he cares about. He is clear, direct, and expressive of his feelings. He can be nurturing and giving without caretaking or problem-solving. He knows how to set boundaries and is not afraid to work through conflict.
+
+> Breaking free from the Nice Guy Syndrome demands embracing a totally different way of viewing oneself and the world, a complete change in one's personal paradigm.
+
+> Most paradigms are developed when we are young, naïve, and relatively powerless. They are often based on the inaccurate interpretations of childhood experiences. Since they are often unconscious, they are rarely evaluated or updated. Perhaps most significantly, they are assumed to be 100 percent accurate — even when they are not.
+
+> The working paradigm of the Nice Guy is this: IF I can hide my flaws and become what I think others want me to be THEN I will be loved, get my needs met, and have a problem-free life.
+
+> Recovery from the Nice Guy Syndrome is dependent on revealing one's self and receiving support from safe people.
+
+> The premise of this book is that during their formative years, all Nice Guys received messages from their families and the world around them that it was not safe, acceptable, or desirable for them to be who they were, just as they were.
+
+> The most impressionable time in an individual's life is from birth to about five years. In these first few years a child's personality is most significantly influenced by his surroundings.
+
+> There are two important facts we must understand about children. First, when children come into the world they are totally helpless. They are dependent on others to recognize and respond to their needs in a timely, judicious manner. As a result of this dependency, every child's greatest fear is abandonment. To children, abandonment means death. Second, children are ego-centered. This means that they inherently believe they are the center of the universe and everything revolves around them. Therefore, they believe that they are the cause of everything that happens to them. These two factors — their fear of abandonment and their ego-centeredness — create a very powerful dynamic for all children. Whenever a child experiences any kind of abandonment he will always believe that he is the cause of what has happened to him.
+
+> These abandonment experiences and the naive, ego-centered interpretation of them, creates a belief in some young children that it is not acceptable for them to be who they are, just as they are. They conclude that there must be something wrong with them, which causes the important people in their lives to abandon them. They have no way of comprehending that their abandonment experiences are not caused by something about them, but by the people who are supposed to recognize and meet their needs.
+
+> This naive, ego-centered interpretation of their abandonment experiences creates a psychological state called toxic shame. Toxic shame is the belief that one is inherently bad, defective, different, or unlovable. Toxic shame is not just a belief that one does bad things, it is a deeply held core belief that one is bad.
+
+> As a result of these abandonment experiences and the faulty interpretation of these events, all children develop survival mechanisms to help them do three very important things:  1) Try to cope with the emotional and physical distress of being abandoned. 2) Try to prevent similar events from happening again. 3) Try to hide their internalized toxic shame (or perceived badness) from themselves and others.
+
+> The survival mechanisms that Nice Guys develop to deal with their abandonment experiences and internalized toxic shame are usually manifested in one of two ways. In one form, a Nice Guy exaggerates his belief about his "not OK-ness" and believes he is the worst kind of person. I call this man the "I'm so bad" Nice Guy. The "I'm so bad" Nice Guy is convinced everyone can see how bad he is. He can give concrete examples of bad behavior in childhood, adolescence, and adulthood that support his core belief about himself.
+
+> He is convinced his only hope for having any kind of happiness in life lies in trying his best to mask his inherent badness. He never really believes anyone will buy into his Nice Guy persona, but doesn't think he has any other choice.
+
+> The second kind of Nice Guy is the "I'm so good" Nice Guy. This man handles his toxic shame by repressing his core belief about his worthlessness. He believes he is one of the nicest guys you will ever meet. If he is conscious of any perceived flaws, they are seen as minor and easily correctable. As a child he was never a moment's problem. As a teen he did everything right. As an adult, he follows all the rules to a "t". This Nice Guy has tucked his core belief about his "not OK-ness" into a handy, air-tight compartment deep in his unconscious mind. He masks his toxic shame with a belief that all the good things he does make him a good person.
+
+> In general, the Nice Guys I have worked with do not report having had a close, bonded relationship with their fathers in childhood. Sometimes this was a result of their fathers working long hours, being withdrawn, or being passive. More often than not, Nice Guys describe their fathers in negative terms. They often see them as controlling, rageful, angry, absent, abusive, unavailable, addictive, or philandering. It is not unusual at some point in childhood for Nice Guys to have made a conscious decision to be different from their fathers.
+
+> Seeking women's approval requires Nice Guys to constantly monitor the possibility of a woman's availability. The possibility of availability is a term I use to describe the subjective measure of a woman's sexual availability. Since Nice Guys see sex as the ultimate form of acceptance, and they believe a woman must be in a good mood before she will have sex, these men are constantly diligent to not do anything that might upset a woman whom they desire. In addition, if a woman they desire is angry, depressed, or in a bad mood, they believe they must do something quickly — lie, offer solutions, sacrifice self, manipulate — to fix it.
+
+> Seeking women's approval creates rage toward women. Though most Nice Guys claim to "love" women, the truth is, most of these men have tremendous rage toward women. This is because we tend to eventually despise whatever we make into our god. When our god fails to respond in the ways we expect, we humans tend to respond in one of two ways. We either blindly intensify our acts of worship or lash out in righteous anger.
+
+> Seeking women's approval gives women the power to define men and determine their worth.
+
+> Since Nice Guys do not believe they are OK just as they are, they see any mistake or perceived flaw as proof that they are bad and unlovable. They believe that if anyone sees how bad they really are, they will be hurt, shamed, or abandoned. As a result, Nice Guys are consummate cover-up artists.
+
+> DEER is an acronym I use for: Defend Explain Excuse Rationalize. These are all fear-based behaviors used to distract others from focusing on the Nice Guy's mistakes and "badness." The Nice Guy is most likely to go into the DEER Response when he has done something or failed to do something, and someone (usually wife, partner, or boss) confronts him and expresses his or her feelings.
+
+> If someone gets angry at a Nice Guy or points out some flaw or mistake, his shame will be triggered. In an attempt to distract himself and the other person from his "badness" he may try to turn the tables and do something to trigger the other person's shame. I call this shame dumping. This unconscious strategy is based on the belief that if the Nice Guy can shift the focus to the other person's badness, he can slip out of the spotlight. Typical shame dumping techniques include blame, bringing up the past, deflection, and pointing out the other person's flaws.
+
+> Nice Guys have a difficult time comprehending that in general, people are not drawn to perfection in others. People are drawn to shared interests, shared problems, and an individual's life energy. Humans connect with humans. Hiding one's humanity and trying to project an image of perfection makes a person vague, slippery, lifeless, and uninteresting.
+
+> Instead of seeking external validation and avoiding disapproval, recovering Nice Guys must begin seeking the approval of the only person who really matters — themselves.
+
+> To help facilitate this recovery process, Nice Guys can: Identify how they seek approval. Take good care of themselves. Give themselves positive affirmations. Spend extended periods of time alone. Reveal themselves to safe people.
+
+> As the recovering Nice Guy begins to do good things for himself, he will feel uncomfortable. He may actually feel frightened, anxious, guilty, or confused. These feelings are the result of what is called cognitive dissonance. When the Nice Guy does something good for himself he is doing something that implies he is valuable. This will conflict with his deeply held belief that he is worthless. As a result, he will experience dissonance — a clashing of two competing messages. In time, one of the beliefs will win. I encourage recovering Nice Guys to keep being good to themselves, no matter how frightening. In time the core messages from childhood are replaced with new, more accurate beliefs that reflect their inherent worth.
+
+> Spending extended time alone is an important process in recovering from the Nice Guy Syndrome. When alone, Nice Guys can discover who they are, what they like about themselves, and what rules they choose to govern their lives. I strongly recommend that Nice Guys take trips and retreats by themselves to places where no one knows them. In this context, the Nice Guy has fewer reasons to try to win people's approval, and there is less of a need to try to hide faults and mistakes. While alone, Nice Guys can reflect on themselves and their life direction. It is also a good time to practice taking responsibility for one's needs.
+
+> When the Nice Guy discovers that spending time alone doesn't kill him, he may also realize that he doesn't have to stay in bad relationships, tolerate intolerable behavior, or manipulate people to try to get his needs met. This time alone is spent most effectively when the Nice Guy can observe his tendency to distract himself with addictive patterns such as keeping busy, or using sex, food, or alcohol to medicate. Writing in a journal during these times can be especially effective.
+
+> When a child's needs are not met in a timely, healthy manner, the child may come to believe he is "bad" for having needs. He may also think that it is his needs that cause people to hurt him or abandon him. Typically Nice Guys respond to these inaccurate interpretations of their life events by developing a number of survival mechanisms. Trying to appear needless and wantless. Making it difficult for others to give to them. Using "covert contracts." Caretaking — focusing attention on other people's needs.
+
+> These helpless little boys concluded that if they could eliminate or hide all of their needs, then no one would abandon them. They also convinced themselves that if they didn't have needs, it wouldn't hurt so bad when the needs weren't met. Not only did they learn early not to expect to get their needs met, but also that their very survival seemed to depend on appearing not to have needs. This created an unsolvable bind: these helpless little boys could not totally repress their needs and stay alive, and they could not meet their needs on their own. The only logical solution was to try to appear to be needless and wantless while trying to get needs met in indirect and covert ways.
+
+> In addition to using ineffective strategies to get their needs met, Nice Guys are terrible receivers. Since getting their needs met contradicts their childhood paradigms, Nice Guys are extremely uncomfortable when they actually do get what they want. Though most Nice Guys have a difficult time grasping this concept, they are terrified of getting what they really want and will go to extreme measures to make sure they don't. Nice Guys carry out this unconscious agenda by connecting with needy or unavailable people, operating from an unspoken agenda, being unclear and indirect, pushing people away, and sabotaging.
+
+> Almost everything a Nice Guy does represents some manifestation of a covert contract. The Nice Guy's covert contract is simply this: 1) I will do this ______________ (fill in the blank) for you, so that  2) You will do this ______________ (fill in the blank) for me. 3) We will both act as if we have no awareness of this contract.
+
+> Caretaking is an immature and indirect attempt to try to get one's needs met. Caretaking always consists of two parts: 1) Focusing on another's problems, needs, or feelings in order to  2) Feel valuable, get one's own needs met, or to avoid dealing with one's own problems or feelings.
+
+> Caretaking 1) Gives to others what the giver needs to give. 2) Comes from a place of emptiness within the giver. 3) Always has unconscious strings attached. Caring 1) Gives to others what the receiver needs.  2) Comes from a place of abundance within the giver. 3) Has no strings attached.
+
+> Giving to get creates a cycle of craziness called the victim triangle. The victim triangle consists of three predictable sequences: 1) The Nice Guy gives to others hoping to get something in return. 2) When it doesn't seem that he is getting as much as he gives or he isn't getting what he expected, he feels frustrated and resentful. Remember, the Nice Guy is the one keeping score and he isn't totally objective. 3) When this frustration and resentment builds up long enough, it spills out in the form of rage attacks, passive-aggressive behavior, pouting, tantrums, withdrawing, shaming, criticizing, blaming, even physical abuse. Once the cycle has been completed, it usually just begins all over again.
+
+> Breaking Free: Activity #1 Write down three possible safe people or groups that might be able to provide support for you in your recovery from the Nice Guy Syndrome.
+
+> Breaking Free Activity #3 It is impossible to cover every factor that might cause a young boy to try to hide his perceived flaws and seek approval from others. I don't believe it is essential for Nice Guys to uncover every experience that ever made them feel unsafe or bad. But I have found that some understanding of where a life script originated is helpful in changing that script. Reread the stories of Alan, Jason, and Jose. Think about how these stories are similar to your own childhood experiences. On a separate piece of paper or journal, write down or illustrate the messages you received in your family that seemed to imply that it wasn't OK for you to be who you were, just as you were. Share these experiences with a safe person. As you do, make note of your feelings. Do you feel sad, angry, lonely, numb? Share this information as well. The purpose of this assignment is to name, rather than blame. Blaming will keep you stuck. Naming the childhood experiences that led you to believe that it was not a safe or acceptable thing for you to be just who you were will allow you replace these messages with more accurate ones and help you change your Nice Guy script.
+
+> Breaking Free Activity #4 I've taken surveys in several No More Mr. Nice Guy! groups asking the members about the attachments they use to try to get external approval. The following are just a few of the responses. Look over the list. Note any of the ways in which you seek approval. Add to the list any behaviors that are uniquely you. Write down examples of each. Ask others for feedback about the ways in which they see you seeking approval. Having one's hair just right. Being smart. Having a pleasant, non-threatening voice. Looking unselfish. Being different from other men. Staying sober. Being in good shape. Being a great dancer. Being a good lover. Never getting angry. Making other people happy. Being a good worker. Having a clean car. Dressing well. Being nice. Respecting women. Never offending anyone. Looking like a good father.
+
+> Breaking Free Activity #5 If you did not care what people thought of you, how would you live your life differently? If you were not concerned with getting the approval of women, how would your relationships with the opposite sex be different?
+
+> Breaking Free Activity #6 Look over the lists above. Write down examples of situations in which you have tried to hide or distract attention from any of these perceived flaws. How effective do you think you are in keeping these things hidden from the people you love?
+
+> Nice Guys believe they must hide or distract attention from any perceived shortcoming . . . If they forget something. If they are late. If they break something. If they don't understand something. If they do something wrong. If they are depressed. If they are in pain. If they generally mess up. The Nice Guy's need to hide is often the most pronounced in areas that are just part of being human and alive. That they are sexual. That they have bodily functions. That they are getting older. That they are losing their hair. That they have needs. That they are imperfect.
+
+> Breaking Free Activity #7 Do you believe that people can see your human imperfections and still love you? How would you be different if you knew the people who care about you would never leave you or stop loving you — no matter what?
+
+> Breaking Free Activity #8 Go back to the list of approval-seeking behaviors at the beginning of this chapter. Choose one of the ways you try to get external validation and do one of the following:  1) Go on a moratorium from this behavior. Set a period of time to stop doing it. Tell the people around you what you are doing. If you slip, tell a safe person about it. Use the slip as information about why, in that particular moment, you felt the need to get external approval. 2) Consciously do more of this behavior. This may not make logical sense, but it is a powerful way to explore any dysfunctional behavior. Observe how you feel when you consciously try harder to get external validation.
+
+> Breaking Free Activity #9 Begin with the list above and add good things that you can do for yourself. Put the list up where you will see it and choose at least one thing per day and do it for yourself.
+
+> Breaking Free Activity #10 Make a list of positive affirmations about yourself. Write them on note cards and place them where you will see them regularly. Change the cards often so they stay fresh. When you read affirmations, close your eyes and fully embrace the meaning of the words. Observe any tendency of your mind to reject the affirmations in favor of old, deeply held beliefs. The following are some possible affirmations: "I am lovable just as I am." "I am perfectly imperfect." "My needs are important." "I am a strong and powerful person." "I can handle it." "People love and accept me just as I am." "It is OK to be human and make mistakes." "I am the only person I have to please."
+
+> Breaking Free Activity #11 Plan a weekend trip to the mountains or beach. If possible, plan a vacation or retreat for a week or longer by yourself to a place where no one knows you. Visit a foreign country by yourself if at all possible. Use this time as an opportunity for self-observation and reflection. Keep a journal. Practice good self-care. Take along this book and spend time doing the Breaking Free exercises. When you return home, observe how you are different and how long it takes for you to begin returning to familiar patterns.
+
+> Breaking Free Activity #12 Do you believe it is OK for you to have needs? Do you believe people want to help you meet your needs? Do you believe this world is a place of abundance?
+
+> Breaking Free Activity #13 Identify at least one covert contract between you and a significant other. What do you give? What do you expect in return? Share this information with the other person. Ask the person how it feels to respond to an unclear agenda.
+
+> Breaking Free Activity #14 Identify two or three examples of your caretaking behavior. In order to stimulate awareness of your caretaking, do one of the following for a period of one week:  1) Go on a caretaking moratorium. Because Nice Guys have a difficult time differentiating between caring and caretaking, stop giving completely (except to young, dependent children). Tell people what you are doing so they won't be confused. Observe your feelings and other people's reactions. 2) Consciously try to caretake more than you already do. As odd as this assignment may sound, it is a very effective way to create awareness of your caretaking behavior. Pay attention to how you feel and how other people react to you.
+
+> Breaking Free Activity #15 It can be difficult to make a direct link between your caretaking behavior and the emotional pukes which inevitably follow. Observe the ways you hurt the people you love. Do you make cutting remarks or hurtful "jokes"? Do you embarrass them in public? Are you frequently late? Do you "forget" things they've asked you to do? Do you criticize them? Do you withdraw from them or threaten to leave? Do you let frustration build until you blow up at them? Ask the significant others in your life to give you feedback about your caretaking and emotional pukes. This information may be hard to hear and may trigger a shame attack, but it is important information for breaking out of the victim triangle.
+
+> Breaking Free Activity #16 Make a decision to put yourself first for a weekend or even a whole week. Tell the people around you what you are doing. Ask a friend to support you and encourage you in this process. Pay attention to your initial anxiety. Pay attention to your tendency to revert to old patterns. At the end of the time period, ask the people around you what it was like for them when you put yourself first. Remember, you don't have to do it perfectly. Just do it.
+
+> Even though Nice Guys are obsessed with trying to create a smooth, problem-free life, two major factors prevent them from attaining this goal. The first is that they are attempting the impossible. Life is not smooth. Human existence is by nature chaotic. Life is filled with experiences that are unpredictable and beyond anyone's control. Therefore, trying to create a predictable life in which everything always goes as planned is an exercise in futility. In spite of the fact that we live in a chaotic, unpredictable world, Nice Guys are not only convinced that life can be smooth, they believe it should be. This belief is the direct result of their childhood abandonment experiences. The unpredictability of not having their needs met in a timely, judicious fashion was not only frightening, it was potentially life-threatening. In attempt to cope with the uncertainty of their chaotic childhood, Nice Guys developed a belief system that if they could just do everything right, then everything would go right in their lives. Sometimes these men also developed belief systems that their childhood was ideal and problem-free (the opposite of reality) in order to cope with their abandonment experiences. These were all distorted beliefs, but these illusions helped these helpless little boys deal with the turmoil that was out of their control. A second reason Nice Guys never accomplish their goal of having a smooth life is that they do the opposite of what works. By approaching adult situations with survival mechanisms that were formed when they were naive and powerless, they are insured of having very little success in creating anything that resembles stability in their lives.
+
+> The dependence on these ineffective survival mechanisms keeps Nice Guys trapped in the memory of their fearful childhood experiences and perpetuates a vicious cycle. The more frightened they are, the more they use their childhood survival mechanisms. The more they use these ineffective mechanisms, the less successful they are at negotiating the complexities, challenges and ambiguities of life. The less successful they are, the more fearful they become . . . you get the picture.
+
+> Breaking Free Activity #17 Look over the following list of ways Nice Guys try to create a smooth, problem-free life. Write down an example of how you used each coping mechanism in childhood. Then, next to each, give an example of how you use this strategy to try to control your world in adulthood. Note how each of these behaviors keeps you feeling like a powerless victim. Share this information with a safe person. Doing it right. Playing it safe. Anticipating and fixing. Trying not to rock the boat. Being charming and helpful. Never being a moment's problem. Using covert contracts. Controlling and manipulating. Caretaking and pleasing. Withholding information. Repressing feelings. Making sure other people don't have feelings. Avoiding problems and difficult situations.
+
+> I define personal power as a state of mind in which a person is confident he can handle whatever may come. This kind of power not only successfully deals with problems, challenges and adversity, it actually welcomes them, meets them head on, and is thankful for them. Personal power isn't the absence of fear. Even the most powerful people have fear. Personal power is the result of feeling fear, but not giving in to the fear.
+
+> Reclaiming personal power includes: Surrendering. Dwelling in reality. Expressing feelings. Facing fears. Developing integrity. Setting boundaries.
+
+> Ironically, the most important aspect of reclaiming personal power and getting what one wants in love and life is surrender. Surrender doesn't mean giving up, it means letting go of what one can't change and changing what one can. Letting go doesn't mean not caring or not trying. Letting go means letting be. It is like opening up a tightly clenched fist and releasing the tension stored inside. At first the fingers will want to return to their former clenched position. The hand almost has to be retrained to open up and relax. So it is with learning how to surrender and let go.
+
+> Surrender allows recovering Nice Guys to let go and respond to life's complex beauty, rather than trying to control it. Surrender allows these men to see life as a laboratory for learning, growth, and creativity. Surrender allows recovering Nice Guys to see each life experience as a "gift" from the universe to stimulate growth, healing and learning. Instead of asking, "Why is this happening to me?" the recovering Nice Guy can respond to life's challenges by pondering, "What do I need to learn from this situation?"
+
+> Breaking Free Activity #18 Think about one "gift" from the universe which you initially resisted but can now be seen as a positive stimulus for growth or discovery. Are there any similar gifts in your life right now to which you need to surrender? Share this information with a safe person.
+
+> Nice Guys try to control their world by creating belief systems about people and situations that are not based in reality. They then act as if these beliefs are accurate. This is why their behavior often seems illogical to outside observers.
+
+> Breaking Free Activity #19 Pick one area in your life in which you routinely feel frustrated or out of control. Step back from the situation. Is the difficulty you are having with the situation the result of you trying to project the reality you want to believe onto it? If you had to accept the reality of this situation, how might you change your response to it?
+
+> Nice Guys are terrified of two kinds of feelings — their own and everyone else's. Any kind of intensity causes Nice Guys to feel out of control. As children, feeling things intensely invited either negative attention or no attention at all. Therefore, it came to feel safer to clamp a lid down tightly on any emotion that might attract too much negative attention or might cause them to feel abandoned.
+
+> I frequently hear Nice Guys rationalize the withholding of their feelings by claiming they don't want to hurt anyone. The truth is they are covering their own butts. What they are really saying is that they don't want to do anything that might recreate their childhood experiences. They're really not trying to protect anyone from harm, they're just trying to keep their world smooth and under control.
+
+> The goal of teaching Nice Guys to embrace their feelings is not to make them soft and "touchy-feely." Men who are in touch with their feelings are powerful, assertive, and energized. Contrary to what many Nice Guys believe, they don't have to become more like women in order to have their feelings. This is why I support men in learning about their feelings from other men.
+
+> Breaking Free Activity #20 Some guidelines about expressing feelings. Don't focus on the other person, "You are making me mad." Instead, take responsibility for what you are feeling: "I am feeling angry." Don't use feeling words to describe what you are thinking, as in "I feel like Joe was trying to take advantage of me." Instead, pay attention to what you are experiencing in your body: "I'm feeling helpless and frightened." In general, try to begin feeling statements with "I", rather than "you." Try to avoid the crutch of saying "I feel like." As in "I feel like you are being mean to me."
+
+> For Nice Guys, fear is recorded at the cellular level. It is a memory of every seemingly life-threatening experience they ever had. It was born of a time of absolute dependency and helplessness. It originated in not having their needs met in a timely, judicious manner. It was fostered by fearful systems that discouraged risk and rewarded conservatism. It was heightened by the reality that life is messy and chaotic and any kind of change promises a journey into the unknown. I call this kind of fear, Memory Fear. Because of the memory fear created in childhood, Nice Guys still approach the world as if it is dangerous and overpowering. To cope with these realities, Nice Guys typically hunker down and play it safe.
+
+> As a consequence of playing it safe, Nice Guys experience a lot of needless suffering. Suffering because they avoid new situations. Suffering because they stay with the familiar. Suffering because they procrastinate, avoid, and fail to finish what they start. Suffering because they make a bad situation worse by doing more of what has never worked in the past. Suffering because they expend so much energy trying to control the uncontrollable.
+
+> Behind Nolan's fear of making a decision was the childhood fear that he wouldn't be able to handle whatever happened. Together we brainstormed all the possible consequences of divorcing his wife. Behind each potential consequence was the unconscious belief that he wouldn't be able to handle it. I sent Nolan home with his list of fears along with a more accurate statement about each: No matter what happened, he would handle it.
+
+> Facing present day fears is the only way to overcome memory fear. Every time the Nice Guy confronts a fear, he unconsciously creates a belief that he can handle whatever it is he is afraid of. This challenges his memory fear. Challenging this memory fear makes the things outside of him seem less threatening. As these things seem less frightening, he feels more confident in confronting them. The more this confidence grows, the less threatening life seems.
+
+> Breaking Free Activity #21 List one fear that has been controlling your life. Once you decide to confront the fear, begin repeating to yourself, "I can handle it. No matter what happens, I will handle it." Keep repeating this mantra until you take action and stop feeling fear.
+
+> Most Nice Guys pride themselves on being honest and trustworthy. In reality, Nice Guys are fundamentally dishonest. They have the ability to tell a lie or withhold the truth and still believe the illusion that they are basically honest people. Since dishonesty is a fear-based behavior, telling lies and withholding the truth robs Nice Guys of their personal power. I define lying as anything less than the truth.
+
+> When Nice Guys are learning to tell the truth I encourage them to pay attention to the things they least want others to know, what they least want to reveal. These are the things they are most likely to hold back — and the things they most need to tell. Sometimes they have to practice telling a certain truth several times until all of these pieces of information get told. Sometimes after telling the truth, Nice Guys will report that it was a "mistake" because someone reacted with anger. Telling the truth is not a magic formula for having a smooth life. But living a life of integrity is actually easier than living one built around deceit and distortion.
+
+> Developing integrity is an essential part of recovery from the Nice Guy Syndrome. My definition of integrity is "deciding what feels right and doing it." The alternative is using the "committee approach." This method of decision-making and acting is based on trying to guess what everyone else would think is right. Following this committee approach is the quickest path to confusion, fear, powerlessness, and dishonesty.
+
+> When applying the definition above, there are two ways to be out of integrity, but only one way to be in it. When a Nice Guy never even bothers to ask himself, "What do I think is right?" or uses the committee method, he will always be out of integrity. If he asks himself what he believes is right but doesn't do it, he is also out of integrity. Only by asking himself what he believes is right and then doing it does he become a man of integrity.
+
+> Breaking Free Activity #22 Choose one area in which you have been out of integrity. Identify your fear that keeps you from telling the truth or doing the right thing. Reveal this situation to a safe person. Then go and tell the truth or do what you have to do to make the situation right. Tell yourself you can handle it. Since telling the truth may create a crisis for you or others, have faith that everyone involved will survive this crisis.
+
+> It is not unusual for recovering Nice Guys to go a little overboard when they first learn about boundary setting. They have a tendency to swing from one extreme to another. They become Kamikaze boundary setters. They try to set boundaries with a sledge hammer or machete. They usually learn in time that they only have to use as much resistance as necessary to get the job done. In time, they also learn that boundary setting isn't about getting other people to be different, but about getting themselves to be different. If someone is crossing their boundary, it isn't the other person's problem, it is theirs. Because of memory fear, Nice Guys often unconsciously reinforce the very behaviors they find intolerable. Due to their childhood conditioning, they teach the people around them that they will accept having their boundaries violated. As recovering Nice Guys begin to take responsibility for how they let people treat them, their own behavior begins to change. As they stop reinforcing things they aren't willing to tolerate, the people around them are given the opportunity to behave differently. This gives relationships a chance to survive and grow.
+
+> Breaking Free Activity #23 Before you can start setting boundaries, you have to become aware of how much you back up from your line to avoid conflict or to keep the peace. For the next week, observe yourself. Do you say "yes" when you would rather say "no"? Do you agree to do something to avoid conflict? Do you avoid doing something because someone might get upset at you? Do you tolerate an intolerable situation, hoping that it will just go away? Write these observations down and share them with a safe person.
+
+> Nice Guys may convince themselves they are different from (better than) other men because they believe: They aren't controlling. They aren't angry and rageful. They aren't violent. They are attentive to a woman's needs. They are good lovers. They are good fathers. As long as Nice Guys are disconnected from men or believe they are different from other men, they cut themselves off from the many positive benefits of male companionship and the power of a masculine community.
+
+> Breaking Free Activity #24 Look over the list above. Note the ways you have consciously or unconsciously tried to be different from your father and/or other men. How does the belief that you are different keep you disconnected from other men?
+
+> I define masculinity as that part of a man that equips him to survive as an individual, clan, and species. Without this masculine energy we would have all become extinct eons ago. Masculinity empowers a man to create and produce. It also empowers him provide for and protect those who are important to him. These aspects of masculinity include strength, discipline, courage, passion, persistence, and integrity. Masculine energy also represents the potential for aggressiveness, destructiveness, and brutality. These characteristics frighten Nice Guys — and most women — therefore Nice Guys work especially hard to repress these traits.
+
+> As Nice Guys try to avoid the dark side of their masculinity, they also repress many other aspects of this male energy force. As a result, they often lose their sexual assertiveness, competitiveness, creativity, ego, thirst for experience, boisterousness, exhibitionism, and power. Go watch little boys on the playground and you will see these qualities. I am convinced that these are good things worth keeping. One of the most visible consequences of the repression of masculine energy in Nice Guys is their lack of leadership in their families. Out of fear of upsetting their partner or appearing too much like their controlling, authoritarian, or abusive fathers, Nice Guys frequently fail to be the leader their family needs.
+
+> All little boys naturally fall in love with their mother and desire to have her all to themselves. Healthy mothers and fathers help their sons successfully move through this normal developmental stage. As they do, the young boy individuates from his mother, bonds with men, and becomes available for an intimate relationship with another woman in adulthood. Each parent plays a significant role in facilitating this healthy transition. First, the mother must know how to give enough to meet the child's needs without creating dependency. She must also know how to get her own needs met so she is not tempted to use her son to fill the void. Second, the father must be present and have a healthy bond with his son. This connection helps the little boy move from the cozy lap of his mother to the challenging world of men.
+
+> Most women do not want a man who tries to please them — they want a man who knows how to please himself. Women consistently share with me that they don't want a passive, pleasing wimp. They want a man — someone with his balls still intact.
+
+> Reclaiming one's masculinity involves:  Connecting with other men. Getting strong. Finding healthy male role models. Reexamining one's relationship with one's father.
+
+> Building relationships with men requires a conscious effort. This process begins with a commitment to develop male friendships. In order to do this, recovering Nice Guys must be willing to make the time, take risks, and be vulnerable.
+
+> Developing male relationships makes recovering Nice Guys less susceptible to seeking women's approval or allowing themselves to be defined by the opposite sex. If the Nice Guy's girlfriend or wife is angry at him or thinks he is a jerk, he can take comfort in knowing his buddies think he is OK. He is therefore less likely to resort to peacekeeping or fixing to try and keep his partner happy. Friendships with men have the potential for tremendous depth and intimacy because there is no sexual agenda.
+
+> Breaking Free Activity #25 List three men whom you would like to get to know better. Next to each man's name list a possible activity you could do together. Next to this, write down a date and make a commitment to contact him by this day.
+
+> Embracing one's masculinity mean's embracing one's body, power, and spaciousness. In order to do this, recovering Nice Guys have to stop putting junk into their bodies and train them to respond to the physical demands of being male. This involves eating healthy foods, eliminating drugs and alcohol, working out, drinking lots of water, playing, relaxing, and getting enough rest.
+
+> Breaking Free Activity #26 Identify three ways in which you neglect your body. Write down three ways in which you can start taking better care of yourself.
+
+> Breaking Free Activity #27 Visualize what you think a healthy male would look like. What personality traits would he posses? Write these down. Do you know anyone who has a number of these traits? How could you use this person as a healthy role model?
+
+> Breaking Free Activity #28 Embracing masculinity involves coming to see Dad more accurately. To facilitate this process, create a list. On the left side, list a number of your father's characteristics. Write the opposite characteristic on the right side. Indicate where on the spectrum between the two that you see yourself. When recovering Nice Guys do this exercise they are often surprised at what they discover about their fathers and themselves. They often see how they have made their fathers into a caricature — a distortion of who they really are. They may realize that if the man they have become is based on a reaction to how they saw their fathers, they too have become caricatures. Remember, the opposite of crazy is still crazy. They realize that if their lives are a reaction to Dad, then Dad is still in control. They discover that they can be different from Dad without being the opposite. They often come to realize that they have more traits in common with their fathers than they had previously realized or wanted to accept.
+
+> Breaking Free Activity #29 How can you provide a healthy male support system for the boys and young men you know? List three boys along with an activity you can participate in with them.
+
+> There are a number of reasons why Nice Guys have difficulty getting the love they want. These include:  Their toxic shame. The dysfunctional relationships they co-create. Their patterns of enmeshment and avoidance. The familiar childhood relationship dynamics they recreate. Their unconscious need to remain monogamous to their mother. They are "bad enders".
+
+> Intimacy implies vulnerability. I define intimacy as "knowing the self, being known by another, and knowing another." Intimacy requires two people who are willing to courageously look inward and make themselves totally visible to another. Internalized toxic shame makes this kind of exposure feel life-threatening for Nice Guys. Intimacy, by its nature, would require the Nice Guy to look into the abyss of his most inner self and allow others to peer into these same places.
+
+> This intimacy balancing act gets played out in two distinct ways for Nice Guys. The first is through becoming overly involved in an intimate relationship at the expense of one's self and other outside interests. The second is through being emotionally unavailable to a primary partner while playing the Nice Guy role outside of the relationship.
+
+> The enmeshing Nice Guy makes his partner his emotional center. His world revolves around her. She is more important than his work, his buddies, his hobbies. He will do whatever it takes to make her happy.
+
+> The avoider can be a little tougher to get a handle on. The avoiding Nice Guy seems to put his job, hobby, parents, and everything else before his primary relationship. He may not seem like a Nice Guy to his partner at all because he is often nice to everyone else but her. He may volunteer to work on other people's cars. He may spend weekends fixing his mother's roof. He may work two or three jobs. He may coach his children's sports teams. Even though he may not follow his partner around and cater to her every whim, he still operates from a covert contract that since he is a Nice Guy, his partner should be available to him, even if he isn't available to her. Both patterns, enmeshing and avoiding, inhibit any real kind of intimacy from occurring. They may help the Nice Guy feel safe, but they won't help him feel loved.
+
+> Breaking Free Activity #30 Are you an enmesher or an avoider in your present relationship? How would your partner see you? Does the pattern ever change? What roles have you played in past relationships?
+
+> Breaking Free Activity #31 We tend to be attracted to people who have some of the worst traits of both of our parents. Instead of blaming your partner for your unconscious choice, identify the ways in which she helps you recreate familiar relationship patterns from your childhood. Share this with your partner.
+
+> Breaking Free Activity #32 The following are a few of the ways Nice Guys unconsciously maintain a monogamous bond to their mothers. Look over the list. Note any of the behavior patterns that may serve to keep you monogamous to your mother. Share this information with a safe person. Over-involvement with work or hobbies. Creating relationships with people who need fixing. Addictions to drugs or alcohol. Sexual addictions to pornography, masturbation, fantasy, chat lines, or hookers. Affairs. Sexual dysfunction — lack of desire, inability to get or maintain an erection, or premature ejaculation. Forming relationships with women who are angry, sick, depressive, compulsive, addicted, unfaithful, or otherwise unavailable. Avoiding intercourse or taking vows of celibacy.
+
+> Nice Guys can: Approve of themselves. Put themselves first. Reveal themselves to safe people. Eliminate covert contracts. Take responsibility for their own needs. Surrender. Dwell in reality. Express their feelings. Develop integrity. Set boundaries. Embrace their masculinity.
+
+> Breaking Free Activity #33 List some of the ways you try to please your partner. What changes would you make if you did not have to worry about making her happy?
+
+> When a recovering Nice Guy sets boundaries with his partner, it makes her feel secure. In general, when women feel secure, they feel loved. She will also come to know that if her partner will stand up to her, he is also likely to stand up for her. Setting boundaries also creates respect. When a Nice Guy fails to set boundaries it communicates to his partner that he doesn't really honor himself, so why should she?
+
+> Breaking Free Activity #34 Are there any areas in your personal relationships in which you avoid setting appropriate boundaries? Do you: Tolerate intolerable behavior. Avoid dealing with a situation because it might cause conflict. Not ask for what you want. Sacrifice yourself to keep the peace. If you applied the Second Date rule or the Healthy Male rule to these situations, how might you change your behavior?
+
+> there are a few additional strategies that will help Nice Guys get the love they want. These include: Focusing on their relationship, not their partner. Not reinforcing undesirable behaviors. Doing something different.
+
+> Breaking Free Activity #35 The next time you find yourself feeling frustrated, resentful, or rageful at your partner, ask yourself these questions: "Why have I invited this person into my life?" "What do I need to learn from this situation?" "How would my view of this situation change if I saw it as a gift?
+
+> In dog obedience school we learned that if you want an undesirable behavior to go away, you stop paying attention to it. The same is true in relationships.
+
+> every Nice Guy with whom I have ever worked has had some significant problem with sex. These problems are manifested in many ways, but the most common are: Not getting enough. This is by far the most common sexual complaint of Nice Guys. The focus of this problem is frequently directed at a seemingly sexually inhibited or unavailable partner (or the unavailability of women in general). Having to settle for less than satisfying sex. Nice Guys often settle for bad sex, believing that it is better than no sex at all. Again, the blame is often focused on the Nice Guy's partner. Sexual dysfunction. This usually takes the form of an inability to get or maintain an erection, or premature ejaculation. Sexual repression. Some Nice Guys claim to have little or no interest in sex. More often than not, these men are actually engaged in some form of sexual activity that they believe is best kept out of sight. Compulsive sexual behavior. This can include compulsive masturbation, addiction to pornography, affairs, peep shows, 900 numbers, cybersex, and prostitution. When you add all of these dynamics together, you end up with a breed of men who don't have very much sex and/or don't have very much good sex.
+
+> All Nice Guys have shame and fear about being sexual and about being sexual beings.
+
+> If you could peel back a Nice Guy's brain and find the part of the unconscious mind that controls sex, here is what you would find: Memories of childhood experiences that made him feel like he was bad. The pain of not getting his needs met in a timely, healthy manner. The effects of growing up with sexually wounded parents. The sexual distortions and illusions of a really screwed up society. The absence of accurate sexual information when it was needed. The sexual guilt and shame associated with centuries of religious influence. The effects of covert sexual bonds created by his mother. The trauma of sexual violations. The memories of early sexual experiences wrapped in secrecy. The distorted and unrealistic images of bodies and sex in pornography. The shame of hidden, compulsive behaviors. The memories of previous sexual failures or rejections. Every time a Nice Guy has a sexual feeling or is in a sexual situation, he must negotiate through all of this unconscious baggage.
+
+> avoidance and distraction mechanisms include: Avoiding sexual situations and sexual opportunities. Trying to be a good lover. Hiding compulsive sexual behaviors. Repressing their life energy. Settling for bad sex.
+
+> Many Nice Guys discovered at an early age that sexual arousal was a good distraction from the isolation, turmoil, unrealistic demands, and abandonment experiences of their childhood. Unfortunately, when Nice Guys bring their sensual security blanket into adulthood, it prevents them from experiencing intimate and fulfilling sex with another individual. I have found Nice Guys to be prone to hidden, compulsive sexual behavior. I have developed a theory that states, the nicer the guy, the darker the sexual secrets. I find this to be consistently true. Sex is a basic human drive. Because most Nice Guys believe they are bad for being sexual, or believe that other people will think they are bad, sexual impulses have to be kept hidden from view. The Nice Guy's sexuality doesn't go away, it just goes underground. Therefore, the more dependent a man is on external approval, the deeper he is going to have to hide his sexual behavior.
+
+> Aaron and Hannah haven't had sex in several weeks, a common occurrence in their relationship. Tonight, Aaron is feeling sexual, but instead of telling Hannah that he wants to make love, he goes into a pattern of indirectly trying to arouse her. Even though Hannah has let Aaron know on several occasions she resents his "pestering," he moves up behind her in bed and begins to rub her back. As he massages her shoulders he momentarily tunes out his resentment over her sexual unavailability. As he slowly moves his hands down to rub her buttocks, he also tunes out that her body is totally unreceptive to his touch. He hopes that by moving slowly and not alarming her by being too overtly sexual, she will get in the mood. This approach has occasionally worked in the past. By the time he lightly strokes one of her breasts, Aaron is totally unaware of anything going on inside of his own body. By now, he is focused on Hannah's arousal and trying to anticipate how to stimulate her just enough to get her in the mood without doing too much to make her angry. Finally, because she hasn't rebuffed his advances, he rolls her over and for the next twenty minutes focuses all of his attention on her arousal until she has an orgasm. Since he is disconnected from his own physical arousal, he has a difficult time climaxing himself. To help himself along, he fantasizes about the young secretary at work. When he finally has an orgasm, he immediately shifts his focus back to his wife to check in on her emotional state. Later, as he rolls over and goes to sleep, Aaron feels empty and resentful.
+
+> Breaking Free Activity #36 How's your love life? Are you ready to start getting good sex? If so, read on.
+
+> strategy for helping recovering Nice Guys experience satisfying sex. The process includes: Coming out of the closet. Taking matters into their own hands. Saying "no" to bad sex. Following the example of the bull moose.
+
+> A man can read all the books he wants on "How To Pick Up Women" or watch all the instructional videos on improving sexual technique. None of these things will help him get good sex as long as he has shame and fear about being sexual or being a sexual being. Getting good sex is dependent on recovering Nice Guys bringing their shame and fear out of the closet and into the open were they can be looked at and released. This step cannot be skipped!
+
+> Breaking Free: Pop Quiz Most Nice Guys initially deny having any shame and fear about sex. Take the following quiz to see if you are in denial about your own sexual shame and fear. 1. Think back to your first sexual experience. Was it: A. A joyous experience which you could share with family and friends? B. Hidden, rushed, guilt-ridden, or in a less than ideal situation? C. Painful, abusive, or frightening?
+
+> Breaking Free: Pop Quiz Most Nice Guys initially deny having any shame and fear about sex. Take the following quiz to see if you are in denial about your own sexual shame and fear. 1. Think back to your first sexual experience. Was it: A. A joyous experience which you could share with family and friends? B. Hidden, rushed, guilt-ridden, or in a less than ideal situation? C. Painful, abusive, or frightening? 2. When it comes to masturbation: A. Do you and your partner talk openly and comfortably about the subject? B. Would there be a crisis if your partner "caught" you doing it? C. Do you do it compulsively or in secret? 3. When it comes to your sexual experiences, thoughts, or impulses: A. You are comfortable revealing everything about yourself to your partner. B. You have secrets that you have never shared with anyone. C. Some aspect of your sexuality has caused a crisis in an intimate relationship. D. At some time in your life you have tried to eliminate or limit some problematic sexual behavior. If you answered anything but "A" on any of the questions, you have sexual shame and fear. Read on.
+
+> Breaking Free Activity #37 Find a safe place to talk about the following issues: Your sexual history : Earliest sexual memory, childhood experiences, sexual violation and trauma, sexual issues in your family, first sexual experience, adult sexual history. Ways in which you have acted out sexually : Affairs, prostitution, peep shows, 900 numbers, use of pornography, exhibitionism, fetishes, etc. Your dark side : Those things that even you have a hard time looking at in yourself — fantasies, rage, offending behavior.
+
+> When recovering Nice Guys decide to take responsibility for their own needs and take matters into their own hands, they put themselves in a position to get the quantity and quality of sex they want.
+
+> All significant behavior patterns are the sum of many, much smaller behavior patterns. The most effective way to change a behavior is to change its smallest elements. For example, if a Nice Guys is not getting as much sex as he wants or isn't getting the kind of sex he wants, the only way to change this behavior pattern is to change its smallest components. Rather than going out and trying to have more sex, it is more effective to change the little things that create the overall pattern of not getting much sex. Change the little things, and the big picture changes as a result. Before Nice Guys can have exciting, passionate, and fulfilling sexual experiences with other people, they must learn how to have the same with themselves. By taking matters into their own hands — by practicing healthy masturbation — recovering Nice Guys can change the most basic dynamics that shape the bigger picture of how they do sex. Consider the logic: Until a Nice Guy can be sexual with himself without shame, he won't be able to be sexual with another person without shame. Until a Nice Guy is comfortable giving pleasure to himself, he won't be able to receive pleasure from someone else. Until a Nice Guy can take responsibility for his own arousal and pleasure when he is by himself, he won't be able to take responsibility for his own arousal and pleasure when is with someone else. Until a Nice Guy can be sexual with himself without using pornography or fantasy to distract himself, he won't be able to have sex with someone else without needing similar things to distract him. Nice Guys can begin to change these dynamics by practicing what I call healthy masturbation.
+
+> Healthy masturbation is a process of letting sexual energy unfold. It has no goal or destination. It's not just about orgasms. It does not require outside stimulation from pornography and doesn't use trances or fantasy to stay distracted from shame and fear. It is about learning to pay attention to what feels good. Most of all, it is about accepting sole responsibility for one's sexual pleasure and expression.
+
+> I am not opposed to pornography legally or morally, but I think it is bad for men for several reasons: Pornography creates unrealistic expectations of what people should like and what sex should be like. Pornography addicts men to bodies and body parts. Pornography can easily become a substitute for a real sexual relationship. Pornography creates a trance in which men can be sexual while staying distracted from their shame and fear. Pornography compounds shame because it is usually hidden and used in secret. I tell Nice Guys, if you are going to use pornography, do it openly. Doing so tends to break the trance and takes the buzz out of it.
+
+> A Note About Fantasy Fantasy is a form of dissociation — the process of separating one's body from one's mind. When a person fantasizes while being sexual he is purposefully and actively leaving his body. While some sex therapists advocate fantasy as a way of improving a sex life, it is actually the best way I know to kill it. Fantasizing during sex makes about as much sense as thinking about a Big Mac while eating a gourmet meal. About the only thing fantasy accomplishes is to distract a person from his shame and fear or cover up the fact that he is having bad sex.
+
+> Healthy masturbation: Helps remove the shame and fear of being sexual. Puts the Nice Guy in charge of his own sexual needs. Removes dependency on unavailable partners or pornography. Helps the Nice Guy learn to please the person that matters most — himself. Gives the Nice Guy permission to have as much good sex as he wants. Puts the Nice Guy in charge of his own pleasure.
+
+> Changing these dynamics through healthy masturbation enhances and intensifies the experience of making love with another person. Terrance provides a good example.
+
+> Breaking Free Activity #38 Set aside a time to practice healthy masturbation. Choose a comfortable place where you will be undisturbed. Practice by looking at yourself and touching yourself without using pornography or fantasy. Pay attention to how it feels to experience your sexuality without any goals or agendas (such as having an orgasm). Also observe any tendency to distract yourself from what you are experiencing (going into fantasy, becoming goal-oriented, having distracting thoughts, loss of physical sensation). Just observe these experiences and use them as information about your shame and fear.
+
+> Good sex consists of two people taking full responsibility for meeting their own needs. It has no goal. It is free of agendas and expectations. Rather than being a performance, it is an unfolding of sexual energy. It is about two people revealing themselves in the most intimate and vulnerable of ways. Good sex occurs when two people focus on their own pleasure, passion, and arousal, and stay connected to those same things in their partner. All of these dynamics allow good sex to unfold in unpredictable, spontaneous, and memorable ways.
+
+> Breaking Free Activity #39 Consider going on a sexual moratorium. Consciously refrain from sex for a predetermined period of time. No matter what your sexual situation is, it can be a powerful learning experience. Most guys initially resist the idea, but once they make the decision to do it, they find it to be a very positive experience. A sexual moratorium can have many benefits:  Helps break dysfunction cycles. Eliminates pursuing and distancing. Releases resentment. Allows the Nice Guy to see that he can live without sex. Helps the Nice Guy realize that no one else but him holds the key to his sexual experience. Helps the Nice Guy see how he settles for bad sex. Eliminates fear that the Nice Guy's partner can withhold sex or approval. Helps the Nice Guy pay attention to the meaning of sexual impulses. Whenever the Nice Guy feels the impulse to be sexual, he can automatically ask himself, "Why am I feeling sexual?" Helps break addictive patterns by eliminating compulsive masturbation, pornography, and other addictive behaviors. Helps the Nice Guy begin to address feelings he has been avoiding with sex. Before beginning a sexual moratorium, discuss it with your partner. It helps to set a specific time. I suggest three to six months. It can be done. Decide on the parameters of the moratorium. Once you have begun, pay attention to slips and sabotaging behaviors, from both you and your partner. Remember, it is a learning experience. You don't have to do it perfectly.
+
+> As in nature, the greatest aphrodisiac is self-confidence. As recovering Nice Guys become comfortable just being themselves, they begin to look more attractive. Self-respect, courage, and integrity look good on a man. As recovering Nice Guys chart their own path and put themselves first, people respond.
+
+> If there were no limits on your life: Where would you live? What would you be doing in your leisure time? What kind of work would you be engaged in? What would your home and surroundings look like? As you look at the reality of your life, ask yourself two questions: First, are you creating the life you want? Second, if not, why not?
+
+> There are numerous reasons why Nice Guys tend to be less than they can be in life, work, and career. These include: Fear Trying to do it right Trying to do everything themselves Self-sabotage A distorted self-image Deprivation thinking Staying stuck in familiar but dysfunctional systems
+
+> It is fear that prevents a Nice Guy from demanding the raise he has been promised. It is fear that keeps a Nice Guy from going back to school to get the education or training he needs to pursue a truly fulfilling career. It is fear that prevents a Nice Guy from quitting a job he despises. It is fear that gets in the way of a Nice Guy starting the business of his dreams. It is fear that prevents a Nice Guy from living where he really wants to live and doing what he really wants to do.
+
+> Nice Guys are afraid of making a mistake, afraid of doing it wrong, afraid of failure, afraid of losing it all. Right alongside these fears of disaster is the paradoxical fear of success. Nice Guys are typically afraid that if they are truly successful: They will be found out to be frauds. They won't be able to live up to people's expectations. They will be criticized. They won't be able to handle the increased expectations. They will lose control over their lives. They will do something to mess up everything. Rather than facing these fears — real or imagined — Nice Guys typically settle for operating at a fraction of their full potential.
+
+> Letting go allows the beautiful, serendipitous chaos of creation to resonate through one's self. The result is a dynamic, fulfilling life. Nice Guys are obsessed with trying to keep their lives smooth and uneventful. They do this by trying to "do it right" and following the "rules." Unfortunately, this life strategy is the most effective way to put a lid on any creative life energy. This lid kills their passion and prevents Nice Guys from living up to their full potential. Trying to do it right robs Nice Guys of their creativity and productivity. Striving for perfection keeps Nice Guys focused on their imperfections. Seeking external validation and approval keeps Nice Guys stuck in mediocrity. Attempting to hide flaws and mistakes prevents Nice Guys from taking risks or trying something new. Following the rules make Nice Guys rigid, cautious, and fearful. It is because of these self-imposed limits that many Nice Guys are dissatisfied, bored, or unhappy with their life and vocation.
+
+> As children, Nice Guys did not get their needs met in timely, judicious ways. Some were neglected, some were used, some were abused, some were abandoned. All grew up believing that it was a bad or dangerous thing for them to have needs. All grew up convinced that if they were going to have anything in life, it would be up to them. Consequently, Nice Guys are terrible receivers. They are terrified of asking for help. They are completely miserable when others try to give to them. They have difficulty delegating to others. Because they believe they have to do it all themselves, Nice Guys rarely live up to their full potential. Nobody can be good at everything or succeed all on their own. Nice Guys believe they should be able to. They might be jacks-of-all-trades, but they are typically masters of none. This childhood conditioning ensures that they will never be all they can be in any area of life.
+
+> Because of their fear of success, Nice Guys are masters of self-sabotage. They undermine their success by: Wasting time. Making excuses. Not finishing projects. Caretaking other people. Having too many projects going at once. Getting caught up in chaotic relationships. Procrastinating. Not setting boundaries. Nice Guys are typically good at looking just good enough. But to be really great — to really rise to the top — invites too much unwanted attention and scrutiny. The bright lights of success threaten to illuminate their self-perceived cracks and flaws.
+
+> Consequently, Nice Guys find many creative ways to make sure they are never too successful. If they don't start something, they won't fail. If they don't finish something, they won't be criticized. If they have too much going on at once, they won't have to do any one thing well. If they have enough good excuses, people won't expect too much of them.
+
+> Because their needs were not met in a timely, judicious fashion in childhood, Nice Guys developed a distorted view of themselves. With a naive, immature logic they came to the conclusion that if their needs were not important, neither were they. This is the basis of their toxic shame. At their core, all Nice Guys believe they are not important or good enough.
+
+> If a Nice Guy was called on to take care of a critical, needy, or dependent parent, he received a double dose of toxic shame. A child believes he should be able to please a critical parent, fix the problems of a depressed parent, and meet the needs of a smothering parent. Unfortunately, he can't. As a result of their inability to fix, please, or take care of one or more parents, many Nice Guys developed a deep-seated sense of inadequacy. They believed they should be able to do the job. Nevertheless, they never could seem to do it right or good enough — mom was still depressed, dad was still critical. This internalized sense of inadequacy and defectiveness is carried into adulthood. Some Nice Guys compensate by trying to do everything right. They hope that by doing so, no one will ever find out how inadequate they are. Other Nice Guys just give up before they try. This feeling of inadequacy prevents Nice Guys from making themselves visible, taking chances, or trying something new.
+
+> The result of this distorted self-image is an emotional and cognitive glass ceiling. This invisible lid prevents Nice Guys from being all they can be.
+
+> Not having their needs adequately met in childhood created a belief for Nice Guys that there wasn't enough of what they needed to go around. This deprivation experience became the lenses through which they viewed the world. This paradigm of scarcity and deprivation makes Nice Guys manipulative and controlling. It causes them to believe they better hang on to what they've got and not take too many chances. It leads them to resent other people who seem to have what they lack.
+
+> They are attracted to careers and work situations that allow them to recreate the dysfunctional roles, relationships, and rules of their childhood. They often see themselves as helpless victims to these situations. Rarely do they see why they need these systems to be the way they are and that they have the choice to leave.
+
+> The formation of a more accurate view of the self and the world allows the abundance of the universe to begin flowing freely into their lives. Sometimes this takes the form of money. Sometimes it takes the form of love. Sometimes it takes the form of sex. Sometimes it takes the form of the bright lights of fame. Sometimes it includes all of the above.
+
+> Breaking Free Activity #40 Look over the list below. Choose one of the items and name a tangible fear from your life. Write down how you will confront that specific issue. Then, take a small step toward facing that fear. Ask someone to encourage and support you. Don't try to do it alone. Remember, no matter what happens, you will handle it. Ask for a raise or promotion Quit an unsatisfying job Start your own business Go back to school Confront a conflict situation Promote an idea or something you have created Pursue a lifelong goal Spend more time with a hobby or interest
+
+> One of my favorite affirmations is, What one man can do, another man can do. Think about it — if others have taken charge and created lives worth emulating, so can you. The only thing stopping you from having the kind of life you really want is you. It is time to start charting your own path, making your own rules, and making your dreams a reality.
+
+> Breaking Free Activity #41 What do you really want in life? What prevents you from making it happen? Write down three things you want to make happen in your life. Then write a personal affirmation that will take you where you want to go and post it on a sheet of paper where you can see it. Share your dreams and your affirmation with a safe person.
+
+> Breaking Free Activity #42 How does your perfectionism or need to do it right get in the way of realizing your passion and potential? Pick one thing that you have always wanted to do: Write a book, turn your hobby into a business, move, go back to school, fully embrace a talent. Now, ask yourself the question: If you knew ahead of time that this endeavor would be a success, would you hesitate to do it? Would this knowledge set you free from the belief that you have to do it perfectly? Would this knowledge motivate you to get started or complete what you have already begun? What risks would you be willing to take if you knew ahead of time that there was no way for you to fail? What are you waiting for? Let go of the need to do it perfectly and just do it!
+
+> Breaking Free Activity #43 Do you believe your needs are important? Do you believe other people want to help you meet your needs? On a sheet of paper, make a list of helpers you have in your life right now. These can be friends and family members. They can be professionals such as doctors, lawyers, therapists, and CPAs. After making the list, answer the following questions: What kind of helpers do you still need? How can you use these helpers more effectively? How do you prevent these people from helping you? Start looking for opportunities to ask these people for help. Build networks. Before asking for help, repeat the affirmation: This person wants to help me get my needs met.
+
+> Every Nice Guy with whom I have worked has at some point had to make a conscious decision to stop sabotaging himself. This is a crucial aspect in recovery from the Nice Guy Syndrome. In order to start getting what they want in life, work, and career, recovering Nice Guys have to make the conscious decision to get out of their own way.
+
+> One way of doing this is by changing the way they think about change. This begins with Nice Guys becoming aware of why they unconsciously create so many barriers that keep them feeling stuck. A mortgage, a wife, a lack of a degree, debt, children — are all just excuses. Making significant life changes doesn't require chucking all these things. It means seeing them for what they really are —excuses — and taking small steps in the direction one wants to be going.
+
+> Breaking Free Activity #44 Identify how you sabotage yourself. Once you have identified your patterns, determine what you have to do differently to get what you really want. Review each item below and identify specific behaviors that will help you stop sabotaging yourself and achieve your goals. Focus Do it now Accept "good enough" rather than "perfect" Finish what you start Don't start new projects until the old ones are completely finished Don't make excuses Detach from other people's problems Share your strategy with a safe person. Check in with them on a regular basis to monitor how you are doing (failing to do this part would be an effective way to sabotage yourself).
+
+> When we come to see the world as a place of abundance we come to realize that there is plenty for everyone. Everything we need is flowing by us — all we have to do is get out of the way of our own small thinking and let it come.
+
+> Unfortunately, the world can't give us something that we're not ready to receive. Since deprivation thinking keeps a person holding tightly to what he already has, there is no receptivity for receiving more.
+
+> Breaking Free Activity #45 Set this ebook down for a few moments and close your eyes. Take a couple of deep breaths and exhale slowly. Clear your mind. Once you are relaxed, picture yourself living in an abundant world. In this abundant world, there are no restraints or limitations. Good things flow past you continuously. Imagine every abundant thing you have ever desired — car, home, friends, love, joy, wealth, success, peace of mind, challenge. Visualize yourself living your life surrounded by this abundance. Repeat this visualization several times a day until it begins to feel real to you. Open your arms, your heart, and your mind. Get out of the way, and let it happen.
+
+> Breaking Free Activity #46 Read over the list of rules below. Try a few of them on for size. Add to the list your own personal rules. Write these rules on note cards and put them where you can see them every day. 1. If it frightens you, do it. 2. Don't settle. Every time you settle, you get exactly what you settled for. 3. Put yourself first. 4. No matter what happens, you will handle it. 5. Whatever you do, do it 100%. 6. If you do what you have always done, you will get what you have always got. 7. You are the only person on this planet responsible for your needs, wants, and happiness. 8. Ask for what you want. 9. If what you are doing isn't working, try something different. 10. Be clear and direct. 11. Learn to say "no." 12. Don't make excuses. 13. If you are an adult, you are old enough to make your own rules. 14. Let people help you. 15. Be honest with yourself. 16. Do not let anyone treat you badly. No one. Ever. 17. Remove yourself from a bad situation instead of waiting for the situation to change. 18. Don't tolerate the intolerable — ever. 19. Stop blaming. Victims never succeed. 20. Live with integrity. Decide what feels right to you, then do it. 21. Accept the consequences of your actions. 22. Be good to yourself. 23. Think "abundance." 24. Face difficult situations and conflict head on. 25. Don't do anything in secret. 26. Do it now. 27. Be willing to let go of what you have so you can get what you want. 28. Have fun. If you are not having fun, something is wrong. 29. Give yourself room to fail. There are no mistakes, only learning experiences. 30. Control is an illusion. Let go; let life happen.

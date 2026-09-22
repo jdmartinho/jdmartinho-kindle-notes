@@ -1,28 +1,34 @@
 ---
-author: Oliver Burkeman
-keywords:
-- work
-- career
-- creativity
-- money
-- psychology
-- relationships
-- self-development
-- philosophy
-tags:
-- books
-- highlights
-- work
-- career
-- creativity
-- money
-- psychology
-- relationships
-- self-development
-- philosophy
-title: "Meditations for Mortals: Four Weeks to Embrace Your Limitations
-  and Make Time for What Counts"
+title: "Meditations for Mortals: Four Weeks to Embrace Your Limitations and Make Time for What Counts"
+author: "Oliver Burkeman"
 type: book
+tags:
+  - books
+  - highlights
+  - psychology
+  - work
+  - relationships
+  - money
+  - creativity
+  - career
+  - fear-and-anxiety
+  - mental-health
+keywords:
+  - "life"
+  - "time"
+  - "yourself"
+  - "doing"
+  - "feel"
+  - "work"
+  - "never"
+  - "future"
+  - "reality"
+  - "ever"
+  - "world"
+  - "spend"
+  - "control"
+  - "good"
+  - "need"
 ---
 
 # Meditations for Mortals: Four Weeks to Embrace Your Limitations and Make Time for What Counts
@@ -31,1383 +37,314 @@ type: book
 
 ## Highlights
 
--   The most common form of the anxious feeling I'm trying to pinpoint
-    here is sheer, overwhelming busyness, the sense of having far too
-    much to do in the time available for doing it. But it takes other
-    forms as well. For some it manifests as imposter syndrome, the
-    belief that there's a basic level of expertise that pretty much
-    everyone else has attained, but that you haven't, and that you won't
-    be able to stop second-guessing yourself until you get there. It
-    also arises, for many of us, in the feeling of not yet having
-    cracked the code of intimate relationships, so that for all our
-    outward accomplishments we feel thwarted on a daily basis by the
-    bewildering complexities of dating, marriage, or parenting. For
-    still others, the falling-behind feeling is mainly a matter of
-    believing they ought to be doing more to address the national and
-    global crises unfolding around them, but having no idea what they
-    could do, as individuals, that could possibly make any difference.
-    The thread that runs through all these, though, is the idea that
-    there exists some way of being in the world, some way of mastering
-    the situation of being a human in the twenty-first century, that you
-    have yet to discover.
-
--   But my conversations helped me recognize a deeper issue, too, which
-    is the way our ceaseless efforts to get into the driver's seat of
-    life seem to sap it of the very sense of aliveness that makes it
-    worth living in the first place. The days lose what the German
-    social theorist Hartmut Rosa evocatively calls their 'resonance.'
-    The world feels dead; and for all our efforts to get more done, we
-    find ourselves somehow less able to bring about the results we were
-    seeking. It happens even when our attempts to get in control of
-    things do work. You manage to make yourself meditate daily, and
-    suddenly it feels soul-crushingly boring to do so; or you get around
-    to organizing a date night with your spouse -- because everyone says
-    that's how to keep the spark alive -- but the whole thing makes the
-    two of you so self-conscious that it's fated to descend into
-    bickering, and you end the evening feeling like failures. In my days
-    as a 'productivity geek,' I was always embracing some new system for
-    designing my life, and as I downloaded the relevant app, or
-    purchased the required stationery, I'd feel excited, even
-    intoxicated: I was on the verge of great things! Then, within a day
-    or two, my new schedule would seem dismal and lifeless, another list
-    of chores I had to slog through, and I'd find myself angrily
-    resenting the jerk who had the temerity to dictate how I spent my
-    time in this manner -- even though the jerk in question was me.
-
--   The essential trouble, as Rosa tells it, is that the driving force
-    of modern life is the fatally misguided idea that reality can and
-    should be made ever more controllable -- and that peace of mind and
-    prosperity lie in bringing it ever more fully under our control. And
-    so we experience the world as an endless series of things we must
-    master, learn, or conquer.
-
--   The culture reinforces this doctrine of control in multiple ways.
-    Advances in technology always seem on the cusp of permitting you to
-    tame your workload at last -- at the time of writing, virtual
-    assistants powered by artificial intelligence are what's about to do
-    it -- while the hyper-competitive economy makes it feel ever more
-    essential to do so, just to keep your head above water.
-
--   fulfilling and accomplished life isn't a matter
-
--   a fulfilling and accomplished life isn't a matter of exerting ever
-    more control. It's not about making things more predictable and
-    secure, until you can finally relax. A football match is exciting
-    because you don't know who'll win; a field of intellectual study is
-    absorbing because you don't yet have a handle on it all. The
-    greatest achievements often involve remaining open to serendipity,
-    seizing unplanned opportunities, or riding unexpected bursts of
-    motivation.
-
--   At the same time, a good life clearly isn't about giving up all hope
-    of influencing reality. It's about taking bold action, creating
-    things, and making an impact -- just without the background agenda
-    of achieving full control. Resonance depends on reciprocity: you do
-    things -- you have to launch the business, organize the campaign,
-    set off on the wilderness trek, send the email about the social
-    event -- and then see how the world responds.
-
--   being a finite human just means never achieving the sort of control
-    or security on which many of us feel our sanity depends.
-
--   Imperfectionism is the outlook that understands this to be good
-    news. It's not that facing finitude isn't painful. (That's why the
-    quest for control is so alluring.) Confronting your non-negotiable
-    limitations means accepting that life entails tough choices and
-    sacrifices, that regret is always a possibility, as is disappointing
-    others, and that nothing you create in the world will ever measure
-    up to the perfect standards in your head. But these truths are also
-    the very things that liberate you to act, and to experience
-    resonance. When you give up the unwinnable struggle to do
-    everything, that's when you can start pouring your finite time and
-    attention into a handful of things that truly count. When you no
-    longer demand perfection from your creative work, your
-    relationships, or anything else, that's when you're free to plunge
-    energetically into them. And when you stop making your sanity or
-    self-worth dependent on first reaching a state of control that
-    humans don't get to experience, you're able to start feeling sane
-    and enjoying life now, which is the only time it ever is.
-
--   DAY ONE It's worse than you think On the liberation of defeat
-
--   The most liberating and empowering and productive step you can take,
-    if you want to spend more of your time on the planet doing what
-    matters to you, is to grasp the sense in which life as a finite
-    human being -- with limited time, and limited control over that time
-    -- is really much worse than you think. Completely beyond hope, in
-    fact. You know that cloud of melancholy that sometimes descends --
-    when you're awake in the dark at three in the morning, perhaps, or
-    towards the end of a frazzled Thursday at work -- when it seems as
-    though the life you'd envisaged for yourself might never come to
-    fruition after all? The magic begins when you understand that it
-    definitely won't come to fruition.
-
--   It's equivalent to that moment when, caught in a rainstorm without
-    an umbrella, you finally abandon your futile efforts to stay dry,
-    and accept getting soaked to the skin. Very well, then: this is how
-    things are. Once you see it's just unavoidably the case that you'll
-    only ever get to do a fraction of the things that in an ideal world
-    you might like to do, anxiety subsides, and a new willingness arises
-    to get stuck in to what you actually can do.
-
--   Metaphorically speaking, lightening someone's burden means
-    encouraging them to believe that, with sufficient effort, their
-    struggles might be overcome: that they might indeed find a way to
-    feel like they're doing enough, or that they're competent enough, or
-    that relationships are a piece of cake, and so on. Kennett's insight
-    was that it can often be kinder and more effective to make their
-    burden heavier -- to help them see how totally irredeemable their
-    situation is, thereby giving them permission to stop struggling. And
-    then? Then you get to relax. But you also get to accomplish more,
-    and to enjoy yourself more in the process, because you're no longer
-    so busy denying the reality of your predicament, consciously or
-
--   DAY TWO Kayaks and superyachts On actually doing things
-
--   Few things are more appealing, when you're hoping to change your
-    life, than a new system for doing so. But that allure can lead you
-    astray. Almost nobody wants to hear the real answer to the question
-    of how to spend more of your finite time doing things that matter to
-    you, which involves no system. The answer is: you just do them. You
-    pick something you genuinely care about, and then, for at least a
-    few minutes -- a quarter of an hour, say -- you do some of it.
-    Today. It really is that simple. Unfortunately, for many of us, it
-    also turns out to be one of the hardest things in the world.
-
--   The main point -- though it took me years to realize it -- is to
-    develop the willingness to just do something, here and now, as a
-    one-off, regardless of whether it's part of any system or habit or
-    routine. If you don't prioritize the skill of just doing something,
-    you risk falling into an exceedingly sneaky trap, which is that you
-    end up embarking instead on the unnecessary and, worse,
-    counterproductive project of becoming the kind of person who does
-    that sort of thing.
-
--   It's worth mentioning another version of this problem, in which
-    people try to become a different kind of person as a way to
-    unconsciously avoid doing the activity in question. Suppose you want
-    to start a business, but the prospect intimidates you. What better
-    way to never quite get around to it than to turn it into a long-term
-    project? That way, you get to spend months doing research, and
-    undertaking brainstorming exercises, and emulating the daily routine
-    of one of your entrepreneurial idols, complete with 5 a.m. wake-ups
-    and a 'hydration protocol' ... and you never have to do the scary
-    thing at all.
-
--   Systems and schemes for self-improvement, and 'long-term projects,'
-    all feed this fantasy: you get to spend your time daydreaming that
-    you're on the superyacht, master of all you survey, and imagining
-    how great it'll feel to reach your destination. By contrast,
-    actually doing one meaningful thing today -- just sitting down to
-    meditate, just writing a few paragraphs of the novel, just giving
-    your full attention to one exchange with your child -- requires
-    surrendering a sense of control.
-
--   The challenge, then, is simple, though for many of us also
-    excruciating: What's one thing you could do today -- or tomorrow at
-    the latest, if you're reading this at night -- that would constitute
-    a good-enough use of a chunk of your finite time, and that you'd
-    actually be willing to do? (Don't get distracted wondering what
-    might be the best thing to do: that's superyacht thinking, borne of
-    the desire to feel certain you're on the right path.) Because the
-    irony, of course, is that just doing something once today, just
-    steering your kayak over the next few inches of water, is the only
-    way you'll ever become the kind of person who does that sort of
-    thing on a regular basis anyway. Otherwise -- and believe me, I've
-    been there -- you're merely the kind of person who spends your life
-    drawing up plans for how you're going to become a different kind of
-    person later on. This will sometimes garner you the admiration of
-    others, since it can look from the outside like you're busily making
-    improvements. But it isn't the same at all.
-
--   So you just do the thing, once, with absolutely no guarantee you'll
-    ever manage to do it again. But then perhaps you find that you do do
-    it again, the next day, or a few days later, and maybe again, and
-    again -- until before you know it, you've developed that most
-    remarkable thing, not a willpower-driven system or routine but an
-    emergent practice of writing, or meditating, or listening to your
-    kids, or building a business.
-
--   here on the rapids, is worth bringing into reality for itself. DAY
-
--   DAY THREE You need only face the consequences On paying the price
-
--   At some point, as you seek to spend more of your finite existence in
-    the ways that feel most meaningful to you, the thought will
-    inevitably occur to you that you can't make a certain choice about
-    your time, however much you'd like to, because the circumstances
-    simply don't allow it. The obstacle could be as weighty as the
-    belief that you can't walk away from a marriage or a dispiriting
-    career, because of the emotional or financial impact on yourself or
-    on others. Or it might be as mundane as the notion that you can't
-    spend half an hour on an exhilarating creative project today,
-    because there are too many emails to be answered, or too many
-    household chores that need completing first. These are valid
-    concerns. But the idea that they eliminate all room for choice isn't
-    entirely correct.
-
--   The truth, though it often makes people indignant to hear it, is
-    that it's almost never literally the case that you have to meet a
-    work deadline, honor a commitment, answer an email, fulfill a family
-    obligation, or anything else. The astounding reality -- in the words
-    of Sheldon B. Kopp, a genial and brilliant American psychotherapist
-    who died in 1999 -- is that you're pretty much free to do whatever
-    you like. You need only face the consequences.
-
--   Whatever choice you make, so long as you make it in the spirit of
-    facing the consequences, the result will be freedom in the only
-    sense that finite humans ever get to enjoy it. Not freedom from
-    limitation, which is something we unfortunately never get to
-    experience, but freedom in limitation. Freedom to examine the
-    trade-offs -- because there will always be trade-offs -- and then to
-    opt for whichever trade-off you like.
-
--   DAY FOUR Against productivity debt On the power of a 'done list'
-
--   Many people these days report the feeling that they begin each
-    morning in a kind of 'productivity debt,' which they must struggle
-    to pay off over the course of the day, in hopes of returning to a
-    zero balance by the time evening comes. If they fail -- or worse,
-    don't even try -- it's as though they haven't quite justified their
-    existence on the planet. If this describes you, there's a good
-    chance that like me you belong to the gloomy bunch psychologists
-    label 'insecure overachievers,' which is a diplomatic way of saying
-    that our accomplishments, impressive as they may sometimes be, are
-    driven ultimately by feelings of inadequacy.
-
--   perhaps you've tethered your self-esteem to the most crazy-making
-    standard of all, 'realizing your potential' -- which means you'll
-    never get to rest, because how can you ever be sure there's not a
-    little more potential left to realize?
-
--   life as a productivity debtor is no fun at all. It's
-    anxiety-inducing, and exhausting, and it probably also contributes
-    to the modern epidemic of social isolation, since a tunnel-vision
-    focus on paying off your debt makes it much less appealing to
-    prioritize apparently unproductive activities like hanging out with
-    your friends. Worse still, the productivity-debt mindset turns
-    success into a kind of punishment: each new accomplishment merely
-    sets a higher standard that you now feel you've got to reach next
-    time around, so it becomes even harder to pay off your debt than it
-    was before.
-
--   There is a religious route out of productivity debt, if you believe
-    in a god who bestows grace -- who loves you and delights in you, in
-    other words, regardless of how hard you strive to justify your
-    existence by means of your productivity, goodness, or anything else.
-    But agnostics and atheists get to take a different path to a similar
-    destination: if there isn't a god, then there's no authority with
-    the power to demand that you earn your right to exist. You just do
-    exist, and that has to be sufficient.
-
--   what makes a done list so motivating and encouraging is that it
-    implicitly invites you to compare your output to the hypothetical
-    situation in which you stayed in bed and did nothing at all. And
-    what makes that comparison any less legitimate than the other one?
-    (Plus, if you're really stuck in a rut, you can always define more
-    loosely what gets to count as a completed task. Nobody else ever
-    needs to know you added 'made coffee' or 'took a shower' to your
-    done list.) A done list isn't solely a way to feel better about
-    yourself, though. When you start to view each day not as a matter of
-    paying off a debt, but as an opportunity to move a
-    small-but-meaningful number of items over to your done list, you'll
-    find yourself making better choices about what to focus on; and
-    you'll make more progress on them, too, since you'll be wasting less
-    energy stressing about all the other tasks you're (inevitably)
-    neglecting.
-
--   DAY FIVE Too much information On the art of reading and not reading
-
--   Since the incoming supply of genuinely interesting stuff is
-    effectively limitless, improving the efficiency with which you
-    discover it just means you're bombarded with books, articles,
-    podcasts and videos that seem like they might contain a nugget of
-    wisdom critical for your happiness or professional success. The
-    challenge isn't to locate a few needles of relevance in a haystack
-    of dross. The challenge, in the words of the technology critic
-    Nicholas Carr, is figuring out how to deal, day in day out, with
-    'haystack-sized piles of needles.'
-
--   Moving more quickly through an infinite incoming supply of something
-    never gets you to the end of it. Because you're processing more of
-    it, faster, and without ever achieving the satisfaction of reducing
-    it, you're just left feeling more scattered and stressed.
-    Fortunately, there are three pieces of advice for navigating a world
-    of infinite information that are more genuinely helpful. The first
-    is to treat your to-read pile like a river, not a bucket. That is to
-    say: think of your backlog not as a container that gradually fills
-    up, and that it's your job to empty, but as a stream that flows past
-    you, from which you get to pick a few choice items, here and there,
-    without feeling guilty for letting all the others float by.
-
--   when you stop to think about it, there's something slightly
-    arbitrary about which repositories of information we define as
-    guilt-inducing buckets in the first place.
-
--   I've felt similarly tormented by long lists of web-browser
-    bookmarks. Yet none of us seems remotely bothered that we'll never
-    make it through the 25 million books currently held by the Library
-    of Congress.
-
--   The second piece of advice is to resist the urge to stockpile
-    knowledge. At least where non-fiction sources are concerned, it's
-    easy to fall into the assumption that the point of reading or
-    listening to things is to add to your storehouse of knowledge and
-    insights, like a squirrel hoarding nuts, in preparation for a future
-    when you'll finally get to take advantage of it all. (This attitude
-    prompts some people to develop complicated systems for taking notes
-    on everything they read, which turns reading into a chore, which
-    then perversely leads to their not reading books they'd otherwise
-    enjoy or benefit from, because they can't face taking the notes.)
-    Most of the long-term benefits of reading arise not from facts you
-    insert into your brain, but from the ways in which reading changes
-    you, by shaping your sensibility, from which good work and good
-    ideas will later flow. 'Every book makes a mark,' says the art
-    consultant Katarina Janoskova, 'even if it doesn't stay in your
-    conscious memory.' The closely related final rule is to remember
-    that consuming information is a present-moment activity, like
-    everything else. It's not merely that a fixation on retaining facts
-    is a poor way to reap the benefits of reading. It's also that any
-    focus on 'reaping the benefits' risks obscuring the truth that a
-    meaningful life, in the end, has to involve at least some activities
-    we love doing for themselves, here and now. So you needn't always
-    choose to read what's most edifying, or professionally useful, or
-    most enthusiastically endorsed by the arbiters of culture. Sometimes
-    it's OK just to read whatever seems most fun.
-
--   DAY SIX You can't care about everything On staying sane when the
-    world's a mess
-
--   Living inside the news feels like doing your duty and being a good
-    citizen. But you can stay informed on ten minutes a day; scrolling
-    any more than that risks becoming disempowering and paralyzing, and
-    certainly eats up time you could have spent making a difference.
-
--   It used to be said about certain horrifying news events that 'if
-    you're not outraged, you're not paying attention.' But that's a
-    relic of a time when people had attention to spare, and when it
-    wasn't in the vested interests of media outlets to stoke as much
-    outrage as possible. In an age of attention scarcity, the greatest
-    act of good citizenship may be learning to withdraw your attention
-    from everything except the battles you've chosen to fight.
-
--   DAY SEVEN Let the future be the future On crossing bridges when you
-    come to them
-
--   Certain forms of human finitude are easy enough to perceive: our
-    limited amount of time, for example, or our limited ability to
-    control how others act. But it can be harder to notice one of the
-    most significant ones -- the way we're hopelessly trapped in the
-    present, confined to this temporal locality, unable even to stand on
-    tiptoes and peer over the fence into the future, to check that
-    everything's all right there. This is deeply disturbing, because it
-    means that we suffer from what the psychologist Robert Saltzman
-    calls 'total vulnerability to events.'
-
--   The main way we try to resist this horrifying state of affairs is by
-    worrying. What is worry, at its core, but the activity of a mind
-    attempting to picture every single bridge that might possibly have
-    to be crossed in future, then trying to figure out how to cross it?
-
--   The compulsive and repetitious character of worry arises from the
-    fact that for finite humans, this goal is doubly impossible.
-    Firstly, we can't possibly think of every challenge we might end up
-    facing. Secondly, even if we could, the solace we crave could only
-    come from knowing we'd made it safely over the bridges in question
-    -- which we can't ever know until we've actually crossed them.
-
--   Just because certainty about the future
-
--   Just because certainty about the future is off the table, though, it
-    doesn't mean you can't feel confident in your abilities to deal with
-    the future when it does eventually arrive. As the celebrated Stoic
-    emperor Marcus Aurelius reassures readers of his Meditations: 'Never
-    let the future disturb you. You will meet it, if you have to, with
-    the same weapons of reason which today arm you against the present.'
-    You could say the worrier gets things exactly backwards. He's so
-    terrified that he might not be able to rely on his inner resources,
-    later on, when he reaches a bridge that needs crossing, that he
-    makes superhuman efforts to bring the future under his control right
-    now. In fact he should devote less energy to manipulating the
-    future, and have more faith in his capacity to handle things once
-    the challenge actually arrives. If it arrives, that is. Marcus's
-    phrase 'if you have to' is a useful reminder that most of the
-    bridges we worry about never end up needing to be crossed at all.
-
--   DAY EIGHT Decision-hunting On choosing a path through the woods
-
--   In case it's not clear by now, I'll emphasize it again: embracing
-    your limitations isn't a matter of settling for less in life. It's
-    not about passively sitting back and letting things happen to you.
-
--   the life-enhancing route is to think of decisions not as things that
-    come along, but as things to go hunting for. In other words: to
-    operate on the assumption that somewhere, in the confusing morass of
-    your work or your life, lurks at least one decision you could make,
-    right now, in order to get unstuck and get moving.
-
--   The executive coach Steve Chandler, in his book Time Warrior, refers
-    to this sort of decision-making as 'choosing,' which he contrasts
-    with the similar-sounding but actually very different activities of
-    'trying to decide,' or figuring out what to do. You could fritter
-    months trying to work out how best to begin the screenplay you've
-    been meaning to write, and you might never succeed. But to take the
-    three opening scenes you've been pondering and just choose one is
-    the work of a moment, and unequivocally within your capabilities. Or
-    suppose you've been trying to decide, vaguely, about whether to
-    leave your job. That's the sort of dilemma over which people spin
-    their wheels for years. But right now, over the course of the next
-    three minutes, it would be easy to choose the person in your social
-    circle who's most likely to have some good advice on the matter,
-    then email them to invite them for coffee. 'Most people believe a
-    deficit in knowing is their problem,' Chandler writes. They 'believe
-    that they don't know what to do, so it will take time before they do
-    it.' But choosing? 'Takes no time. When you choose you've already
-    chosen.'
-
--   As we've already seen, the fact that your time is limited -- plus
-    the reality that you can only ever be in one place at any instant --
-    means that in every moment, you're opting not to take a thousand
-    alternative paths through life. From each of these paths branch
-    another thousand alternatives, and so endlessly on, like a vast
-    river delta through which you could follow any one of an immense
-    variety of streams. But only one. That's why indecision can feel so
-    oddly comfortable: it's a form of postponement, a temporary
-    avoidance of the painful sacrifices involved.
-
--   There are two rules of decision-hunting worth bearing in mind here.
-    The first is that a decision doesn't get to count as a decision
-    until you've done something about it in reality, so as to put some
-    of your discarded alternatives beyond reach. Merely telling yourself
-    you've decided, inside your mind, isn't enough. You have to actually
-    begin drafting the opening scene of the screenplay, setting off down
-    that creative path as opposed to any of the others. You have to
-    actually email your friend about the coffee, thereby transforming
-    your purely private doubt about your job into something that now
-    exists in the external world. The other rule, however, balancing the
-    first, is that as long as a decision meets that litmus test, it can
-    be as tiny a decision as you like. Grand gestures aren't required.
-    There's no need to leap directly from thinking about a career change
-    to marching into your manager's office to quit. Baby steps are fine;
-    they just have to be real ones.
-
--   DAY NINE Finish things On the magic of completion
-
--   Perfectionists love to begin new endeavors, because the moment of
-    starting belongs to the world of limitlessness: for as long as you
-    haven't done any work on a project, it's still possible to believe
-    that the end result might match the ideal in your mind.
-
--   By contrast, finishing things means slogging your way through the
-    messy, imperfect reality of what the project actually became;
-
--   Consider how you'd like to spend yours next year, and you're likely
-    to picture it, figuratively speaking, from 30,000 feet: you might
-    see yourself 'going to the beach,' or 'hiking in the mountains,' or
-    'relaxing as a family.' But when the vacation draws closer, you'll
-    descend a few thousand feet and start focusing in on details: which
-    beach, which mountain trails, which restaurants to eat at, and so
-    forth. Similarly, at the start of any major undertaking, we see it
-    in outline, smooth if a little blurry; it's only as we dig in that
-    we begin to encounter the flaws, the compromises, and the grunt-work
-    involved. At which point we make the error of assuming that a new
-    endeavor might be free of such imperfections. Really, of course,
-    what makes the new endeavor more appealing is just that we're seeing
-    it at a mental distance; we fail to realize, in the words of the
-    psychology writer Jude King, that 'every worthwhile goal is supposed
-    to feel hard, unglamorous, unsexy,' at least for some of the time
-    you're actually putting in the work.
-
--   And yet, in reality, repeatedly starting but rarely finishing
-    things, or finishing them only under duress, is a recipe for misery.
-
--   The trick to finishing things when the prospect seems overwhelming
-    is simply to redefine what counts as finished. Instead of viewing
-    the completion of a project as something that happens only
-    occasionally, after days or weeks of work, think of your days as
-    consisting in the sequential completion of a series of small
-    'deliverables.'
-
--   DAY TEN Look for the life task On what reality wants
-
--   By definition, a life task is something your life is asking of you;
-    so while it might coincide with your parents' expectations, or your
-    society's ideals, it also very easily might not.
-
--   How can you identify your current life task? That must always be a
-    matter of intuition. But there are two signposts that may help. The
-    first is that a life task will be something you can do 'only by
-    effort and with difficulty,' as Jung puts it -- and specifically
-    with that feeling of 'good difficulty' that comes from pushing back
-    against your long-established preference for comfort and security.
-    In the words of another Jungian, James Hollis, it may be the kind of
-    endeavor that 'enlarges' you, rather than making you feel
-    immediately happy. This is where you'll need to be honest with
-    yourself.
-
--   The second signpost is that a true life task, though it might be
-    difficult, will be something you can do. If you only have a hundred
-    dollars in the bank, your life task won't require the immediate
-    purchase of thousands of dollars' worth of moviemaking equipment
-    (although it might involve doing something to raise the cash). If
-    you're the single parent of three small children, it won't involve
-    working eighteen-hour days for a tech start-up; and by the same
-    token, if you're unable to have children, it won't involve becoming
-    a biological parent. This helps distinguish the idea of a life task
-    from certain popular notions of 'destiny' or 'calling,' which can
-    leave people feeling as though there's something they're meant to be
-    doing with their lives, but that their life circumstances make it
-    impossible.
-
--   It's what's being asked of you, with your particular skills,
-    resources and personality traits, in the place where you actually
-    find yourself.
-
--   It permits you to dig beneath the crust of assumptions that all too
-    easily end up governing a life: that you have no option but to
-    continue on your current career path; or that you mustn't make
-    choices on which others might frown; or that you're obliged to do
-    something extraordinary with your life. The most remarkable part is
-    that while you might have assumed that complying with a life task
-    would feel oppressive -- you're 'complying' with a 'task,' after all
-    -- it never does. It gives you the feeling of getting a handle on
-    life, because the life to which you're addressing the question is
-    the one you actually have. It is never the case that there's no next
-    step to take. On some level, I think we always already know when
-    we're hiding out in some domain of life, flinching from a challenge
-    reality has placed before us. The purpose of a question like 'What's
-    the life task here?' is just to haul that knowledge up into the
-    daylight of consciousness, where we can finally do something about
-    it.
-
--   DAY ELEVEN Just go to the shed On befriending what you fear
-
--   The more you organize your life around not addressing the things
-    that make you anxious, the more likely they are to develop into
-    serious problems -- and even if they don't, the longer you fail to
-    confront them, the more unhappy time you spend being scared of what
-    might be lurking in the places you don't want to go.
-
--   it entails accepting a constant background tug of discomfort -- an
-    undertow of worry that can sometimes feel useful or virtuous, though
-    it isn't -- as the price you pay to avoid a more acute spike of
-    anxiety. What you should do in such situations, I've learned, is
-    just go to the shed.
-
--   Loomans refers metaphorically to the tasks or areas of life you're
-    avoiding as 'gnawing rats.'
-
--   But he rejects the conventional advice about dealing with them,
-    which is to man/woman up and confront your rats -- to get over
-    yourself, in other words, and to attack the problem with brute
-    force. The trouble is that this simply replaces one kind of
-    adversarial relationship with your gnawing rats ('Stay away from
-    me!') with another ('I'm going to destroy you!'). And that's a
-    recipe for more avoidance over the long term, because who wants to
-    spend their life fighting rats? Loomans's surprising advice is to
-    befriend them instead. Turn towards your gnawing rats. Forge a
-    relationship with them. But how, exactly, do you forge a
-    relationship with a metaphorical gnawing rat?
-
--   It might mean finding the least intimidating way to get stuck into
-    it, or asking someone else for help. But it might equally entail
-    something as seemingly passive and ineffective as merely closing
-    your eyes and visualizing yourself taking an action. All you're
-    seeking is some way to 'go there,' psychologically speaking: to
-    begin to accept, on an emotional level, that the situation in
-    question is already a part of your reality, no matter how fervently
-    you might wish that it weren't.
-
--   to befriend a rat is to defuse the anxiety you feel by transforming
-    the kind of relationship you have with it. You turn it into an
-    unobjectionable part of your reality. Whereupon a gnawing rat, in
-    Loomans's terminology, becomes a 'white sheep' -- a harmless,
-    docile, fluffy creature that follows you around until you decide to
-    do something about it. Everyone has an assortment of not-yet-begun
-    or not-yet-completed projects that would benefit from their
-    attention, because that's the nature of being a finite human. But
-    there's no need for them to torment you. Once you've established a
-    relationship with them, they become white sheep, and can just
-    patiently wait their turn.
-
--   cognitive psychologist Virginia Valian found herself so paralyzed by
-    work anxiety that she couldn't write a word of her PhD thesis --
-    until she stopped trying to make herself work in the way she thought
-    she was meant to, and asked herself instead how much time she was
-    prepared to spend on it each day: I talked about it with J, the man
-    I live with, and he suggested three hours. Three hours! The very
-    thought gave me an anxiety attack. How about two hours? Two hours!
-    The very thought ... One hour? More reasonable, but still not
-    possible. Half an hour? Getting closer but still too much. Fifteen
-    minutes? Fifteen minutes. Fifteen minutes. Now there was a figure I
-    could imagine. A nice solid amount of time, an amount of time I knew
-    I could live through every day. People laughed when Valian told them
-    of her fifteen-minute-a-day plan, because it sounded pathetic. In
-    fact it was the opposite. Asking yourself what it would actually
-    entail to befriend the gnawing rats in your life is an act requiring
-    real courage -- more courage, perhaps, than the standard
-    confrontational approach, which feels less like reconciling yourself
-    to reality and more like getting into a bar fight with it.
-    Befriending your rats is a gentle strategy, but there's nothing
-    submissive about it. It's a pragmatic way to maximize your room for
-    maneuver, and your capacity to make progress on the work you care
-    about, by becoming ever more willing to acknowledge that things are
-    as they are, whether you like it or not.
-
--   DAY TWELVE Rules that serve life On doing things dailyish
-
--   doing something dailyish requires sacrificing your fantasies of
-    perfection in favor of the uncomfortable experience of making
-    concrete, imperfect progress, here and now. In any case, 'dailyish'
-    isn't synonymous with 'just do it whenever you feel like it.' Deep
-    down, you know that doing something twice per week doesn't qualify
-    as dailyish, while five times per week does, and in busy periods,
-    three or four times per week might get to count. So you're still
-    putting some pressure on yourself. But, crucially, what you're not
-    doing is expecting the rule to somehow force the action.
-
--   Saint Benedict of Nursia, whose rulebook for organizing the communal
-    life of a Christian monastery remains the one followed by many
-    Catholic orders to this day, appears to have undergone a midlife
-    realization of just this nature. Benedict sought to create monastic
-    communities as bulwarks against the immorality that appalled him in
-    sixth-century Europe. But early experiences led him to radically
-    alter his approach to the challenge. As a pious younger man, the
-    story goes, he first organized a group of novice monks under a
-    framework of rules so demanding that several of them conspired to
-    try to poison him -- twice. By contrast, the Rule of Saint Benedict,
-    the one he wrote in old age and which is still in use, remains
-    relevant because it's a model of moderation, elegantly balancing the
-    need for order with the need for individual freedom, and a monk's
-    need for solitude with the universal human need for a social life.
-    It also recognizes, in the beautifully forbearing passage quoted
-    above, that monks, like many of the rest of us, enjoy a drink from
-    time to time. Sometime in the aftermath of those poisonings,
-    Benedict apparently understood that the point isn't to spend your
-    life serving rules. The point is for the rules to serve life.
-    'Dailyish' is one that does. In not insisting on your doing
-    something absolutely every day, it shifts the focus away from the
-    ultimately meaningless question of whether or not you have an
-    unbroken chain of red Xs, and back to the life it's supposed to be
-    serving -- to the thing you're seeking to bring into existence,
-    whether that's a piece of writing, a work of art, a happy family, a
-    healthier body, or anything else.
-
--   DAY THIRTEEN Three hours On finding focus in the chaos
-
--   If rules should serve life, rather than the other way around, it
-    follows that you shouldn't expect there to be many one-size-fits-all
-    rules for making the most of your time. Everybody's life is
-    different, after all, and no individual life remains the same for
-    very long. Still, there's one rule that comes close. If you're a
-    'knowledge worker' -- that is, if you spend your days doing things
-    with computers and words and ideas, as opposed to, say, building
-    houses out of bricks -- then you'll make the most progress, and
-    cover the most ground, if you limit yourself to about three or four
-    hours of intense mental focus each day.
-
--   research that helps explain why: because intense focus uses up
-    energy; because it's more effective to focus intensely during only
-    your peak hours, rather than half-heartedly all day; and because
-    creativity appears to depend partly on processes taking place in
-    your brain while you're not focusing. (Limiting the time allotted to
-    high-stakes work also helps reduce the feeling of being intimidated
-    or oppressed by it, which causes some people to procrastinate.)
-
--   the near-uniformity of their hours of deep focus suggests what I've
-    come to think of as the 'three-to-four-hour rule' for getting
-    creative work done. It has two parts. The first is to try -- to
-    whatever degree your situation permits -- to ringfence a three- or
-    four-hour period each day, free from appointments or interruptions.
-    The equally important second part is not to worry about imposing
-    much order on the rest of the day: to accept that your other hours
-    will probably be characterized by the usual fragmentary chaos of
-    life.
-
--   To begin with, it acknowledges the reality that most of us don't
-    have the capacity for more than a few daily hours of intense
-    concentration. But it also respects limitation in another important
-    way: it frees you from the futile perfectionistic struggle to try to
-    make the whole day unfold in accordance with your desires. It
-    respects the fact that your work demands focus; but at the same
-    time, it spares you from having to spend most of your hours in a
-    defensive posture, braced against each new email, phone call, or
-    serendipitous encounter in the hallway.
-
--   The most powerful effect of the rule, though, might be the way in
-    which it limits the possibility of hurry. It pushes back against the
-    ubiquitous modern urge to get as much done as possible as fast as
-    possible, in obedience to the inner voice whispering that just
-    maybe, if you really went hell-for-leather for the next few days,
-    you might get on top of the work once and for all.
-
--   The three-to-four-hour rule functions, too, as a reminder of the
-    profound truth that for finite humans the work is never done. A
-    central point of the Jewish and Christian tradition of the Sabbath
-    is that you have to stop anyway -- not because you've finished, but
-    just because it's time to stop.
-
--   DAY FOURTEEN Develop a taste for problems On never reaching the
-    trouble-free phase
-
--   I suspect that most of us, except perhaps the very Zen or the very
-    elderly, move through our days with a similar if largely unconscious
-    assumption that at some point -- maybe not soon, but eventually --
-    we'll make it to the phase of life which won't involve confronting
-    an endless fusillade of things to deal with. The unfortunate
-    consequence is that we experience our ordinary problems -- the bills
-    to pay, the minor conflicts to resolve, each little impediment that
-    stands between us and realizing our goals -- as doubly problematic.
-    First, there's the problem itself. But then there's the way in which
-    the very existence of any such problems undermines our yearning to
-    feel perfectly secure and in control. So we spend our lives leaning
-    into the future, unconsciously deeming whatever's happening now to
-    be fundamentally flawed, because it's marred by too many problems.
-    And quite possibly deeming ourselves to be fundamentally flawed, too
-    -- or else wouldn't we have figured out some way to eliminate all
-    these problems by now? Yet the reality, as Harris goes on, is that
-    '... life is an unending series of complications, so it doesn't make
-    any sense to be surprised by the arrival of the next one.'
-
--   It would be nice to be able to skip the scariest or most
-    overwhelming problems. But to face no problems at all would leave
-    you with nothing worth doing; so you might even say that coming up
-    against your limitations, and figuring out how to respond, is
-    precisely what makes a life meaningful and satisfying.
-
--   Beyond the mountains, there are always more mountains, at least
-    until you reach the final mountain before your time on earth comes
-    to an end. In the meantime, few things are more exhilarating than
-    mountaineering.
-
--   DAY FIFTEEN What if this were easy? On the false allure of effort
-
--   In the first week of the journey sketched in this book, we explored
-    the benefits of facing the truth of our finitude, in a world where
-    overwhelm and distraction threaten constantly to derail us; in the
-    second, I sought to share the insights I've found most helpful for
-    taking bold, imperfect action as a finite human. But there's a
-    danger in all such advice: it risks implying that taking meaningful
-    action is necessarily a tough or complex challenge. (If it were
-    straightforward and effortless, why would anyone need advice?) And
-    in one sense, for finite humans, life certainly is a tough
-    challenge: you've got severely limited time, and limited control,
-    necessitating hard choices and a tolerance for imperfection and
-    uncertainty. But it's equally true that often the real challenge, in
-    building an accomplished and absorbing life, is learning to let go.
-    Not making things happen, through willpower or effort, but
-    cultivating the willingness to stand out of the way and let them
-    happen instead -- which is our focus this week.
-
--   By defining meaningful tasks as those that always require exertion,
-    and you as the kind of person who needs pushing and prodding to do
-    them, it turns daily life into an ongoing internal battle between
-    the kind of person you'd like to be -- energetic, productive -- and
-    the kind of person you privately fear yourself to be at the core:
-    prone to backsliding at the first opportunity. Going through your
-    days in this spirit causes multiple problems, the most obvious being
-    that it makes you much less likely to do satisfying things you'd
-    otherwise have done, and that would have been easy, because you've
-    persuaded yourself they won't be.
-
--   Moreover, on those occasions when you do take action, you do so with
-    more exertion and nervous energy than was really required, because
-    it feels like 'putting in the effort' is inherently virtuous in
-    itself. That's a message we begin receiving early in life: 'My mom
-    used to get really upset at what she perceived as my half-assing,'
-    reads one splendid anonymous comment on a Washington Post article by
-    the advice columnist Carolyn Hax. 'I'm 48 now, have a PhD and a
-    thriving and influential career, and I still think there is very
-    very little that's worthy of applying my whole entire ass. I'm not
-    interested in burning myself \[out\] by whole-assing stuff that will
-    be fine if I half- or quarter-ass it. Being able to achieve maximum
-    economy of ass is an important adult skill.' The final hazard in the
-    idea that if something matters it must take effort is that it leads,
-    by a seemingly reasonable but entirely bogus reverse logic, to the
-    assumption whatever takes effort must matter. Collapsing on to the
-    sofa at the end of a long day spent deep-cleaning your home, or
-    organizing all your digital files into an orderly hierarchy of
-    folders, it's easy to conclude that you must have used your time
-    well: consider how exhausted you feel! But perhaps your home could
-    have waited another month for a deep clean. And maybe you should
-    never have bothered organizing your files at all, because the search
-    function on your computer is amply good enough to track things down
-    when you need to find them.
-
--   And so instead of asking how to summon the energy or motivation or
-    self-discipline to do something that matters to you, it's often more
-    helpful to ask: What if this might be a lot easier than I'd been
-    assuming?
-
--   When some daunting challenge barrels into view, just decide that
-    you're going to experience it as easy instead. I realize that sounds
-    like the worst kind of denial of human limitation, as if you could
-    get your way merely by commanding the universe to fall in line with
-    your desires. In fact, though, it can be surprisingly effective --
-    because it functions not as a mystical command to the universe but
-    as a reminder to yourself not to fall into the old habit of adding
-    complications or feelings of unpleasant exertion where neither need
-    exist. And we do that all the time. When I fail to take action on
-    things I care about, the reason is sometimes that I lacked the time,
-    or couldn't summon the willpower. But it's at least as likely to be
-    because I spooked myself with visions of the perfect result I
-    thought I needed to achieve, or assumptions about the difficulties
-    involved, thereby blocking action that would otherwise have flowed
-    naturally.
-
--   DAY SIXTEEN The reverse golden rule On not being your own worst
-    enemy
-
--   Following pleasure's lead, she had a more productive day, completing
-    the tasks she usually yelled at herself to do, 'only this time, it
-    seemed effortless. I had such a light heart.' Which makes sense, on
-    reflection, because when you do what you feel like doing, you get to
-    use your desires as fuel for action, rather than constantly
-    diverting energy and attention to overcoming them. It's easy to
-    believe that if you let yourself do what you want, you might spend
-    the day scrolling slack-jawed through Instagram. But often the truth
-    is that 'scrolling slack-jawed through Instagram' is what happens
-    after you've told yourself you can't do what you want, because you
-    can't afford to or don't deserve to -- and you grow so resentful or
-    annoyed by whatever you try to force yourself to do instead that you
-    reach for your phone as a distraction.
-
--   it's important to see that this objection itself is often the inner
-    taskmaster in disguise, seeking to make you feel bad for taking
-    advantage of whatever freedom you do have. There's no prize for
-    failing to spend your time as you wish, to whatever extent you're
-    able, out of a misplaced sense of solidarity with those who cannot.
-
--   From somewhere (your parents, the culture, a religion) you
-    internalized the notion that if you didn't watch yourself like a
-    hawk, disaster might strike. That if you were to cut yourself some
-    slack and follow your own agenda, that might lead to your being
-    abandoned, or humiliated, or overwhelmed by emotions, or financially
-    ruined. The details differ too much from person to person to try to
-    elaborate them here. But wherever the belief comes from, it belongs
-    to the past; it isn't a reasonable assessment of what would be
-    likely to happen now, were you to treat yourself more decently.
-
--   DAY SEVENTEEN Don't stand in generosity's way On the futility of
-    'becoming a better person'
-
--   you needn't try to transform yourself into someone who feels more
-    love for humanity, and it's probably impossible anyway. You just
-    need to find where you already feel warmth or tenderness, then go
-    from there.
-
--   Being a better or more loving person is another thing you can't make
-    happen. You have to let it happen -- which you can do by first
-    recognizing that some part of you already feels the emotions you
-    believe you ought to be feeling. After that, your main job is to
-    avoid overcomplicating things.
-
--   for the usual perfectionistic, limit-denying reasons -- wanting to
-    be optimally kind instead of just kind, or wanting to feel in full
-    control of your time and obligations -- you never managed to
-    translate your impulses into action.
-
--   act on a generous impulse the moment it arises.
-
--   The point isn't to try to render yourself more generous than you
-    already are, but just to notice the moments when you naturally and
-    effortlessly feel that way anyway, then not to screw it up with
-    overthinking. The simplest way to do that is to move fast. 'Each
-    time the thought to give arises, act on it. Then notice what
-    happens,' Goldstein counsels, adding that 'in my experience,
-    generosity never leads to remorse.' What happens, unsurprisingly, is
-    that it feels great, so while initiating the practice can require a
-    little willpower, it soon becomes self-reinforcing. Before you know
-    it, you're a person who acts more generously -- without ever having
-    had to become a more generous person.
-
--   DAY EIGHTEEN Allow other people their problems On minding your own
-    business
-
--   it's a fool's errand -- and a flagrant denial of your finite power
-    over reality -- to make your sense of feeling OK dependent on
-    knowing that everyone around you is feeling OK, too.
-
--   The sense of urgency is really the fear that someone else will get
-    angry or anxious if you don't hurry up. Again, maybe it's in your
-    interests to forestall that outcome. But then again, maybe it isn't:
-    their feelings have no magic power to reach out and force you to
-    act. It might help to consider the billions of people on earth who
-    are, at this moment, feeling angry, depressed, disappointed,
-    impatient, or anxious. The thought of them might evoke your
-    sympathy; yet you surely don't see it as your job to cheer them all
-    up. Why should it automatically be different in that small
-    proportion of cases where the emotions are, at least nominally,
-    about you?
-
--   'if you can't do something, saying no right away usually makes it
-    much easier for everyone.' It was years before it struck me that
-    this might have been one of the most generous things anyone had ever
-    said to me. It helped me see that if trying so hard to manage other
-    people's emotions wasn't even helping them, I had less to lose by
-    abandoning the endeavor. And so I began to grapple with a truth that
-    people-pleasers are prone to resist until it halfway kills them:
-    that very often, the best way to benefit others is to focus on doing
-    your thing.
-
--   DAY NINETEEN A good time or a good story On the upsides of
-    unpredictability
-
--   Not being able to guarantee that your plans will come off; not
-    knowing what the future holds; never quite feeling like you've got
-    things figured out, or that you're on top of things -- all of these
-    are mysteriously central to what makes life worth living.
-
--   Plenty of straightforwardly undesirable things happen to all of us,
-    from the mildly annoying to the tragic. But almost everyone, when
-    prompted, can reel off a few tales in which events slipped out of
-    their control -- the weather failed to cooperate, the flight got
-    canceled, they showed up at the wrong address -- and either
-    something wonderful happened or, at worst, they acquired an anecdote
-    with which to entertain themselves and others for years to come.
-
--   a resonant relationship with life depends on its being
-    semi-controllable, not totally uncontrollable. You need to engage
-    actively in the world -- to connect to others, to make plans, and to
-    pursue opportunities and ambitions -- and people need the freedom,
-    and the economic resources, to be able to do that. (Neither good
-    times nor good stories will occur very often if you just sit around,
-    isolated, waiting for them -- or if you're obliged to spend every
-    waking hour struggling to survive.) Still, it's central to an
-    enjoyable and meaningful life that whenever we reach out to the
-    world in this way, we don't get to control how it responds. The
-    value and depth of the experience relies on that unknowability.
-    Maybe you'll get what you wanted, or maybe you won't -- and
-    sometimes, not getting what you wanted will leave life immeasurably
-    better.
-
--   DAY TWENTY Set a quantity goal On firing your inner quality
-    controller
-
--   One more paradoxical truth about control: often, the way to have the
-    best ideas, and to produce the best work, is to develop an ability
-    to forget entirely about trying to control the quality of your
-    output. And the easiest way to do that is to focus on quantity
-    instead.
-
--   What this looks like in my line of work is staring at a screen,
-    slowly and painstakingly formulating half a sentence, reading it
-    over, deeming it to be inadequate, deleting it, staring at the
-    screen some more, then trying again. (As the writing coach Stephen
-    Lloyd Webber points out, it's ironic that people call this process
-    'writing,' since the vast majority of it entails not writing, or
-    deleting things you've just written.) And the situation spirals,
-    because each time you finally permit something on to the page, its
-    imperfections dismay you so much that you tighten the quality
-    criteria further still -- until, to switch metaphors unpleasantly,
-    you're so constipated no words can squeeze their way out at all.
-    This is the point at which a certain kind of self-styled creative
-    person starts talking vaguely about 'falling in love with the
-    process.' I've done it myself. Since it's so agonizing to produce
-    good work, the thinking goes, why not delight in the simple fact of
-    working instead? But these days I'm fairly sure this is usually a
-    defense mechanism, deployed by people who feel anxious about the
-    eventual result of their efforts -- and that it never really works,
-    anyway, because if it's just a fact that you do care about the
-    outcome, telling yourself you don't isn't going to help.
-
--   A more pragmatic and imperfectionist way to ease up on a fixation
-    with outcomes is to set a quantity goal. There's no need to pretend
-    you don't care about the results of your work, or to eradicate the
-    part of you that seeks control. Give that part something to do --
-    just make sure it has nothing to do with the quality of the result.
-    Eight hundred words per day; one hour on the side business every
-    evening; five potential customers contacted; three pages of the
-    material for the examination turned into flashcards (or the
-    three-hour rule we encountered on Day Thirteen): these are goals
-    anyone with the available time can achieve, so long as you're
-    willing to accept that, for now, quality isn't the point.
-
--   A quantity goal puts you back in the driver's seat: instead of
-    hoping you produce something good, you get to know you'll produce
-    something.
-
--   DAY TWENTY-ONE What's an interruption, anyway? On the importance of
-    staying distractible
-
--   On a larger scale, you can fall into the trap of viewing your whole
-    life this way, interpreting all the things you're actually doing
-    with your days as one extended series of interruptions or
-    distractions from what you think you're meant to be doing with them.
-
--   Next time you do get a moment to hear yourself think, though, you
-    could use it to ponder the strange assumption of omniscience that's
-    baked into the notion of minimizing 'interruptions' and blocking out
-    'distractions.' The idea that these labels can confidently be
-    applied to things before they happen implies that you always know,
-    in advance, the best way for any portion of your time to unfold --
-    and that should reality beg to differ, it must always be reality
-    that's wrong. And yet, objectively, all that's occurring in the
-    world is that certain things happen, then other things happen, then
-    still more things happen.
-
--   When we define some of these things as interruptions of, or
-    distractions from, other ones, we're adding a mental overlay to the
-    situation, sorting events into hard categories of those which ought
-    and ought not to happen. There's nothing intrinsically wrong with
-    that; it's fine to have strong preferences for how you'd like your
-    day to unfold. But at the very least, it's a reminder not to cling
-    so confidently to those preferences that you turn life into a
-    constant struggle against events you've decided, futilely, shouldn't
-    be happening. Or that you close off the possibility that what looks
-    like an interruption might in fact prove a welcome development.
-
--   give them your full attention. That is: once your focus has already
-    been diverted -- once the child has burst into the room, or the
-    anxious thought about the timing of your doctor's appointment has
-    pulled you away from the novel you were reading -- don't fight the
-    fact. Deal with your new reality instead. Make a note to check the
-    time of the appointment; or look the child in the eyes, listen to
-    their request -- then either close your laptop to be with them, or
-    explain you'll need to finish what you're doing first.
-
--   DAY TWENTY-TWO Stop being so kind to Future You On entering time and
-    space completely
-
--   If there's a single truth at the heart of the imperfectionist
-    outlook, it's the one to which we turn as we begin this final week:
-    that this, here and now, is real life. This is it. This portion of
-    your limited time, the part before you've managed to get on top of
-    everything, or dealt with your procrastination problem, or graduated
-    or found a partner or retired; and before the survival of democracy
-    or the climate have been secured: this part matters just as much as
-    any other and arguably even more than any other, since the past is
-    gone and the future hasn't occurred yet, so right now is the only
-    time that really exists. If instead you take the other approach --
-    if you see all of this as leading up to some future point when real
-    life will begin, or when you can finally start enjoying yourself, or
-    feeling good about yourself -- then you'll end up treating your
-    actual life as something to 'get through,' until one day it'll be
-    over, without the meaningful part ever having arrived.
-
--   The commitment-phobe can't bear to enter 'time and space completely'
-    because letting himself be pinned down to one relationship or career
-    path means renouncing the other ones. He imagines that what he's
-    doing instead is keeping his options open, though he has of course
-    chosen a path -- because choosing to use up some of your finite time
-    in a state of non-commitment is still a choice. On the other hand,
-    the too-responsible type holds off from entering time and space
-    completely by always locating the real value of her present-day
-    actions somewhere off in the future. This allows her to experience
-    what Keynes called 'a spurious and delusive immortality,' following
-    the cock-eyed logic that if the point of your life is coming later,
-    it must be the case that you'll still be alive to experience it --
-    so that as long as you continue investing in your future, maybe you
-    won't have to die.
-
--   showing up more fully in the present is about how you pursue your
-    plans for the future; it certainly doesn't require that you abandon
-    them. It means letting go of the notion that you can't quite allow
-    yourself to feel fully immersed in life before those plans are
-    realized, and coming to understand on the contrary that the pursuit
-    of ambitious goals is one excellent way to be fully immersed in
-    life.
-
--   Then again, while entering the present more fully needn't
-    necessarily mean taking things easy, it's entirely possible that in
-    your case it might. Perhaps it's time for a sabbatical, or for what
-    Tim Ferriss calls a 'mini-retirement,' an intentional break in which
-    you undertake, now, one of the adventures you were mentally
-    deferring until much later in life. After all, there's never any
-    guarantee that you'll still be around to do it years in the future.
-    At the very least, it might be time to spend an hour today enjoying
-    yourself -- cashing in some of the investments you previously made
-    in your future self, you might say, and splashing out on the present
-    one.
-
--   DAY TWENTY-THREE How to start from sanity On paying yourself first
-
--   if you treat sanity as a state you have to reach by engaging in all
-    manner of preparations, or getting other things out of the way
-    first, then the main effect will be to reinforce the sense of sanity
-    as something that's out of reach. You'll entrench the stress and
-    anxiety, rather than uprooting them. You might get all sorts of
-    useful things done -- but they'll never bring peace of mind, because
-    you'll effectively be telling yourself on a daily basis that peace
-    of mind is something distant and not available right here.
-
--   That's what I mean by 'striving towards sanity.' 'Operating from
-    sanity,' on the other hand, means embodying a certain kind of
-    orientation towards life first, one that treats the present moment
-    as a place where peace of mind might, in theory, be attainable --
-    and then going about your life from that orientation, rather than
-    treating the activities of your life as things you're doing in order
-    to one day reach it.
-
--   In his book Anti-Time Management, Richie Norton boils this
-    philosophy down to two steps. One: 'Decide who you want to be.' Two:
-    'Act from that identity immediately.' The signature behavior of the
-    striver-towards-sanity is 'clearing the decks': trying to deal with
-    all the minor tasks tugging at your attention in an effort to arrive
-    at the point when you finally expect to have large stretches of time
-    to focus on what you care about. The trouble with clearing the
-    decks, as we've seen, is that the supply of things to fill the decks
-    is to all intents and purposes limitless. So a commitment to
-    clearing the decks leads inexorably to a life spent unendingly
-    clearing the decks. The signature behavior of the
-    operator-from-sanity, by contrast, is what the creativity coach
-    Jessica Abel calls 'paying yourself first with time': spending a
-    little time on what matters to you most immediately, instead of
-    waiting, because you understand that even thirty minutes spent
-    Actually Doing the Thing today are more valuable than hundreds of
-    purely hypothetical hours in the future.
-
--   There are three especially useful techniques to bear in mind here:
-    Deal with a backlog by isolating it. If you've accumulated an
-    unpleasant backlog of email or other small tasks, striving towards
-    sanity might entail setting aside five whole days to do nothing but
-    plow through all of it -- which is unlikely to work, partly because
-    you won't maintain the motivation, and also because other tasks and
-    messages will accumulate in the meantime, leaving you no less
-    backlogged than before. Operating from sanity, when it comes to
-    backlogs, means following the advice of the time management expert
-    Mark Forster instead. First, sequester all those emails in a
-    separate folder, or the tasks on a separate to-do list. (And just
-    like that, your inbox is empty!) Thereafter, your priority isn't to
-    blast through the backlog, but to stay up to date on new incoming
-    emails or tasks, so as to prevent another backlog developing. Chip
-    away at the old one a little per day -- or, if you think you can get
-    away with it, just forget about it
-
--   Free up time by renegotiating existing commitments, not just
-    planning to make fewer. If what stands between you and peace of mind
-    is a whole lot of commitments you wish you'd never made, striving
-    towards sanity would involve attempting to meet them all, while
-    firmly resolving to make fewer new commitments from here on.
-    (Spoiler alert: you'll make just as many as before.) Operating from
-    sanity, in this case, means biting the bullet and renegotiating some
-    of the commitments that are already on your plate: backing out of
-    projects, requesting deadline extensions, or canceling social plans,
-    so as to reduce the real, current demands on your time, not just
-    hypothetical demands on it later.
-
--   Treat your to-do list as a menu. In the striving-towards-sanity
-    mindset, a to-do list is always something you've got to get to the
-    end of before you're allowed to relax. But in any context where
-    there are more things that feel like they need doing than there's
-    time available in which to do them -- which is the normal state of
-    affairs, after all -- a to-do list is by definition really a menu, a
-    list of tasks to pick from, rather than to get through. And
-    operating from sanity means treating it that way: starting with the
-    acknowledgment that you won't complete everything you might wish,
-    then making your selections from the menu.
-
--   DAY TWENTY-FOUR Scruffy hospitality On finding connection in the
-    flaws
-
--   Scruffy hospitality means you're not waiting for everything in your
-    house to be in order before you host and serve friends in your home.
-    Scruffy hospitality means you hunger more for good conversation and
-    serving a simple meal of what you have, not what you don't have.
-    Scruffy hospitality means you're more interested in quality
-    conversation than in the impression your home or lawn makes.
-
--   DAY TWENTY-FIVE You can't hoard life On letting the moments pass
-
--   Among spiritual traditions, Buddhism is uniquely insightful when it
-    comes to this specific form of suffering -- how we make ourselves
-    more miserable than necessary, not just by railing against negative
-    experiences we're having, or craving experiences we aren't having,
-    but by trying too hard to hold on to good things that are happening
-    exactly as we wanted them to.
-
--   Another version of the same phenomenon occurs when you reach the end
-    of a day on which you've been unusually successful in getting your
-    work done, or sticking to your fitness routine, but then instead of
-    thinking 'What a great day!' and luxuriating in your achievement,
-    you find yourself thinking: 'Yes! Now that's the kind of day I'm
-    aiming for, and now it's my job to make sure that this is merely the
-    first of many such days to come!' Congratulations: you turned a
-    potential source of easy delight into a cause of further stress. In
-    all these cases, in different ways, you're tightening around the
-    experience in order to try to get more out of it -- an additional
-    level of enjoyment, motivation for future triumphs, or something
-    else. Yet the reality, so easy to grasp on an intellectual level, is
-    that it's detrimental to approach good experiences like this:
-    they're for living, not holding on to.
-
--   DAY TWENTY-SIX Inconceivable On the solace of doubt
-
--   When it comes to confronting the myriad problems large and small
-    that life throws at us, we have a standard operating procedure for
-    how we try to respond, one so fundamental it can be hard to perceive
-    that it even is a procedure, or that there might be any alternative.
-    It goes like this: first, you try to work out exactly what the hell
-    is going on. Then and only then, once you're confident you've got a
-    handle on the situation, you take action.
-
--   And when the strategy fails -- when you can't seem to wrap your mind
-    around what's happening to you, or in the wider world -- the
-    experience can be deeply disturbing. After all, it's genuinely hard
-    to relax into life when you don't have a clue where your career
-    might be headed, if your current relationship has a future, or what
-    the rise of artificial intelligence might mean for your industry or
-    for humanity's survival.
-
--   What if 'getting a handle on things' in this way wasn't always
-    necessary, though? What if, in fact, it was an obstacle to a fuller
-    experience of life?
-
--   Where could you take useful action on an important project, today,
-    despite not really knowing how to proceed on it beyond that initial
-    step? What issue in your life could you patch up -- what
-    relationship could you mend, what behavior could you alter --
-    without fully grasping what went wrong in the first place? (Some
-    people spend their whole lives trying to unpick the story of their
-    childhoods, and sometimes it helps; but there's often a compulsive
-    quality to the puzzling-out, and it can be better to give it a
-    rest.) Perhaps most radically of all, what additional satisfaction
-    could you take in your life, what fun could you have, once you
-    glimpse a truth that must have come intuitively to premodern people,
-    which is that since life is so inherently confusing and precarious,
-    then joy, if it's ever to be found at all, is going to have to be
-    found now, in the midst of the confusion and precariousness?
-
--   DAY TWENTY-SEVEN C'est fait par du monde On giving it a shot
-
--   the more willing you are wholeheartedly to acknowledge the hard
-    limitations of human finitude, the easier it gets to do what others
-    might dismiss as impossible. Once you stop struggling to get on top
-    of everything, to stay in absolute control, or to make everything
-    perfect, you're rewarded with the time, energy and psychological
-    freedom to accomplish the most of which anyone could be capable.
-
--   The lesson, to reiterate, isn't that you ought to start a religion.
-    It's that if that old windbag can do so, you can probably have a go
-    at launching any project about which you've been experiencing
-    self-doubt -- and that there's no reason why you can't be the one to
-    make a fortune, or a long-lasting difference to the world, as a
-    result. Likewise, if you've been thinking of making a radical change
-    in your life -- traveling the world in midlife, say, or educating
-    your kids outside the school system -- there's a solid chance you
-    can scrabble together the resources and figure out a way. You won't
-    feel like you know what you're doing. But nobody ever does; that's
-    just how it is for finite humans, attempting new things. The main
-    difference between those who accomplish great things anyway and
-    those who don't is that the former don't mind not knowing. They were
-    not less flawed or finite than you.
-
--   DAY TWENTY-EIGHT What matters On finding your way
-
--   I'm always taken aback by the relaxation that floods through me when
-    I'm reminded of my almost complete lack of importance in the scheme
-    of things. One might expect to find such reflections depressing or
-    demotivating. But I experience them as liberating; my shoulders
-    drop, and I'm able to exhale. The truth, as one spiritual teacher
-    puts it, is that reality doesn't need me to help operate it. It
-    carries on fine regardless. Which is obvious -- except that the
-    level of stress we generally attach to our efforts to resolve our
-    little problems would seem to imply otherwise.
-
--   nurture your relationships, pursue challenging goals, spend time in
-    nature, and make room for fun. You knew that already. If following a
-    list was all it took, we'd have solved the challenge of human
-    happiness long ago.
-
--   This raises a troubling question, though. If nothing any of us does
-    has any significance, provided you zoom out far enough, what's the
-    point of doing anything?
-
--   it simply need not follow, from our cosmic insignificance as
-    individuals, that our actions don't matter. The idea that things
-    only count if they count on the vastest scale is one more expression
-    of our discomfort with finitude: accepting that they might count
-    only transiently, or locally, requires us to face our limitations
-    and our mortality. And so to avoid that unpleasantness, as the
-    philosopher Iddo Landau has explained, we gravitate towards an
-    unnecessarily grandiose standard of what matters -- then get
-    demoralized when our achievements don't make the grade. We feel
-    pressured to do something extraordinary with our lives, or to an
-    extraordinary standard of merit, or in a way that's applauded by an
-    extraordinary number of people -- even though it's true by
-    definition that only a few people can ever be extraordinary in any
-    given domain.
-
--   Why shouldn't an anonymous career spent quietly helping a few people
-    get to qualify as a meaningful way to spend one's time? Why
-    shouldn't an absorbing conversation, an act of kindness, or an
-    exhilarating hike get to count? Why adopt a definition that rules
-    such things out?
-
--   The writer Charles Eisenstein tells the story of a friend, a
-    prominent activist, who largely abandoned his public work to care
-    for his 95-year-old mother-in-law. Eisenstein envisions the blowback
-    he might have received from fellow activists: How could he justify
-    that use of his time, with the world in such peril? I've seen
-    similar arguments made by people who fear that artificial
-    intelligence will eradicate humanity: if there's even a modest
-    chance that's true, how could anyone spend their finite time on
-    anything else? The answer has to be that sometimes you just know
-    you're doing something that matters. Far from using utilitarian
-    calculations to try to squelch that felt sense, I think we have an
-    obligation to it. It may embody more wisdom than our finite
-    reasoning can grasp.
-
--   we're fundamentally separate from the rest of reality.
-
--   On this account, we come into the world as solitary individuals, and
-    it's as solitary individuals, in the end, that we must address the
-    challenge of using our time -- even if we decide to prioritize
-    relationships, political solidarity, or community-building. Yet, as
-    the Zen philosopher Alan Watts liked to point out, it makes just as
-    much sense to say that we come out of the world: that in the same
-    way a tree blossoms, the universe 'peoples.' We are expressions of
-    it. Our very being is inseparable from our context, or as Thich Nhat
-    Hanh puts it, we 'inter-are'; my existence would be wholly
-    impossible without countless people and things I standardly think of
-    as separate from myself. Perhaps the ultimate expression of our
-    finitude is the fact that we are irrevocably of the world, whether
-    we like it or not. If so, then maybe our responsibility isn't to get
-    our arms around it, nor to justify ourselves before it, but to
-    embody as completely as possible the momentary expression of it that
-    we are. From this perspective, it makes no sense to judge your
-    activities by the unreachable standards of a god, nor to fault
-    yourself for having only a minuscule impact on the whole. There's no
-    reason to see 'getting on top of things' as the target of your
-    endeavors in the first place -- and still less to imagine that you
-    might manage to obtain a sense of security regarding the crises
-    engulfing the planet, which will doubtless continue to engulf it
-    long after you're gone. Instead, you get to pour yourself into tasks
-    that matter for no other reason than that nothing could be more
-    enlivening, or more true to the situation in which you find
-    yourself. You get to proceed in the splendidly imperfectionist
-    spirit of the eco-philosopher Derrick Jensen, who says: 'The good
-    thing about everything being so fucked up is that no matter where
-    you look, there is great work to be done.' You might easily never
-    have been born, but fate granted you the opportunity to get stuck
-    into the mess you see around you, whatever it is. You are here. This
-    is it. You don't much matter -- yet you matter as much as anyone
-    ever did. The river of time flows inexorably on; amazingly,
-    confoundingly, marvelously, we get the brief chance to go kayaking
-    in it.
-
--   The truth is that you'll never be certain that an unmeetable
-    challenge or regrettable choice isn't just around the next corner,
-    or that the projects I hope you're newly energized to dig into will
-    meet with success. The spiritual teacher Joan Tollifson calls our
-    yearning for finality 'the compulsion to closure,' a sort of tic,
-    eminently forgivable, but which the world can never satisfy -- and
-    which we might gradually therefore learn to relax, so as to more
-    wholeheartedly take our place in, and as part of, the unending flow
-    of reality.
-
--   if you've found this book in any way inspiring, you may be tempted,
-    at this juncture, to resolve to make a fresh start, to declare that
-    from today -- or next week, once you've got various urgent business
-    out of the way -- you'll do everything differently forever. This is
-    an urge worth resisting: it's a perfectionistic attitude towards
-    imperfectionism, and a recipe for disappointment. Our limitations
-    make fresh starts impossible: you are already here, in time, shaped
-    by everything that came before this moment, and with whatever
-    personality, resources and challenges you find yourself to have.
-    Screwing up your willpower and insisting you're leaving that all
-    behind is unlikely to change much. On the other hand, more fully
-    accepting that you are who you are, and where you are, might change
-    a lot, by permitting you to abandon the dream of a fresh start and
-    actually do one thing today that truly matters, and that makes life
-    resonate once more.
+> The most common form of the anxious feeling I’m trying to pinpoint here is sheer, overwhelming busyness, the sense of having far too much to do in the time available for doing it. But it takes other forms as well. For some it manifests as imposter syndrome, the belief that there’s a basic level of expertise that pretty much everyone else has attained, but that you haven’t, and that you won’t be able to stop second-guessing yourself until you get there. It also arises, for many of us, in the feeling of not yet having cracked the code of intimate relationships, so that for all our outward accomplishments we feel thwarted on a daily basis by the bewildering complexities of dating, marriage, or parenting. For still others, the falling-behind feeling is mainly a matter of believing they ought to be doing more to address the national and global crises unfolding around them, but having no idea what they could do, as individuals, that could possibly make any difference. The thread that runs through all these, though, is the idea that there exists some way of being in the world, some way of mastering the situation of being a human in the twenty-first century, that you have yet to discover.
+
+> But my conversations helped me recognize a deeper issue, too, which is the way our ceaseless efforts to get into the driver’s seat of life seem to sap it of the very sense of aliveness that makes it worth living in the first place. The days lose what the German social theorist Hartmut Rosa evocatively calls their ‘resonance.’ The world feels dead; and for all our efforts to get more done, we find ourselves somehow less able to bring about the results we were seeking. It happens even when our attempts to get in control of things do work. You manage to make yourself meditate daily, and suddenly it feels soul-crushingly boring to do so; or you get around to organizing a date night with your spouse – because everyone says that’s how to keep the spark alive – but the whole thing makes the two of you so self-conscious that it’s fated to descend into bickering, and you end the evening feeling like failures. In my days as a ‘productivity geek,’ I was always embracing some new system for designing my life, and as I downloaded the relevant app, or purchased the required stationery, I’d feel excited, even intoxicated: I was on the verge of great things! Then, within a day or two, my new schedule would seem dismal and lifeless, another list of chores I had to slog through, and I’d find myself angrily resenting the jerk who had the temerity to dictate how I spent my time in this manner – even though the jerk in question was me.
+
+> The essential trouble, as Rosa tells it, is that the driving force of modern life is the fatally misguided idea that reality can and should be made ever more controllable – and that peace of mind and prosperity lie in bringing it ever more fully under our control. And so we experience the world as an endless series of things we must master, learn, or conquer.
+
+> The culture reinforces this doctrine of control in multiple ways. Advances in technology always seem on the cusp of permitting you to tame your workload at last – at the time of writing, virtual assistants powered by artificial intelligence are what’s about to do it – while the hyper-competitive economy makes it feel ever more essential to do so, just to keep your head above water.
+
+> fulfilling and accomplished life isn’t a matter
+
+> a fulfilling and accomplished life isn’t a matter of exerting ever more control. It’s not about making things more predictable and secure, until you can finally relax. A football match is exciting because you don’t know who’ll win; a field of intellectual study is absorbing because you don’t yet have a handle on it all. The greatest achievements often involve remaining open to serendipity, seizing unplanned opportunities, or riding unexpected bursts of motivation.
+
+> At the same time, a good life clearly isn’t about giving up all hope of influencing reality. It’s about taking bold action, creating things, and making an impact – just without the background agenda of achieving full control. Resonance depends on reciprocity: you do things – you have to launch the business, organize the campaign, set off on the wilderness trek, send the email about the social event – and then see how the world responds.
+
+> being a finite human just means never achieving the sort of control or security on which many of us feel our sanity depends.
+
+> Imperfectionism is the outlook that understands this to be good news. It’s not that facing finitude isn’t painful. (That’s why the quest for control is so alluring.) Confronting your non-negotiable limitations means accepting that life entails tough choices and sacrifices, that regret is always a possibility, as is disappointing others, and that nothing you create in the world will ever measure up to the perfect standards in your head. But these truths are also the very things that liberate you to act, and to experience resonance. When you give up the unwinnable struggle to do everything, that’s when you can start pouring your finite time and attention into a handful of things that truly count. When you no longer demand perfection from your creative work, your relationships, or anything else, that’s when you’re free to plunge energetically into them. And when you stop making your sanity or self-worth dependent on first reaching a state of control that humans don’t get to experience, you’re able to start feeling sane and enjoying life now, which is the only time it ever is.
+
+> DAY ONE It’s worse than you think On the liberation of defeat
+
+> The most liberating and empowering and productive step you can take, if you want to spend more of your time on the planet doing what matters to you, is to grasp the sense in which life as a finite human being – with limited time, and limited control over that time – is really much worse than you think. Completely beyond hope, in fact. You know that cloud of melancholy that sometimes descends – when you’re awake in the dark at three in the morning, perhaps, or towards the end of a frazzled Thursday at work – when it seems as though the life you’d envisaged for yourself might never come to fruition after all? The magic begins when you understand that it definitely won’t come to fruition.
+
+> It’s equivalent to that moment when, caught in a rainstorm without an umbrella, you finally abandon your futile efforts to stay dry, and accept getting soaked to the skin. Very well, then: this is how things are. Once you see it’s just unavoidably the case that you’ll only ever get to do a fraction of the things that in an ideal world you might like to do, anxiety subsides, and a new willingness arises to get stuck in to what you actually can do.
+
+> Metaphorically speaking, lightening someone’s burden means encouraging them to believe that, with sufficient effort, their struggles might be overcome: that they might indeed find a way to feel like they’re doing enough, or that they’re competent enough, or that relationships are a piece of cake, and so on. Kennett’s insight was that it can often be kinder and more effective to make their burden heavier – to help them see how totally irredeemable their situation is, thereby giving them permission to stop struggling. And then? Then you get to relax. But you also get to accomplish more, and to enjoy yourself more in the process, because you’re no longer so busy denying the reality of your predicament, consciously or
+
+> DAY TWO Kayaks and superyachts On actually doing things
+
+> Few things are more appealing, when you’re hoping to change your life, than a new system for doing so. But that allure can lead you astray. Almost nobody wants to hear the real answer to the question of how to spend more of your finite time doing things that matter to you, which involves no system. The answer is: you just do them. You pick something you genuinely care about, and then, for at least a few minutes – a quarter of an hour, say – you do some of it. Today. It really is that simple. Unfortunately, for many of us, it also turns out to be one of the hardest things in the world.
+
+> The main point – though it took me years to realize it – is to develop the willingness to just do something, here and now, as a one-off, regardless of whether it’s part of any system or habit or routine. If you don’t prioritize the skill of just doing something, you risk falling into an exceedingly sneaky trap, which is that you end up embarking instead on the unnecessary and, worse, counterproductive project of becoming the kind of person who does that sort of thing.
+
+> It’s worth mentioning another version of this problem, in which people try to become a different kind of person as a way to unconsciously avoid doing the activity in question. Suppose you want to start a business, but the prospect intimidates you. What better way to never quite get around to it than to turn it into a long-term project? That way, you get to spend months doing research, and undertaking brainstorming exercises, and emulating the daily routine of one of your entrepreneurial idols, complete with 5 a.m. wake-ups and a ‘hydration protocol’ … and you never have to do the scary thing at all.
+
+> Systems and schemes for self-improvement, and ‘long-term projects,’ all feed this fantasy: you get to spend your time daydreaming that you’re on the superyacht, master of all you survey, and imagining how great it’ll feel to reach your destination. By contrast, actually doing one meaningful thing today – just sitting down to meditate, just writing a few paragraphs of the novel, just giving your full attention to one exchange with your child – requires surrendering a sense of control.
+
+> The challenge, then, is simple, though for many of us also excruciating: What’s one thing you could do today – or tomorrow at the latest, if you’re reading this at night – that would constitute a good-enough use of a chunk of your finite time, and that you’d actually be willing to do? (Don’t get distracted wondering what might be the best thing to do: that’s superyacht thinking, borne of the desire to feel certain you’re on the right path.) Because the irony, of course, is that just doing something once today, just steering your kayak over the next few inches of water, is the only way you’ll ever become the kind of person who does that sort of thing on a regular basis anyway. Otherwise – and believe me, I’ve been there – you’re merely the kind of person who spends your life drawing up plans for how you’re going to become a different kind of person later on. This will sometimes garner you the admiration of others, since it can look from the outside like you’re busily making improvements. But it isn’t the same at all.
+
+> So you just do the thing, once, with absolutely no guarantee you’ll ever manage to do it again. But then perhaps you find that you do do it again, the next day, or a few days later, and maybe again, and again – until before you know it, you’ve developed that most remarkable thing, not a willpower-driven system or routine but an emergent practice of writing, or meditating, or listening to your kids, or building a business.
+
+> here on the rapids, is worth bringing into reality for itself. DAY
+
+> DAY THREE You need only face the consequences On paying the price
+
+> At some point, as you seek to spend more of your finite existence in the ways that feel most meaningful to you, the thought will inevitably occur to you that you can’t make a certain choice about your time, however much you’d like to, because the circumstances simply don’t allow it. The obstacle could be as weighty as the belief that you can’t walk away from a marriage or a dispiriting career, because of the emotional or financial impact on yourself or on others. Or it might be as mundane as the notion that you can’t spend half an hour on an exhilarating creative project today, because there are too many emails to be answered, or too many household chores that need completing first. These are valid concerns. But the idea that they eliminate all room for choice isn’t entirely correct.
+
+> The truth, though it often makes people indignant to hear it, is that it’s almost never literally the case that you have to meet a work deadline, honor a commitment, answer an email, fulfill a family obligation, or anything else. The astounding reality – in the words of Sheldon B. Kopp, a genial and brilliant American psychotherapist who died in 1999 – is that you’re pretty much free to do whatever you like. You need only face the consequences.
+
+> Whatever choice you make, so long as you make it in the spirit of facing the consequences, the result will be freedom in the only sense that finite humans ever get to enjoy it. Not freedom from limitation, which is something we unfortunately never get to experience, but freedom in limitation. Freedom to examine the trade-offs – because there will always be trade-offs – and then to opt for whichever trade-off you like.
+
+> DAY FOUR Against productivity debt On the power of a ‘done list’
+
+> Many people these days report the feeling that they begin each morning in a kind of ‘productivity debt,’ which they must struggle to pay off over the course of the day, in hopes of returning to a zero balance by the time evening comes. If they fail – or worse, don’t even try – it’s as though they haven’t quite justified their existence on the planet. If this describes you, there’s a good chance that like me you belong to the gloomy bunch psychologists label ‘insecure overachievers,’ which is a diplomatic way of saying that our accomplishments, impressive as they may sometimes be, are driven ultimately by feelings of inadequacy.
+
+> perhaps you’ve tethered your self-esteem to the most crazy-making standard of all, ‘realizing your potential’ – which means you’ll never get to rest, because how can you ever be sure there’s not a little more potential left to realize?
+
+> life as a productivity debtor is no fun at all. It’s anxiety-inducing, and exhausting, and it probably also contributes to the modern epidemic of social isolation, since a tunnel-vision focus on paying off your debt makes it much less appealing to prioritize apparently unproductive activities like hanging out with your friends. Worse still, the productivity-debt mindset turns success into a kind of punishment: each new accomplishment merely sets a higher standard that you now feel you’ve got to reach next time around, so it becomes even harder to pay off your debt than it was before.
+
+> There is a religious route out of productivity debt, if you believe in a god who bestows grace – who loves you and delights in you, in other words, regardless of how hard you strive to justify your existence by means of your productivity, goodness, or anything else. But agnostics and atheists get to take a different path to a similar destination: if there isn’t a god, then there’s no authority with the power to demand that you earn your right to exist. You just do exist, and that has to be sufficient.
+
+> what makes a done list so motivating and encouraging is that it implicitly invites you to compare your output to the hypothetical situation in which you stayed in bed and did nothing at all. And what makes that comparison any less legitimate than the other one? (Plus, if you’re really stuck in a rut, you can always define more loosely what gets to count as a completed task. Nobody else ever needs to know you added ‘made coffee’ or ‘took a shower’ to your done list.) A done list isn’t solely a way to feel better about yourself, though. When you start to view each day not as a matter of paying off a debt, but as an opportunity to move a small-but-meaningful number of items over to your done list, you’ll find yourself making better choices about what to focus on; and you’ll make more progress on them, too, since you’ll be wasting less energy stressing about all the other tasks you’re (inevitably) neglecting.
+
+> DAY FIVE Too much information On the art of reading and not reading
+
+> Since the incoming supply of genuinely interesting stuff is effectively limitless, improving the efficiency with which you discover it just means you’re bombarded with books, articles, podcasts and videos that seem like they might contain a nugget of wisdom critical for your happiness or professional success. The challenge isn’t to locate a few needles of relevance in a haystack of dross. The challenge, in the words of the technology critic Nicholas Carr, is figuring out how to deal, day in day out, with ‘haystack-sized piles of needles.’
+
+> Moving more quickly through an infinite incoming supply of something never gets you to the end of it. Because you’re processing more of it, faster, and without ever achieving the satisfaction of reducing it, you’re just left feeling more scattered and stressed. Fortunately, there are three pieces of advice for navigating a world of infinite information that are more genuinely helpful. The first is to treat your to-read pile like a river, not a bucket. That is to say: think of your backlog not as a container that gradually fills up, and that it’s your job to empty, but as a stream that flows past you, from which you get to pick a few choice items, here and there, without feeling guilty for letting all the others float by.
+
+> when you stop to think about it, there’s something slightly arbitrary about which repositories of information we define as guilt-inducing buckets in the first place.
+
+> I’ve felt similarly tormented by long lists of web-browser bookmarks. Yet none of us seems remotely bothered that we’ll never make it through the 25 million books currently held by the Library of Congress.
+
+> The second piece of advice is to resist the urge to stockpile knowledge. At least where non-fiction sources are concerned, it’s easy to fall into the assumption that the point of reading or listening to things is to add to your storehouse of knowledge and insights, like a squirrel hoarding nuts, in preparation for a future when you’ll finally get to take advantage of it all. (This attitude prompts some people to develop complicated systems for taking notes on everything they read, which turns reading into a chore, which then perversely leads to their not reading books they’d otherwise enjoy or benefit from, because they can’t face taking the notes.) Most of the long-term benefits of reading arise not from facts you insert into your brain, but from the ways in which reading changes you, by shaping your sensibility, from which good work and good ideas will later flow. ‘Every book makes a mark,’ says the art consultant Katarina Janoskova, ‘even if it doesn’t stay in your conscious memory.’ The closely related final rule is to remember that consuming information is a present-moment activity, like everything else. It’s not merely that a fixation on retaining facts is a poor way to reap the benefits of reading. It’s also that any focus on ‘reaping the benefits’ risks obscuring the truth that a meaningful life, in the end, has to involve at least some activities we love doing for themselves, here and now. So you needn’t always choose to read what’s most edifying, or professionally useful, or most enthusiastically endorsed by the arbiters of culture. Sometimes it’s OK just to read whatever seems most fun.
+
+> DAY SIX You can’t care about everything On staying sane when the world’s a mess
+
+> Living inside the news feels like doing your duty and being a good citizen. But you can stay informed on ten minutes a day; scrolling any more than that risks becoming disempowering and paralyzing, and certainly eats up time you could have spent making a difference.
+
+> It used to be said about certain horrifying news events that ‘if you’re not outraged, you’re not paying attention.’ But that’s a relic of a time when people had attention to spare, and when it wasn’t in the vested interests of media outlets to stoke as much outrage as possible. In an age of attention scarcity, the greatest act of good citizenship may be learning to withdraw your attention from everything except the battles you’ve chosen to fight.
+
+> DAY SEVEN Let the future be the future On crossing bridges when you come to them
+
+> Certain forms of human finitude are easy enough to perceive: our limited amount of time, for example, or our limited ability to control how others act. But it can be harder to notice one of the most significant ones – the way we’re hopelessly trapped in the present, confined to this temporal locality, unable even to stand on tiptoes and peer over the fence into the future, to check that everything’s all right there. This is deeply disturbing, because it means that we suffer from what the psychologist Robert Saltzman calls ‘total vulnerability to events.’
+
+> The main way we try to resist this horrifying state of affairs is by worrying. What is worry, at its core, but the activity of a mind attempting to picture every single bridge that might possibly have to be crossed in future, then trying to figure out how to cross it?
+
+> The compulsive and repetitious character of worry arises from the fact that for finite humans, this goal is doubly impossible. Firstly, we can’t possibly think of every challenge we might end up facing. Secondly, even if we could, the solace we crave could only come from knowing we’d made it safely over the bridges in question – which we can’t ever know until we’ve actually crossed them.
+
+> Just because certainty about the future
+
+> Just because certainty about the future is off the table, though, it doesn’t mean you can’t feel confident in your abilities to deal with the future when it does eventually arrive. As the celebrated Stoic emperor Marcus Aurelius reassures readers of his Meditations: ‘Never let the future disturb you. You will meet it, if you have to, with the same weapons of reason which today arm you against the present.’ You could say the worrier gets things exactly backwards. He’s so terrified that he might not be able to rely on his inner resources, later on, when he reaches a bridge that needs crossing, that he makes superhuman efforts to bring the future under his control right now. In fact he should devote less energy to manipulating the future, and have more faith in his capacity to handle things once the challenge actually arrives. If it arrives, that is. Marcus’s phrase ‘if you have to’ is a useful reminder that most of the bridges we worry about never end up needing to be crossed at all.
+
+> DAY EIGHT Decision-hunting On choosing a path through the woods
+
+> In case it’s not clear by now, I’ll emphasize it again: embracing your limitations isn’t a matter of settling for less in life. It’s not about passively sitting back and letting things happen to you.
+
+> the life-enhancing route is to think of decisions not as things that come along, but as things to go hunting for. In other words: to operate on the assumption that somewhere, in the confusing morass of your work or your life, lurks at least one decision you could make, right now, in order to get unstuck and get moving.
+
+> The executive coach Steve Chandler, in his book Time Warrior, refers to this sort of decision-making as ‘choosing,’ which he contrasts with the similar-sounding but actually very different activities of ‘trying to decide,’ or figuring out what to do. You could fritter months trying to work out how best to begin the screenplay you’ve been meaning to write, and you might never succeed. But to take the three opening scenes you’ve been pondering and just choose one is the work of a moment, and unequivocally within your capabilities. Or suppose you’ve been trying to decide, vaguely, about whether to leave your job. That’s the sort of dilemma over which people spin their wheels for years. But right now, over the course of the next three minutes, it would be easy to choose the person in your social circle who’s most likely to have some good advice on the matter, then email them to invite them for coffee. ‘Most people believe a deficit in knowing is their problem,’ Chandler writes. They ‘believe that they don’t know what to do, so it will take time before they do it.’ But choosing? ‘Takes no time. When you choose you’ve already chosen.’
+
+> As we’ve already seen, the fact that your time is limited – plus the reality that you can only ever be in one place at any instant – means that in every moment, you’re opting not to take a thousand alternative paths through life. From each of these paths branch another thousand alternatives, and so endlessly on, like a vast river delta through which you could follow any one of an immense variety of streams. But only one. That’s why indecision can feel so oddly comfortable: it’s a form of postponement, a temporary avoidance of the painful sacrifices involved.
+
+> There are two rules of decision-hunting worth bearing in mind here. The first is that a decision doesn’t get to count as a decision until you’ve done something about it in reality, so as to put some of your discarded alternatives beyond reach. Merely telling yourself you’ve decided, inside your mind, isn’t enough. You have to actually begin drafting the opening scene of the screenplay, setting off down that creative path as opposed to any of the others. You have to actually email your friend about the coffee, thereby transforming your purely private doubt about your job into something that now exists in the external world. The other rule, however, balancing the first, is that as long as a decision meets that litmus test, it can be as tiny a decision as you like. Grand gestures aren’t required. There’s no need to leap directly from thinking about a career change to marching into your manager’s office to quit. Baby steps are fine; they just have to be real ones.
+
+> DAY NINE Finish things On the magic of completion
+
+> Perfectionists love to begin new endeavors, because the moment of starting belongs to the world of limitlessness: for as long as you haven’t done any work on a project, it’s still possible to believe that the end result might match the ideal in your mind.
+
+> By contrast, finishing things means slogging your way through the messy, imperfect reality of what the project actually became;
+
+> Consider how you’d like to spend yours next year, and you’re likely to picture it, figuratively speaking, from 30,000 feet: you might see yourself ‘going to the beach,’ or ‘hiking in the mountains,’ or ‘relaxing as a family.’ But when the vacation draws closer, you’ll descend a few thousand feet and start focusing in on details: which beach, which mountain trails, which restaurants to eat at, and so forth. Similarly, at the start of any major undertaking, we see it in outline, smooth if a little blurry; it’s only as we dig in that we begin to encounter the flaws, the compromises, and the grunt-work involved. At which point we make the error of assuming that a new endeavor might be free of such imperfections. Really, of course, what makes the new endeavor more appealing is just that we’re seeing it at a mental distance; we fail to realize, in the words of the psychology writer Jude King, that ‘every worthwhile goal is supposed to feel hard, unglamorous, unsexy,’ at least for some of the time you’re actually putting in the work.
+
+> And yet, in reality, repeatedly starting but rarely finishing things, or finishing them only under duress, is a recipe for misery.
+
+> The trick to finishing things when the prospect seems overwhelming is simply to redefine what counts as finished. Instead of viewing the completion of a project as something that happens only occasionally, after days or weeks of work, think of your days as consisting in the sequential completion of a series of small ‘deliverables.’
+
+> DAY TEN Look for the life task On what reality wants
+
+> By definition, a life task is something your life is asking of you; so while it might coincide with your parents’ expectations, or your society’s ideals, it also very easily might not.
+
+> How can you identify your current life task? That must always be a matter of intuition. But there are two signposts that may help. The first is that a life task will be something you can do ‘only by effort and with difficulty,’ as Jung puts it – and specifically with that feeling of ‘good difficulty’ that comes from pushing back against your long-established preference for comfort and security. In the words of another Jungian, James Hollis, it may be the kind of endeavor that ‘enlarges’ you, rather than making you feel immediately happy. This is where you’ll need to be honest with yourself.
+
+> The second signpost is that a true life task, though it might be difficult, will be something you can do. If you only have a hundred dollars in the bank, your life task won’t require the immediate purchase of thousands of dollars’ worth of moviemaking equipment (although it might involve doing something to raise the cash). If you’re the single parent of three small children, it won’t involve working eighteen-hour days for a tech start-up; and by the same token, if you’re unable to have children, it won’t involve becoming a biological parent. This helps distinguish the idea of a life task from certain popular notions of ‘destiny’ or ‘calling,’ which can leave people feeling as though there’s something they’re meant to be doing with their lives, but that their life circumstances make it impossible.
+
+> It’s what’s being asked of you, with your particular skills, resources and personality traits, in the place where you actually find yourself.
+
+> It permits you to dig beneath the crust of assumptions that all too easily end up governing a life: that you have no option but to continue on your current career path; or that you mustn’t make choices on which others might frown; or that you’re obliged to do something extraordinary with your life. The most remarkable part is that while you might have assumed that complying with a life task would feel oppressive – you’re ‘complying’ with a ‘task,’ after all – it never does. It gives you the feeling of getting a handle on life, because the life to which you’re addressing the question is the one you actually have. It is never the case that there’s no next step to take. On some level, I think we always already know when we’re hiding out in some domain of life, flinching from a challenge reality has placed before us. The purpose of a question like ‘What’s the life task here?’ is just to haul that knowledge up into the daylight of consciousness, where we can finally do something about it.
+
+> DAY ELEVEN Just go to the shed On befriending what you fear
+
+> The more you organize your life around not addressing the things that make you anxious, the more likely they are to develop into serious problems – and even if they don’t, the longer you fail to confront them, the more unhappy time you spend being scared of what might be lurking in the places you don’t want to go.
+
+> it entails accepting a constant background tug of discomfort – an undertow of worry that can sometimes feel useful or virtuous, though it isn’t – as the price you pay to avoid a more acute spike of anxiety. What you should do in such situations, I’ve learned, is just go to the shed.
+
+> Loomans refers metaphorically to the tasks or areas of life you’re avoiding as ‘gnawing rats.’
+
+> But he rejects the conventional advice about dealing with them, which is to man/woman up and confront your rats – to get over yourself, in other words, and to attack the problem with brute force. The trouble is that this simply replaces one kind of adversarial relationship with your gnawing rats (‘Stay away from me!’) with another (‘I’m going to destroy you!’). And that’s a recipe for more avoidance over the long term, because who wants to spend their life fighting rats? Loomans’s surprising advice is to befriend them instead. Turn towards your gnawing rats. Forge a relationship with them. But how, exactly, do you forge a relationship with a metaphorical gnawing rat?
+
+> It might mean finding the least intimidating way to get stuck into it, or asking someone else for help. But it might equally entail something as seemingly passive and ineffective as merely closing your eyes and visualizing yourself taking an action. All you’re seeking is some way to ‘go there,’ psychologically speaking: to begin to accept, on an emotional level, that the situation in question is already a part of your reality, no matter how fervently you might wish that it weren’t.
+
+> to befriend a rat is to defuse the anxiety you feel by transforming the kind of relationship you have with it. You turn it into an unobjectionable part of your reality. Whereupon a gnawing rat, in Loomans’s terminology, becomes a ‘white sheep’ – a harmless, docile, fluffy creature that follows you around until you decide to do something about it. Everyone has an assortment of not-yet-begun or not-yet-completed projects that would benefit from their attention, because that’s the nature of being a finite human. But there’s no need for them to torment you. Once you’ve established a relationship with them, they become white sheep, and can just patiently wait their turn.
+
+> cognitive psychologist Virginia Valian found herself so paralyzed by work anxiety that she couldn’t write a word of her PhD thesis – until she stopped trying to make herself work in the way she thought she was meant to, and asked herself instead how much time she was prepared to spend on it each day: I talked about it with J, the man I live with, and he suggested three hours. Three hours! The very thought gave me an anxiety attack. How about two hours? Two hours! The very thought … One hour? More reasonable, but still not possible. Half an hour? Getting closer but still too much. Fifteen minutes? Fifteen minutes. Fifteen minutes. Now there was a figure I could imagine. A nice solid amount of time, an amount of time I knew I could live through every day. People laughed when Valian told them of her fifteen-minute-a-day plan, because it sounded pathetic. In fact it was the opposite. Asking yourself what it would actually entail to befriend the gnawing rats in your life is an act requiring real courage – more courage, perhaps, than the standard confrontational approach, which feels less like reconciling yourself to reality and more like getting into a bar fight with it. Befriending your rats is a gentle strategy, but there’s nothing submissive about it. It’s a pragmatic way to maximize your room for maneuver, and your capacity to make progress on the work you care about, by becoming ever more willing to acknowledge that things are as they are, whether you like it or not.
+
+> DAY TWELVE Rules that serve life On doing things dailyish
+
+> doing something dailyish requires sacrificing your fantasies of perfection in favor of the uncomfortable experience of making concrete, imperfect progress, here and now. In any case, ‘dailyish’ isn’t synonymous with ‘just do it whenever you feel like it.’ Deep down, you know that doing something twice per week doesn’t qualify as dailyish, while five times per week does, and in busy periods, three or four times per week might get to count. So you’re still putting some pressure on yourself. But, crucially, what you’re not doing is expecting the rule to somehow force the action.
+
+> Saint Benedict of Nursia, whose rulebook for organizing the communal life of a Christian monastery remains the one followed by many Catholic orders to this day, appears to have undergone a midlife realization of just this nature. Benedict sought to create monastic communities as bulwarks against the immorality that appalled him in sixth-century Europe. But early experiences led him to radically alter his approach to the challenge. As a pious younger man, the story goes, he first organized a group of novice monks under a framework of rules so demanding that several of them conspired to try to poison him – twice. By contrast, the Rule of Saint Benedict, the one he wrote in old age and which is still in use, remains relevant because it’s a model of moderation, elegantly balancing the need for order with the need for individual freedom, and a monk’s need for solitude with the universal human need for a social life. It also recognizes, in the beautifully forbearing passage quoted above, that monks, like many of the rest of us, enjoy a drink from time to time. Sometime in the aftermath of those poisonings, Benedict apparently understood that the point isn’t to spend your life serving rules. The point is for the rules to serve life. ‘Dailyish’ is one that does. In not insisting on your doing something absolutely every day, it shifts the focus away from the ultimately meaningless question of whether or not you have an unbroken chain of red Xs, and back to the life it’s supposed to be serving – to the thing you’re seeking to bring into existence, whether that’s a piece of writing, a work of art, a happy family, a healthier body, or anything else.
+
+> DAY THIRTEEN Three hours On finding focus in the chaos
+
+> If rules should serve life, rather than the other way around, it follows that you shouldn’t expect there to be many one-size-fits-all rules for making the most of your time. Everybody’s life is different, after all, and no individual life remains the same for very long. Still, there’s one rule that comes close. If you’re a ‘knowledge worker’ – that is, if you spend your days doing things with computers and words and ideas, as opposed to, say, building houses out of bricks – then you’ll make the most progress, and cover the most ground, if you limit yourself to about three or four hours of intense mental focus each day.
+
+> research that helps explain why: because intense focus uses up energy; because it’s more effective to focus intensely during only your peak hours, rather than half-heartedly all day; and because creativity appears to depend partly on processes taking place in your brain while you’re not focusing. (Limiting the time allotted to high-stakes work also helps reduce the feeling of being intimidated or oppressed by it, which causes some people to procrastinate.)
+
+> the near-uniformity of their hours of deep focus suggests what I’ve come to think of as the ‘three-to-four-hour rule’ for getting creative work done. It has two parts. The first is to try – to whatever degree your situation permits – to ringfence a three- or four-hour period each day, free from appointments or interruptions. The equally important second part is not to worry about imposing much order on the rest of the day: to accept that your other hours will probably be characterized by the usual fragmentary chaos of life.
+
+> To begin with, it acknowledges the reality that most of us don’t have the capacity for more than a few daily hours of intense concentration. But it also respects limitation in another important way: it frees you from the futile perfectionistic struggle to try to make the whole day unfold in accordance with your desires. It respects the fact that your work demands focus; but at the same time, it spares you from having to spend most of your hours in a defensive posture, braced against each new email, phone call, or serendipitous encounter in the hallway.
+
+> The most powerful effect of the rule, though, might be the way in which it limits the possibility of hurry. It pushes back against the ubiquitous modern urge to get as much done as possible as fast as possible, in obedience to the inner voice whispering that just maybe, if you really went hell-for-leather for the next few days, you might get on top of the work once and for all.
+
+> The three-to-four-hour rule functions, too, as a reminder of the profound truth that for finite humans the work is never done. A central point of the Jewish and Christian tradition of the Sabbath is that you have to stop anyway – not because you’ve finished, but just because it’s time to stop.
+
+> DAY FOURTEEN Develop a taste for problems On never reaching the trouble-free phase
+
+> I suspect that most of us, except perhaps the very Zen or the very elderly, move through our days with a similar if largely unconscious assumption that at some point – maybe not soon, but eventually – we’ll make it to the phase of life which won’t involve confronting an endless fusillade of things to deal with. The unfortunate consequence is that we experience our ordinary problems – the bills to pay, the minor conflicts to resolve, each little impediment that stands between us and realizing our goals – as doubly problematic. First, there’s the problem itself. But then there’s the way in which the very existence of any such problems undermines our yearning to feel perfectly secure and in control. So we spend our lives leaning into the future, unconsciously deeming whatever’s happening now to be fundamentally flawed, because it’s marred by too many problems. And quite possibly deeming ourselves to be fundamentally flawed, too – or else wouldn’t we have figured out some way to eliminate all these problems by now? Yet the reality, as Harris goes on, is that ‘… life is an unending series of complications, so it doesn’t make any sense to be surprised by the arrival of the next one.’
+
+> It would be nice to be able to skip the scariest or most overwhelming problems. But to face no problems at all would leave you with nothing worth doing; so you might even say that coming up against your limitations, and figuring out how to respond, is precisely what makes a life meaningful and satisfying.
+
+> Beyond the mountains, there are always more mountains, at least until you reach the final mountain before your time on earth comes to an end. In the meantime, few things are more exhilarating than mountaineering.
+
+> DAY FIFTEEN What if this were easy? On the false allure of effort
+
+> In the first week of the journey sketched in this book, we explored the benefits of facing the truth of our finitude, in a world where overwhelm and distraction threaten constantly to derail us; in the second, I sought to share the insights I’ve found most helpful for taking bold, imperfect action as a finite human. But there’s a danger in all such advice: it risks implying that taking meaningful action is necessarily a tough or complex challenge. (If it were straightforward and effortless, why would anyone need advice?) And in one sense, for finite humans, life certainly is a tough challenge: you’ve got severely limited time, and limited control, necessitating hard choices and a tolerance for imperfection and uncertainty. But it’s equally true that often the real challenge, in building an accomplished and absorbing life, is learning to let go. Not making things happen, through willpower or effort, but cultivating the willingness to stand out of the way and let them happen instead – which is our focus this week.
+
+> By defining meaningful tasks as those that always require exertion, and you as the kind of person who needs pushing and prodding to do them, it turns daily life into an ongoing internal battle between the kind of person you’d like to be – energetic, productive – and the kind of person you privately fear yourself to be at the core: prone to backsliding at the first opportunity. Going through your days in this spirit causes multiple problems, the most obvious being that it makes you much less likely to do satisfying things you’d otherwise have done, and that would have been easy, because you’ve persuaded yourself they won’t be.
+
+> Moreover, on those occasions when you do take action, you do so with more exertion and nervous energy than was really required, because it feels like ‘putting in the effort’ is inherently virtuous in itself. That’s a message we begin receiving early in life: ‘My mom used to get really upset at what she perceived as my half-assing,’ reads one splendid anonymous comment on a Washington Post article by the advice columnist Carolyn Hax. ‘I’m 48 now, have a PhD and a thriving and influential career, and I still think there is very very little that’s worthy of applying my whole entire ass. I’m not interested in burning myself [out] by whole-assing stuff that will be fine if I half- or quarter-ass it. Being able to achieve maximum economy of ass is an important adult skill.’ The final hazard in the idea that if something matters it must take effort is that it leads, by a seemingly reasonable but entirely bogus reverse logic, to the assumption whatever takes effort must matter. Collapsing on to the sofa at the end of a long day spent deep-cleaning your home, or organizing all your digital files into an orderly hierarchy of folders, it’s easy to conclude that you must have used your time well: consider how exhausted you feel! But perhaps your home could have waited another month for a deep clean. And maybe you should never have bothered organizing your files at all, because the search function on your computer is amply good enough to track things down when you need to find them.
+
+> And so instead of asking how to summon the energy or motivation or self-discipline to do something that matters to you, it’s often more helpful to ask: What if this might be a lot easier than I’d been assuming?
+
+> When some daunting challenge barrels into view, just decide that you’re going to experience it as easy instead. I realize that sounds like the worst kind of denial of human limitation, as if you could get your way merely by commanding the universe to fall in line with your desires. In fact, though, it can be surprisingly effective – because it functions not as a mystical command to the universe but as a reminder to yourself not to fall into the old habit of adding complications or feelings of unpleasant exertion where neither need exist. And we do that all the time. When I fail to take action on things I care about, the reason is sometimes that I lacked the time, or couldn’t summon the willpower. But it’s at least as likely to be because I spooked myself with visions of the perfect result I thought I needed to achieve, or assumptions about the difficulties involved, thereby blocking action that would otherwise have flowed naturally.
+
+> DAY SIXTEEN The reverse golden rule On not being your own worst enemy
+
+> Following pleasure’s lead, she had a more productive day, completing the tasks she usually yelled at herself to do, ‘only this time, it seemed effortless. I had such a light heart.’ Which makes sense, on reflection, because when you do what you feel like doing, you get to use your desires as fuel for action, rather than constantly diverting energy and attention to overcoming them. It’s easy to believe that if you let yourself do what you want, you might spend the day scrolling slack-jawed through Instagram. But often the truth is that ‘scrolling slack-jawed through Instagram’ is what happens after you’ve told yourself you can’t do what you want, because you can’t afford to or don’t deserve to – and you grow so resentful or annoyed by whatever you try to force yourself to do instead that you reach for your phone as a distraction.
+
+> it’s important to see that this objection itself is often the inner taskmaster in disguise, seeking to make you feel bad for taking advantage of whatever freedom you do have. There’s no prize for failing to spend your time as you wish, to whatever extent you’re able, out of a misplaced sense of solidarity with those who cannot.
+
+> From somewhere (your parents, the culture, a religion) you internalized the notion that if you didn’t watch yourself like a hawk, disaster might strike. That if you were to cut yourself some slack and follow your own agenda, that might lead to your being abandoned, or humiliated, or overwhelmed by emotions, or financially ruined. The details differ too much from person to person to try to elaborate them here. But wherever the belief comes from, it belongs to the past; it isn’t a reasonable assessment of what would be likely to happen now, were you to treat yourself more decently.
+
+> DAY SEVENTEEN Don’t stand in generosity’s way On the futility of ‘becoming a better person’
+
+> you needn’t try to transform yourself into someone who feels more love for humanity, and it’s probably impossible anyway. You just need to find where you already feel warmth or tenderness, then go from there.
+
+> Being a better or more loving person is another thing you can’t make happen. You have to let it happen – which you can do by first recognizing that some part of you already feels the emotions you believe you ought to be feeling. After that, your main job is to avoid overcomplicating things.
+
+> for the usual perfectionistic, limit-denying reasons – wanting to be optimally kind instead of just kind, or wanting to feel in full control of your time and obligations – you never managed to translate your impulses into action.
+
+> act on a generous impulse the moment it arises.
+
+> The point isn’t to try to render yourself more generous than you already are, but just to notice the moments when you naturally and effortlessly feel that way anyway, then not to screw it up with overthinking. The simplest way to do that is to move fast. ‘Each time the thought to give arises, act on it. Then notice what happens,’ Goldstein counsels, adding that ‘in my experience, generosity never leads to remorse.’ What happens, unsurprisingly, is that it feels great, so while initiating the practice can require a little willpower, it soon becomes self-reinforcing. Before you know it, you’re a person who acts more generously – without ever having had to become a more generous person.
+
+> DAY EIGHTEEN Allow other people their problems On minding your own business
+
+> it’s a fool’s errand – and a flagrant denial of your finite power over reality – to make your sense of feeling OK dependent on knowing that everyone around you is feeling OK, too.
+
+> The sense of urgency is really the fear that someone else will get angry or anxious if you don’t hurry up. Again, maybe it’s in your interests to forestall that outcome. But then again, maybe it isn’t: their feelings have no magic power to reach out and force you to act. It might help to consider the billions of people on earth who are, at this moment, feeling angry, depressed, disappointed, impatient, or anxious. The thought of them might evoke your sympathy; yet you surely don’t see it as your job to cheer them all up. Why should it automatically be different in that small proportion of cases where the emotions are, at least nominally, about you?
+
+> ‘if you can’t do something, saying no right away usually makes it much easier for everyone.’ It was years before it struck me that this might have been one of the most generous things anyone had ever said to me. It helped me see that if trying so hard to manage other people’s emotions wasn’t even helping them, I had less to lose by abandoning the endeavor. And so I began to grapple with a truth that people-pleasers are prone to resist until it halfway kills them: that very often, the best way to benefit others is to focus on doing your thing.
+
+> DAY NINETEEN A good time or a good story On the upsides of unpredictability
+
+> Not being able to guarantee that your plans will come off; not knowing what the future holds; never quite feeling like you’ve got things figured out, or that you’re on top of things – all of these are mysteriously central to what makes life worth living.
+
+> Plenty of straightforwardly undesirable things happen to all of us, from the mildly annoying to the tragic. But almost everyone, when prompted, can reel off a few tales in which events slipped out of their control – the weather failed to cooperate, the flight got canceled, they showed up at the wrong address – and either something wonderful happened or, at worst, they acquired an anecdote with which to entertain themselves and others for years to come.
+
+> a resonant relationship with life depends on its being semi-controllable, not totally uncontrollable. You need to engage actively in the world – to connect to others, to make plans, and to pursue opportunities and ambitions – and people need the freedom, and the economic resources, to be able to do that. (Neither good times nor good stories will occur very often if you just sit around, isolated, waiting for them – or if you’re obliged to spend every waking hour struggling to survive.) Still, it’s central to an enjoyable and meaningful life that whenever we reach out to the world in this way, we don’t get to control how it responds. The value and depth of the experience relies on that unknowability. Maybe you’ll get what you wanted, or maybe you won’t – and sometimes, not getting what you wanted will leave life immeasurably better.
+
+> DAY TWENTY Set a quantity goal On firing your inner quality controller
+
+> One more paradoxical truth about control: often, the way to have the best ideas, and to produce the best work, is to develop an ability to forget entirely about trying to control the quality of your output. And the easiest way to do that is to focus on quantity instead.
+
+> What this looks like in my line of work is staring at a screen, slowly and painstakingly formulating half a sentence, reading it over, deeming it to be inadequate, deleting it, staring at the screen some more, then trying again. (As the writing coach Stephen Lloyd Webber points out, it’s ironic that people call this process ‘writing,’ since the vast majority of it entails not writing, or deleting things you’ve just written.) And the situation spirals, because each time you finally permit something on to the page, its imperfections dismay you so much that you tighten the quality criteria further still – until, to switch metaphors unpleasantly, you’re so constipated no words can squeeze their way out at all. This is the point at which a certain kind of self-styled creative person starts talking vaguely about ‘falling in love with the process.’ I’ve done it myself. Since it’s so agonizing to produce good work, the thinking goes, why not delight in the simple fact of working instead? But these days I’m fairly sure this is usually a defense mechanism, deployed by people who feel anxious about the eventual result of their efforts – and that it never really works, anyway, because if it’s just a fact that you do care about the outcome, telling yourself you don’t isn’t going to help.
+
+> A more pragmatic and imperfectionist way to ease up on a fixation with outcomes is to set a quantity goal. There’s no need to pretend you don’t care about the results of your work, or to eradicate the part of you that seeks control. Give that part something to do – just make sure it has nothing to do with the quality of the result. Eight hundred words per day; one hour on the side business every evening; five potential customers contacted; three pages of the material for the examination turned into flashcards (or the three-hour rule we encountered on Day Thirteen): these are goals anyone with the available time can achieve, so long as you’re willing to accept that, for now, quality isn’t the point.
+
+> A quantity goal puts you back in the driver’s seat: instead of hoping you produce something good, you get to know you’ll produce something.
+
+> DAY TWENTY-ONE What’s an interruption, anyway? On the importance of staying distractible
+
+> On a larger scale, you can fall into the trap of viewing your whole life this way, interpreting all the things you’re actually doing with your days as one extended series of interruptions or distractions from what you think you’re meant to be doing with them.
+
+> Next time you do get a moment to hear yourself think, though, you could use it to ponder the strange assumption of omniscience that’s baked into the notion of minimizing ‘interruptions’ and blocking out ‘distractions.’ The idea that these labels can confidently be applied to things before they happen implies that you always know, in advance, the best way for any portion of your time to unfold – and that should reality beg to differ, it must always be reality that’s wrong. And yet, objectively, all that’s occurring in the world is that certain things happen, then other things happen, then still more things happen.
+
+> When we define some of these things as interruptions of, or distractions from, other ones, we’re adding a mental overlay to the situation, sorting events into hard categories of those which ought and ought not to happen. There’s nothing intrinsically wrong with that; it’s fine to have strong preferences for how you’d like your day to unfold. But at the very least, it’s a reminder not to cling so confidently to those preferences that you turn life into a constant struggle against events you’ve decided, futilely, shouldn’t be happening. Or that you close off the possibility that what looks like an interruption might in fact prove a welcome development.
+
+> give them your full attention. That is: once your focus has already been diverted – once the child has burst into the room, or the anxious thought about the timing of your doctor’s appointment has pulled you away from the novel you were reading – don’t fight the fact. Deal with your new reality instead. Make a note to check the time of the appointment; or look the child in the eyes, listen to their request – then either close your laptop to be with them, or explain you’ll need to finish what you’re doing first.
+
+> DAY TWENTY-TWO Stop being so kind to Future You On entering time and space completely
+
+> If there’s a single truth at the heart of the imperfectionist outlook, it’s the one to which we turn as we begin this final week: that this, here and now, is real life. This is it. This portion of your limited time, the part before you’ve managed to get on top of everything, or dealt with your procrastination problem, or graduated or found a partner or retired; and before the survival of democracy or the climate have been secured: this part matters just as much as any other and arguably even more than any other, since the past is gone and the future hasn’t occurred yet, so right now is the only time that really exists. If instead you take the other approach – if you see all of this as leading up to some future point when real life will begin, or when you can finally start enjoying yourself, or feeling good about yourself – then you’ll end up treating your actual life as something to ‘get through,’ until one day it’ll be over, without the meaningful part ever having arrived.
+
+> The commitment-phobe can’t bear to enter ‘time and space completely’ because letting himself be pinned down to one relationship or career path means renouncing the other ones. He imagines that what he’s doing instead is keeping his options open, though he has of course chosen a path – because choosing to use up some of your finite time in a state of non-commitment is still a choice. On the other hand, the too-responsible type holds off from entering time and space completely by always locating the real value of her present-day actions somewhere off in the future. This allows her to experience what Keynes called ‘a spurious and delusive immortality,’ following the cock-eyed logic that if the point of your life is coming later, it must be the case that you’ll still be alive to experience it – so that as long as you continue investing in your future, maybe you won’t have to die.
+
+> showing up more fully in the present is about how you pursue your plans for the future; it certainly doesn’t require that you abandon them. It means letting go of the notion that you can’t quite allow yourself to feel fully immersed in life before those plans are realized, and coming to understand on the contrary that the pursuit of ambitious goals is one excellent way to be fully immersed in life.
+
+> Then again, while entering the present more fully needn’t necessarily mean taking things easy, it’s entirely possible that in your case it might. Perhaps it’s time for a sabbatical, or for what Tim Ferriss calls a ‘mini-retirement,’ an intentional break in which you undertake, now, one of the adventures you were mentally deferring until much later in life. After all, there’s never any guarantee that you’ll still be around to do it years in the future. At the very least, it might be time to spend an hour today enjoying yourself – cashing in some of the investments you previously made in your future self, you might say, and splashing out on the present one.
+
+> DAY TWENTY-THREE How to start from sanity On paying yourself first
+
+> if you treat sanity as a state you have to reach by engaging in all manner of preparations, or getting other things out of the way first, then the main effect will be to reinforce the sense of sanity as something that’s out of reach. You’ll entrench the stress and anxiety, rather than uprooting them. You might get all sorts of useful things done – but they’ll never bring peace of mind, because you’ll effectively be telling yourself on a daily basis that peace of mind is something distant and not available right here.
+
+> That’s what I mean by ‘striving towards sanity.’ ‘Operating from sanity,’ on the other hand, means embodying a certain kind of orientation towards life first, one that treats the present moment as a place where peace of mind might, in theory, be attainable – and then going about your life from that orientation, rather than treating the activities of your life as things you’re doing in order to one day reach it.
+
+> In his book Anti-Time Management, Richie Norton boils this philosophy down to two steps. One: ‘Decide who you want to be.’ Two: ‘Act from that identity immediately.’ The signature behavior of the striver-towards-sanity is ‘clearing the decks’: trying to deal with all the minor tasks tugging at your attention in an effort to arrive at the point when you finally expect to have large stretches of time to focus on what you care about. The trouble with clearing the decks, as we’ve seen, is that the supply of things to fill the decks is to all intents and purposes limitless. So a commitment to clearing the decks leads inexorably to a life spent unendingly clearing the decks. The signature behavior of the operator-from-sanity, by contrast, is what the creativity coach Jessica Abel calls ‘paying yourself first with time’: spending a little time on what matters to you most immediately, instead of waiting, because you understand that even thirty minutes spent Actually Doing the Thing today are more valuable than hundreds of purely hypothetical hours in the future.
+
+> There are three especially useful techniques to bear in mind here: Deal with a backlog by isolating it. If you’ve accumulated an unpleasant backlog of email or other small tasks, striving towards sanity might entail setting aside five whole days to do nothing but plow through all of it – which is unlikely to work, partly because you won’t maintain the motivation, and also because other tasks and messages will accumulate in the meantime, leaving you no less backlogged than before. Operating from sanity, when it comes to backlogs, means following the advice of the time management expert Mark Forster instead. First, sequester all those emails in a separate folder, or the tasks on a separate to-do list. (And just like that, your inbox is empty!) Thereafter, your priority isn’t to blast through the backlog, but to stay up to date on new incoming emails or tasks, so as to prevent another backlog developing. Chip away at the old one a little per day – or, if you think you can get away with it, just forget about it
+
+> Free up time by renegotiating existing commitments, not just planning to make fewer. If what stands between you and peace of mind is a whole lot of commitments you wish you’d never made, striving towards sanity would involve attempting to meet them all, while firmly resolving to make fewer new commitments from here on. (Spoiler alert: you’ll make just as many as before.) Operating from sanity, in this case, means biting the bullet and renegotiating some of the commitments that are already on your plate: backing out of projects, requesting deadline extensions, or canceling social plans, so as to reduce the real, current demands on your time, not just hypothetical demands on it later.
+
+> Treat your to-do list as a menu. In the striving-towards-sanity mindset, a to-do list is always something you’ve got to get to the end of before you’re allowed to relax. But in any context where there are more things that feel like they need doing than there’s time available in which to do them – which is the normal state of affairs, after all – a to-do list is by definition really a menu, a list of tasks to pick from, rather than to get through. And operating from sanity means treating it that way: starting with the acknowledgment that you won’t complete everything you might wish, then making your selections from the menu.
+
+> DAY TWENTY-FOUR Scruffy hospitality On finding connection in the flaws
+
+> Scruffy hospitality means you’re not waiting for everything in your house to be in order before you host and serve friends in your home. Scruffy hospitality means you hunger more for good conversation and serving a simple meal of what you have, not what you don’t have. Scruffy hospitality means you’re more interested in quality conversation than in the impression your home or lawn makes.
+
+> DAY TWENTY-FIVE You can’t hoard life On letting the moments pass
+
+> Among spiritual traditions, Buddhism is uniquely insightful when it comes to this specific form of suffering – how we make ourselves more miserable than necessary, not just by railing against negative experiences we’re having, or craving experiences we aren’t having, but by trying too hard to hold on to good things that are happening exactly as we wanted them to.
+
+> Another version of the same phenomenon occurs when you reach the end of a day on which you’ve been unusually successful in getting your work done, or sticking to your fitness routine, but then instead of thinking ‘What a great day!’ and luxuriating in your achievement, you find yourself thinking: ‘Yes! Now that’s the kind of day I’m aiming for, and now it’s my job to make sure that this is merely the first of many such days to come!’ Congratulations: you turned a potential source of easy delight into a cause of further stress. In all these cases, in different ways, you’re tightening around the experience in order to try to get more out of it – an additional level of enjoyment, motivation for future triumphs, or something else. Yet the reality, so easy to grasp on an intellectual level, is that it’s detrimental to approach good experiences like this: they’re for living, not holding on to.
+
+> DAY TWENTY-SIX Inconceivable On the solace of doubt
+
+> When it comes to confronting the myriad problems large and small that life throws at us, we have a standard operating procedure for how we try to respond, one so fundamental it can be hard to perceive that it even is a procedure, or that there might be any alternative. It goes like this: first, you try to work out exactly what the hell is going on. Then and only then, once you’re confident you’ve got a handle on the situation, you take action.
+
+> And when the strategy fails – when you can’t seem to wrap your mind around what’s happening to you, or in the wider world – the experience can be deeply disturbing. After all, it’s genuinely hard to relax into life when you don’t have a clue where your career might be headed, if your current relationship has a future, or what the rise of artificial intelligence might mean for your industry or for humanity’s survival.
+
+> What if ‘getting a handle on things’ in this way wasn’t always necessary, though? What if, in fact, it was an obstacle to a fuller experience of life?
+
+> Where could you take useful action on an important project, today, despite not really knowing how to proceed on it beyond that initial step? What issue in your life could you patch up – what relationship could you mend, what behavior could you alter – without fully grasping what went wrong in the first place? (Some people spend their whole lives trying to unpick the story of their childhoods, and sometimes it helps; but there’s often a compulsive quality to the puzzling-out, and it can be better to give it a rest.) Perhaps most radically of all, what additional satisfaction could you take in your life, what fun could you have, once you glimpse a truth that must have come intuitively to premodern people, which is that since life is so inherently confusing and precarious, then joy, if it’s ever to be found at all, is going to have to be found now, in the midst of the confusion and precariousness?
+
+> DAY TWENTY-SEVEN C’est fait par du monde On giving it a shot
+
+> the more willing you are wholeheartedly to acknowledge the hard limitations of human finitude, the easier it gets to do what others might dismiss as impossible. Once you stop struggling to get on top of everything, to stay in absolute control, or to make everything perfect, you’re rewarded with the time, energy and psychological freedom to accomplish the most of which anyone could be capable.
+
+> The lesson, to reiterate, isn’t that you ought to start a religion. It’s that if that old windbag can do so, you can probably have a go at launching any project about which you’ve been experiencing self-doubt – and that there’s no reason why you can’t be the one to make a fortune, or a long-lasting difference to the world, as a result. Likewise, if you’ve been thinking of making a radical change in your life – traveling the world in midlife, say, or educating your kids outside the school system – there’s a solid chance you can scrabble together the resources and figure out a way. You won’t feel like you know what you’re doing. But nobody ever does; that’s just how it is for finite humans, attempting new things. The main difference between those who accomplish great things anyway and those who don’t is that the former don’t mind not knowing. They were not less flawed or finite than you.
+
+> DAY TWENTY-EIGHT What matters On finding your way
+
+> I’m always taken aback by the relaxation that floods through me when I’m reminded of my almost complete lack of importance in the scheme of things. One might expect to find such reflections depressing or demotivating. But I experience them as liberating; my shoulders drop, and I’m able to exhale. The truth, as one spiritual teacher puts it, is that reality doesn’t need me to help operate it. It carries on fine regardless. Which is obvious – except that the level of stress we generally attach to our efforts to resolve our little problems would seem to imply otherwise.
+
+> nurture your relationships, pursue challenging goals, spend time in nature, and make room for fun. You knew that already. If following a list was all it took, we’d have solved the challenge of human happiness long ago.
+
+> This raises a troubling question, though. If nothing any of us does has any significance, provided you zoom out far enough, what’s the point of doing anything?
+
+> it simply need not follow, from our cosmic insignificance as individuals, that our actions don’t matter. The idea that things only count if they count on the vastest scale is one more expression of our discomfort with finitude: accepting that they might count only transiently, or locally, requires us to face our limitations and our mortality. And so to avoid that unpleasantness, as the philosopher Iddo Landau has explained, we gravitate towards an unnecessarily grandiose standard of what matters – then get demoralized when our achievements don’t make the grade. We feel pressured to do something extraordinary with our lives, or to an extraordinary standard of merit, or in a way that’s applauded by an extraordinary number of people – even though it’s true by definition that only a few people can ever be extraordinary in any given domain.
+
+> Why shouldn’t an anonymous career spent quietly helping a few people get to qualify as a meaningful way to spend one’s time? Why shouldn’t an absorbing conversation, an act of kindness, or an exhilarating hike get to count? Why adopt a definition that rules such things out?
+
+> The writer Charles Eisenstein tells the story of a friend, a prominent activist, who largely abandoned his public work to care for his 95-year-old mother-in-law. Eisenstein envisions the blowback he might have received from fellow activists: How could he justify that use of his time, with the world in such peril? I’ve seen similar arguments made by people who fear that artificial intelligence will eradicate humanity: if there’s even a modest chance that’s true, how could anyone spend their finite time on anything else? The answer has to be that sometimes you just know you’re doing something that matters. Far from using utilitarian calculations to try to squelch that felt sense, I think we have an obligation to it. It may embody more wisdom than our finite reasoning can grasp.
+
+> we’re fundamentally separate from the rest of reality.
+
+> On this account, we come into the world as solitary individuals, and it’s as solitary individuals, in the end, that we must address the challenge of using our time – even if we decide to prioritize relationships, political solidarity, or community-building. Yet, as the Zen philosopher Alan Watts liked to point out, it makes just as much sense to say that we come out of the world: that in the same way a tree blossoms, the universe ‘peoples.’ We are expressions of it. Our very being is inseparable from our context, or as Thich Nhat Hanh puts it, we ‘inter-are’; my existence would be wholly impossible without countless people and things I standardly think of as separate from myself. Perhaps the ultimate expression of our finitude is the fact that we are irrevocably of the world, whether we like it or not. If so, then maybe our responsibility isn’t to get our arms around it, nor to justify ourselves before it, but to embody as completely as possible the momentary expression of it that we are. From this perspective, it makes no sense to judge your activities by the unreachable standards of a god, nor to fault yourself for having only a minuscule impact on the whole. There’s no reason to see ‘getting on top of things’ as the target of your endeavors in the first place – and still less to imagine that you might manage to obtain a sense of security regarding the crises engulfing the planet, which will doubtless continue to engulf it long after you’re gone. Instead, you get to pour yourself into tasks that matter for no other reason than that nothing could be more enlivening, or more true to the situation in which you find yourself. You get to proceed in the splendidly imperfectionist spirit of the eco-philosopher Derrick Jensen, who says: ‘The good thing about everything being so fucked up is that no matter where you look, there is great work to be done.’ You might easily never have been born, but fate granted you the opportunity to get stuck into the mess you see around you, whatever it is. You are here. This is it. You don’t much matter – yet you matter as much as anyone ever did. The river of time flows inexorably on; amazingly, confoundingly, marvelously, we get the brief chance to go kayaking in it.
+
+> The truth is that you’ll never be certain that an unmeetable challenge or regrettable choice isn’t just around the next corner, or that the projects I hope you’re newly energized to dig into will meet with success. The spiritual teacher Joan Tollifson calls our yearning for finality ‘the compulsion to closure,’ a sort of tic, eminently forgivable, but which the world can never satisfy – and which we might gradually therefore learn to relax, so as to more wholeheartedly take our place in, and as part of, the unending flow of reality.
+
+> if you’ve found this book in any way inspiring, you may be tempted, at this juncture, to resolve to make a fresh start, to declare that from today – or next week, once you’ve got various urgent business out of the way – you’ll do everything differently forever. This is an urge worth resisting: it’s a perfectionistic attitude towards imperfectionism, and a recipe for disappointment. Our limitations make fresh starts impossible: you are already here, in time, shaped by everything that came before this moment, and with whatever personality, resources and challenges you find yourself to have. Screwing up your willpower and insisting you’re leaving that all behind is unlikely to change much. On the other hand, more fully accepting that you are who you are, and where you are, might change a lot, by permitting you to abandon the dream of a fresh start and actually do one thing today that truly matters, and that makes life resonate once more.

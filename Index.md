@@ -1,49 +1,41 @@
----
-tags:
-- books
-- highlights
-title: Kindle Highlights Index
-type: index
----
-
 # Kindle Highlights
 
-**Books:** 18 **Clippings:** 907
+**Books:** 34  
+**Highlights:** 1672
 
-- [Feeling Great- The Revolutionary New Treatment for Depression and Anxiety](Feeling%20Great-%20The%20Revolutionary%20New%20Treatment%20for%20Depression%20and%20Anxiety.md)
-- [Heroes Die](Heroes%20Die.md)
-- [I May Be Wrong- And Other Wisdoms From Life as a Forest Monk](I%20May%20Be%20Wrong-%20And%20Other%20Wisdoms%20From%20Life%20as%20a%20Forest%20Monk.md)
-- [Keys to a Successful Retirement- Staying Happy, Active, and Productive in Your Retired Years](Keys%20to%20a%20Successful%20Retirement-%20Staying%20Happy,%20Active,%20and%20Productive%20in%20Your%20Retired%20Years.md)
-- [Love Satisfies](Love%20Satisfies.md)
--   \[\[Books/Mating in Captivity- Unlocking Erotic Intelligence\|Mating
-    in Captivity: Unlocking Erotic Intelligence\]\]
--   \[\[Books/Meditations for Mortals- Four Weeks to Embrace Your
-    Limitations and Make Time for What Counts\|Meditations for Mortals:
-    Four Weeks to Embrace Your Limitations and Make Time for What
-    Counts\]\]
--   \[\[Books/No More Mr. Nice Guy- A Proven Plan For Getting What You
-    Want In Love, Sex, And Life\|No More Mr. Nice Guy: A Proven Plan For
-    Getting What You Want In Love, Sex, And Life\]\]
--   \[\[Books/One Man's Wilderness\|One Man's Wilderness\]\]
--   \[\[Books/Pure Invention- How Japan's Pop Culture Conquered the
-    World\|Pure Invention: How Japan's Pop Culture Conquered the
-    World\]\]
--   \[\[Books/Success Through Stillness- Meditation Made Simple\|Success
-    Through Stillness: Meditation Made Simple\]\]
--   \[\[Books/The 5 Love Languages for Men- Tools for Marking a Good
-    Relationship Great\|The 5 Love Languages for Men: Tools for Marking
-    a Good Relationship Great\]\]
--   \[\[Books/The Art of Manliness - Manvotionals- Timeless Wisdom and
-    Advice on Living the 7 Manly Virtues\|The Art of Manliness -
-    Manvotionals: Timeless Wisdom and Advice on Living the 7 Manly
-    Virtues\]\]
--   \[\[Books/The Little Book of Safe Money- How to Conquer Killer
-    Markets, Con Artists, and Yourself\|The Little Book of Safe Money:
-    How to Conquer Killer Markets, Con Artists, and Yourself\]\]
--   \[\[Books/The Pathless Path\|The Pathless Path\]\]
--   \[\[Books/The Tao of Pooh\|The Tao of Pooh\]\]
--   \[\[Books/What Happens When You Get What You Want- Success and the
-    Challenge of Choice\|What Happens When You Get What You Want?
-    Success and the Challenge of Choice\]\]
--   \[\[Books/You Weren't Supposed to See That\|You Weren't Supposed to
-    See That\]\]
+## Books
+
+[Can You Solve the Murder?: An Interactive Crime Novel](Books/Can%20You%20Solve%20the%20Murder--%20An%20Interactive%20Crime%20Novel.md)
+[Conan: The Road of Kings](Books/Conan-%20The%20Road%20of%20Kings.md)
+[Cupid's Poisoned Arrow: From Habit to Harmony in Sexual Relationships](Books/Cupid%27s%20Poisoned%20Arrow-%20From%20Habit%20to%20Harmony%20in%20Sexual%20Relationships.md)
+[Desire: An Inclusive Guide to Navigating Libido Differences in Relationships](Books/Desire-%20An%20Inclusive%20Guide%20to%20Navigating%20Libido%20Differences%20in%20Relationships.md)
+[Eight Dates: Essential Conversations for a Lifetime of Love](Books/Eight%20Dates-%20Essential%20Conversations%20for%20a%20Lifetime%20of%20Love.md)
+[Espírito Shaolin: Os 12 Princípios Milenares Para Dominar Corpo e Mente](Books/Esp%C3%ADrito%20Shaolin-%20Os%2012%20Princ%C3%ADpios%20Milenares%20Para%20Dominar%20Corpo%20e%20Mente.md)
+[Exploring Depression, and Beating the Blues](Books/Exploring%20Depression%2C%20and%20Beating%20the%20Blues.md)
+[From Strength to Strength: Finding Success, Happiness, and Deep Purpose in the Second Half of Life](Books/From%20Strength%20to%20Strength-%20Finding%20Success%2C%20Happiness%2C%20and%20Deep%20Purpose%20in%20the%20Second%20Half%20of%20Life.md)
+[Heroes Die](Books/Heroes%20Die.md)
+[How to Talk So Kids Will Listen & Listen So Kids Will Talk](Books/How%20to%20Talk%20So%20Kids%20Will%20Listen%20%26%20Listen%20So%20Kids%20Will%20Talk.md)
+[I May Be Wrong: And Other Wisdoms From Life as a Forest Monk](Books/I%20May%20Be%20Wrong-%20And%20Other%20Wisdoms%20From%20Life%20as%20a%20Forest%20Monk.md)
+[Keys to a Successful Retirement: Staying Happy, Active, and Productive in Your Retired Years](Books/Keys%20to%20a%20Successful%20Retirement-%20Staying%20Happy%2C%20Active%2C%20and%20Productive%20in%20Your%20Retired%20Years.md)
+[Love Satisfies](Books/Love%20Satisfies.md)
+[Mating in Captivity: Unlocking Erotic Intelligence](Books/Mating%20in%20Captivity-%20Unlocking%20Erotic%20Intelligence.md)
+[Meditations for Mortals: Four Weeks to Embrace Your Limitations and Make Time for What Counts](Books/Meditations%20for%20Mortals-%20Four%20Weeks%20to%20Embrace%20Your%20Limitations%20and%20Make%20Time%20for%20What%20Counts.md)
+[No More Mr. Nice Guy: A Proven Plan For Getting What You Want In Love, Sex, And Life](Books/No%20More%20Mr.%20Nice%20Guy-%20A%20Proven%20Plan%20For%20Getting%20What%20You%20Want%20In%20Love%2C%20Sex%2C%20And%20Life.md)
+[One Man's Wilderness](Books/One%20Man%27s%20Wilderness.md)
+[Ravencry](Books/Ravencry.md)
+[Shocks, Crises, and False Alarms](Books/Shocks%2C%20Crises%2C%20and%20False%20Alarms.md)
+[Success Through Stillness: Meditation Made Simple](Books/Success%20Through%20Stillness-%20Meditation%20Made%20Simple.md)
+[The 5 Love Languages for Men: Tools for Marking a Good Relationship Great](Books/The%205%20Love%20Languages%20for%20Men-%20Tools%20for%20Marking%20a%20Good%20Relationship%20Great.md)
+[The Art of Manliness - Manvotionals: Timeless Wisdom and Advice on Living the 7 Manly Virtues](Books/The%20Art%20of%20Manliness%20-%20Manvotionals-%20Timeless%20Wisdom%20and%20Advice%20on%20Living%20the%207%20Manly%20Virtues.md)
+[The Art of Spending Money: Simple Choices for a Richer Life](Books/The%20Art%20of%20Spending%20Money-%20Simple%20Choices%20for%20a%20Richer%20Life.md)
+[The Dragonbone Chair](Books/The%20Dragonbone%20Chair.md)
+[The Little Book of Safe Money: How to Conquer Killer Markets, Con Artists, and Yourself](Books/The%20Little%20Book%20of%20Safe%20Money-%20How%20to%20Conquer%20Killer%20Markets%2C%20Con%20Artists%2C%20and%20Yourself.md)
+[The Tao of Pooh](Books/The%20Tao%20of%20Pooh.md)
+[The Willpower Instinct: How Self-Control Works, Why It Matters, and What You Can Do To Get More of It](Books/The%20Willpower%20Instinct-%20How%20Self-Control%20Works%2C%20Why%20It%20Matters%2C%20and%20What%20You%20Can%20Do%20To%20Get%20More%20of%20It.md)
+[What Happens When You Get What You Want? Success and the Challenge of Choice](Books/What%20Happens%20When%20You%20Get%20What%20You%20Want-%20Success%20and%20the%20Challenge%20of%20Choice.md)
+[You Can Just Do Things: The Power of Permissionless Action](Books/You%20Can%20Just%20Do%20Things-%20The%20Power%20of%20Permissionless%20Action.md)
+[You Weren't Supposed to See That](Books/You%20Weren%27t%20Supposed%20to%20See%20That.md)
+[﻿Feeling Great: The Revolutionary New Treatment for Depression and Anxiety](Books/%EF%BB%BFFeeling%20Great-%20The%20Revolutionary%20New%20Treatment%20for%20Depression%20and%20Anxiety.md)
+[﻿One Man's Wilderness](Books/%EF%BB%BFOne%20Man%27s%20Wilderness.md)
+[﻿Pure Invention: How Japan's Pop Culture Conquered the World](Books/%EF%BB%BFPure%20Invention-%20How%20Japan%27s%20Pop%20Culture%20Conquered%20the%20World.md)
+[﻿The Pathless Path](Books/%EF%BB%BFThe%20Pathless%20Path.md)

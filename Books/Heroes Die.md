@@ -1,10 +1,14 @@
 ---
-author: Matthew Woodring Stover
-tags:
-- books
-- highlights
-title: Heroes Die
+title: "Heroes Die"
+author: "Matthew Woodring Stover"
 type: book
+tags:
+  - books
+  - highlights
+keywords:
+  - "carriage"
+  - "inside"
+  - "wore"
 ---
 
 # Heroes Die
@@ -13,4 +17,4 @@ type: book
 
 ## Highlights
 
--   other men inside the carriage; they wore
+> other men inside the carriage; they wore
