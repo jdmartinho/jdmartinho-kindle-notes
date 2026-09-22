@@ -420,10 +420,14 @@ def safe_filename(title: str) -> str:
     """
     Produce a filesystem-safe Markdown filename.
 
-    We preserve normal punctuation such as '-' and ':' where possible.
+    Important:
+    - Never URL-encode here.
+    - Preserve normal punctuation such as commas, hyphens,
+      parentheses, apostrophes, and ampersands.
+    - URL encoding belongs only in markdown_link().
     """
 
-    filename = title.strip()
+    filename = normalize_title(title)
 
     # Characters that are problematic on common operating systems.
     filename = re.sub(r'[\\/:*?"<>|#^]', "-", filename)
@@ -436,7 +440,7 @@ def safe_filename(title: str) -> str:
 
     # Keep filenames manageable.
     if len(filename) > 180:
-        filename = filename[:180].rstrip()
+        filename = filename[:180].rstrip(". ")
 
     return filename
 
@@ -469,11 +473,15 @@ def extract_existing_highlights(path: Path) -> list[str]:
 
 def normalize_title(title: str) -> str:
     """
-    Normalize book titles for matching existing files.
+    Normalize titles for comparison.
+
+    This is used for matching books, not for changing filenames.
     """
 
     title = title.replace("\ufeff", "")
+    title = title.replace("\u00a0", " ")
     title = re.sub(r"\s+", " ", title)
+
     return title.strip()
 
 
@@ -504,14 +512,15 @@ def find_existing_book_file(
             flags=re.MULTILINE,
         )
 
-        if match:
+        if not match:
+            continue
 
-            existing_title = normalize_title(
-                match.group(1)
-            )
+        existing_title = normalize_title(
+            match.group(1)
+        )
 
-            if existing_title == title:
-                return path
+        if existing_title == title:
+            return path
 
     return None
 
@@ -830,11 +839,16 @@ def markdown_link(text: str, relative_path: str) -> str:
     """
     Create a normal Markdown link.
 
-    URL-encodes spaces and special characters in the target path while
-    leaving ordinary filename characters readable.
+    The actual filename on disk remains unchanged.
+    Only characters that need URL encoding are encoded in the link.
+
+    Commas, hyphens, parentheses, etc. are deliberately left readable.
     """
 
-    encoded_path = quote(relative_path, safe="/-_.()")
+    encoded_path = quote(
+        relative_path,
+        safe="/-_.(),"
+    )
 
     return f"[{text}]({encoded_path})"
 
